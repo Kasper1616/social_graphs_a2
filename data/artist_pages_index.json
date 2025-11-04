@@ -2,7 +2,7 @@
   {
     "input": "10cc",
     "title": "10cc",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\10cc.txt",
+    "file": "10cc.txt",
     "status": "skipped-existing",
     "label": "10cc",
     "display": "10cc"
@@ -10,7 +10,7 @@
   {
     "input": "10 Years (band)",
     "title": "10_Years_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\10_Years_(band).txt",
+    "file": "10_Years_(band).txt",
     "status": "skipped-existing",
     "label": "10 Years",
     "display": "10 Years"
@@ -18,7 +18,7 @@
   {
     "input": "3 Doors Down",
     "title": "3_Doors_Down",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\3_Doors_Down.txt",
+    "file": "3_Doors_Down.txt",
     "status": "skipped-existing",
     "label": "3 Doors Down",
     "display": "3 Doors Down"
@@ -26,7 +26,7 @@
   {
     "input": "311 (band)",
     "title": "311_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\311_(band).txt",
+    "file": "311_(band).txt",
     "status": "skipped-existing",
     "label": "311",
     "display": "311"
@@ -34,7 +34,7 @@
   {
     "input": "38 Special (band)",
     "title": "38_Special_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\38_Special_(band).txt",
+    "file": "38_Special_(band).txt",
     "status": "skipped-existing",
     "label": ".38 Special",
     "display": ".38 Special"
@@ -42,7 +42,7 @@
   {
     "input": "ABBA",
     "title": "ABBA",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\ABBA.txt",
+    "file": "ABBA.txt",
     "status": "skipped-existing",
     "label": "ABBA",
     "display": "ABBA"
@@ -50,7 +50,7 @@
   {
     "input": "Accept (band)",
     "title": "Accept_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Accept_(band).txt",
+    "file": "Accept_(band).txt",
     "status": "skipped-existing",
     "label": "Accept",
     "display": "Accept"
@@ -58,7 +58,7 @@
   {
     "input": "AC/DC",
     "title": "AC/DC",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\AC_DC.txt",
+    "file": "AC_DC.txt",
     "status": "skipped-existing",
     "label": "AC/DC",
     "display": "AC/DC"
@@ -66,7 +66,7 @@
   {
     "input": "Bryan Adams",
     "title": "Bryan_Adams",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bryan_Adams.txt",
+    "file": "Bryan_Adams.txt",
     "status": "skipped-existing",
     "label": "Bryan Adams",
     "display": "Bryan Adams"
@@ -74,7 +74,7 @@
   {
     "input": "Aerosmith",
     "title": "Aerosmith",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Aerosmith.txt",
+    "file": "Aerosmith.txt",
     "status": "skipped-existing",
     "label": "Aerosmith",
     "display": "Aerosmith"
@@ -82,7 +82,7 @@
   {
     "input": "AFI (band)",
     "title": "AFI_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\AFI_(band).txt",
+    "file": "AFI_(band).txt",
     "status": "skipped-existing",
     "label": "AFI",
     "display": "AFI"
@@ -90,7 +90,7 @@
   {
     "input": "Air Supply",
     "title": "Air_Supply",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Air_Supply.txt",
+    "file": "Air_Supply.txt",
     "status": "skipped-existing",
     "label": "Air Supply",
     "display": "Air Supply"
@@ -98,7 +98,7 @@
   {
     "input": "The Alan Parsons Project",
     "title": "The_Alan_Parsons_Project",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Alan_Parsons_Project.txt",
+    "file": "The_Alan_Parsons_Project.txt",
     "status": "skipped-existing",
     "label": "The Alan Parsons Project",
     "display": "The Alan Parsons Project"
@@ -106,7 +106,7 @@
   {
     "input": "Alice in Chains",
     "title": "Alice_in_Chains",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Alice_in_Chains.txt",
+    "file": "Alice_in_Chains.txt",
     "status": "skipped-existing",
     "label": "Alice in Chains",
     "display": "Alice in Chains"
@@ -114,7 +114,7 @@
   {
     "input": "The All-American Rejects",
     "title": "The_All-American_Rejects",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_All-American_Rejects.txt",
+    "file": "The_All-American_Rejects.txt",
     "status": "skipped-existing",
     "label": "The All-American Rejects",
     "display": "The All-American Rejects"
@@ -122,7 +122,7 @@
   {
     "input": "The Allman Brothers Band",
     "title": "The_Allman_Brothers_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Allman_Brothers_Band.txt",
+    "file": "The_Allman_Brothers_Band.txt",
     "status": "skipped-existing",
     "label": "The Allman Brothers Band",
     "display": "The Allman Brothers Band"
@@ -130,7 +130,7 @@
   {
     "input": "Alter Bridge",
     "title": "Alter_Bridge",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Alter_Bridge.txt",
+    "file": "Alter_Bridge.txt",
     "status": "skipped-existing",
     "label": "Alter Bridge",
     "display": "Alter Bridge"
@@ -138,7 +138,7 @@
   {
     "input": "Ambrosia (band)",
     "title": "Ambrosia_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ambrosia_(band).txt",
+    "file": "Ambrosia_(band).txt",
     "status": "skipped-existing",
     "label": "Ambrosia",
     "display": "Ambrosia"
@@ -146,7 +146,7 @@
   {
     "input": "America (band)",
     "title": "America_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\America_(band).txt",
+    "file": "America_(band).txt",
     "status": "skipped-existing",
     "label": "America",
     "display": "America"
@@ -154,7 +154,7 @@
   {
     "input": "The Animals",
     "title": "The_Animals",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Animals.txt",
+    "file": "The_Animals.txt",
     "status": "skipped-existing",
     "label": "The Animals",
     "display": "The Animals"
@@ -162,7 +162,7 @@
   {
     "input": "Adam Ant",
     "title": "Adam_Ant",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Adam_Ant.txt",
+    "file": "Adam_Ant.txt",
     "status": "skipped-existing",
     "label": "Adam Ant",
     "display": "Adam Ant"
@@ -170,7 +170,7 @@
   {
     "input": "Anthrax (American band)",
     "title": "Anthrax_(American_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Anthrax_(American_band).txt",
+    "file": "Anthrax_(American_band).txt",
     "status": "skipped-existing",
     "label": "Anthrax",
     "display": "Anthrax"
@@ -178,7 +178,7 @@
   {
     "input": "April Wine",
     "title": "April_Wine",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\April_Wine.txt",
+    "file": "April_Wine.txt",
     "status": "skipped-existing",
     "label": "April Wine",
     "display": "April Wine"
@@ -186,7 +186,7 @@
   {
     "input": "Arcade Fire",
     "title": "Arcade_Fire",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Arcade_Fire.txt",
+    "file": "Arcade_Fire.txt",
     "status": "skipped-existing",
     "label": "Arcade Fire",
     "display": "Arcade Fire"
@@ -194,7 +194,7 @@
   {
     "input": "Arctic Monkeys",
     "title": "Arctic_Monkeys",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Arctic_Monkeys.txt",
+    "file": "Arctic_Monkeys.txt",
     "status": "skipped-existing",
     "label": "Arctic Monkeys",
     "display": "Arctic Monkeys"
@@ -202,7 +202,7 @@
   {
     "input": "Asia (band)",
     "title": "Asia_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Asia_(band).txt",
+    "file": "Asia_(band).txt",
     "status": "skipped-existing",
     "label": "Asia",
     "display": "Asia"
@@ -210,7 +210,7 @@
   {
     "input": "Audioslave",
     "title": "Audioslave",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Audioslave.txt",
+    "file": "Audioslave.txt",
     "status": "skipped-existing",
     "label": "Audioslave",
     "display": "Audioslave"
@@ -218,7 +218,7 @@
   {
     "input": "Avenged Sevenfold",
     "title": "Avenged_Sevenfold",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Avenged_Sevenfold.txt",
+    "file": "Avenged_Sevenfold.txt",
     "status": "skipped-existing",
     "label": "Avenged Sevenfold",
     "display": "Avenged Sevenfold"
@@ -226,7 +226,7 @@
   {
     "input": "Awolnation",
     "title": "Awolnation",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Awolnation.txt",
+    "file": "Awolnation.txt",
     "status": "skipped-existing",
     "label": "Awolnation",
     "display": "Awolnation"
@@ -234,7 +234,7 @@
   {
     "input": "The B-52's",
     "title": "The_B-52's",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_B-52's.txt",
+    "file": "The_B-52's.txt",
     "status": "skipped-existing",
     "label": "The B-52s",
     "display": "The B-52s"
@@ -242,7 +242,7 @@
   {
     "input": "Bachman–Turner Overdrive",
     "title": "Bachman–Turner_Overdrive",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bachman_Turner_Overdrive.txt",
+    "file": "Bachman_Turner_Overdrive.txt",
     "status": "skipped-existing",
     "label": "Bachman–Turner Overdrive",
     "display": "Bachman–Turner Overdrive"
@@ -250,7 +250,7 @@
   {
     "input": "Bad Company",
     "title": "Bad_Company",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bad_Company.txt",
+    "file": "Bad_Company.txt",
     "status": "skipped-existing",
     "label": "Bad Company",
     "display": "Bad Company"
@@ -258,7 +258,7 @@
   {
     "input": "Badfinger",
     "title": "Badfinger",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Badfinger.txt",
+    "file": "Badfinger.txt",
     "status": "skipped-existing",
     "label": "Badfinger",
     "display": "Badfinger"
@@ -266,7 +266,7 @@
   {
     "input": "The Band",
     "title": "The_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Band.txt",
+    "file": "The_Band.txt",
     "status": "skipped-existing",
     "label": "The Band",
     "display": "The Band"
@@ -274,7 +274,7 @@
   {
     "input": "The Bangles",
     "title": "The_Bangles",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Bangles.txt",
+    "file": "The_Bangles.txt",
     "status": "skipped-existing",
     "label": "The Bangles",
     "display": "The Bangles"
@@ -282,7 +282,7 @@
   {
     "input": "Barenaked Ladies",
     "title": "Barenaked_Ladies",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Barenaked_Ladies.txt",
+    "file": "Barenaked_Ladies.txt",
     "status": "skipped-existing",
     "label": "Barenaked Ladies",
     "display": "Barenaked Ladies"
@@ -290,7 +290,7 @@
   {
     "input": "Bay City Rollers",
     "title": "Bay_City_Rollers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bay_City_Rollers.txt",
+    "file": "Bay_City_Rollers.txt",
     "status": "skipped-existing",
     "label": "Bay City Rollers",
     "display": "Bay City Rollers"
@@ -298,7 +298,7 @@
   {
     "input": "The Beach Boys",
     "title": "The_Beach_Boys",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Beach_Boys.txt",
+    "file": "The_Beach_Boys.txt",
     "status": "skipped-existing",
     "label": "The Beach Boys",
     "display": "The Beach Boys"
@@ -306,7 +306,7 @@
   {
     "input": "Beastie Boys",
     "title": "Beastie_Boys",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Beastie_Boys.txt",
+    "file": "Beastie_Boys.txt",
     "status": "skipped-existing",
     "label": "Beastie Boys",
     "display": "Beastie Boys"
@@ -314,7 +314,7 @@
   {
     "input": "The Beatles",
     "title": "The_Beatles",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Beatles.txt",
+    "file": "The_Beatles.txt",
     "status": "skipped-existing",
     "label": "The Beatles",
     "display": "The Beatles"
@@ -322,7 +322,7 @@
   {
     "input": "Bee Gees",
     "title": "Bee_Gees",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bee_Gees.txt",
+    "file": "Bee_Gees.txt",
     "status": "skipped-existing",
     "label": "Bee Gees",
     "display": "Bee Gees"
@@ -330,7 +330,7 @@
   {
     "input": "Beck",
     "title": "Beck",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Beck.txt",
+    "file": "Beck.txt",
     "status": "skipped-existing",
     "label": "Beck",
     "display": "Beck"
@@ -338,7 +338,7 @@
   {
     "input": "Ben Folds Five",
     "title": "Ben_Folds_Five",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ben_Folds_Five.txt",
+    "file": "Ben_Folds_Five.txt",
     "status": "skipped-existing",
     "label": "Ben Folds Five",
     "display": "Ben Folds Five"
@@ -346,7 +346,7 @@
   {
     "input": "Pat Benatar",
     "title": "Pat_Benatar",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Pat_Benatar.txt",
+    "file": "Pat_Benatar.txt",
     "status": "skipped-existing",
     "label": "Pat Benatar",
     "display": "Pat Benatar"
@@ -354,7 +354,7 @@
   {
     "input": "Chuck Berry",
     "title": "Chuck_Berry",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chuck_Berry.txt",
+    "file": "Chuck_Berry.txt",
     "status": "skipped-existing",
     "label": "Chuck Berry",
     "display": "Chuck Berry"
@@ -362,7 +362,7 @@
   {
     "input": "The Big Bopper",
     "title": "The_Big_Bopper",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Big_Bopper.txt",
+    "file": "The_Big_Bopper.txt",
     "status": "skipped-existing",
     "label": "The Big Bopper",
     "display": "The Big Bopper"
@@ -370,7 +370,7 @@
   {
     "input": "Billy Talent",
     "title": "Billy_Talent",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Billy_Talent.txt",
+    "file": "Billy_Talent.txt",
     "status": "skipped-existing",
     "label": "Billy Talent",
     "display": "Billy Talent"
@@ -378,7 +378,7 @@
   {
     "input": "The Black Crowes",
     "title": "The_Black_Crowes",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Black_Crowes.txt",
+    "file": "The_Black_Crowes.txt",
     "status": "skipped-existing",
     "label": "The Black Crowes",
     "display": "The Black Crowes"
@@ -386,7 +386,7 @@
   {
     "input": "The Black Keys",
     "title": "The_Black_Keys",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Black_Keys.txt",
+    "file": "The_Black_Keys.txt",
     "status": "skipped-existing",
     "label": "The Black Keys",
     "display": "The Black Keys"
@@ -394,7 +394,7 @@
   {
     "input": "Black Sabbath",
     "title": "Black_Sabbath",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Black_Sabbath.txt",
+    "file": "Black_Sabbath.txt",
     "status": "skipped-existing",
     "label": "Black Sabbath",
     "display": "Black Sabbath"
@@ -402,7 +402,7 @@
   {
     "input": "Black Stone Cherry",
     "title": "Black_Stone_Cherry",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Black_Stone_Cherry.txt",
+    "file": "Black_Stone_Cherry.txt",
     "status": "skipped-existing",
     "label": "Black Stone Cherry",
     "display": "Black Stone Cherry"
@@ -410,7 +410,7 @@
   {
     "input": "Black Veil Brides",
     "title": "Black_Veil_Brides",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Black_Veil_Brides.txt",
+    "file": "Black_Veil_Brides.txt",
     "status": "skipped-existing",
     "label": "Black Veil Brides",
     "display": "Black Veil Brides"
@@ -418,7 +418,7 @@
   {
     "input": "Blink-182",
     "title": "Blink-182",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Blink-182.txt",
+    "file": "Blink-182.txt",
     "status": "skipped-existing",
     "label": "Blink-182",
     "display": "Blink-182"
@@ -426,7 +426,7 @@
   {
     "input": "Blondie (band)",
     "title": "Blondie_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Blondie_(band).txt",
+    "file": "Blondie_(band).txt",
     "status": "skipped-existing",
     "label": "Blondie",
     "display": "Blondie (band)"
@@ -434,7 +434,7 @@
   {
     "input": "Bloodhound Gang",
     "title": "Bloodhound_Gang",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bloodhound_Gang.txt",
+    "file": "Bloodhound_Gang.txt",
     "status": "skipped-existing",
     "label": "Bloodhound Gang",
     "display": "Bloodhound Gang"
@@ -442,7 +442,7 @@
   {
     "input": "Blue October",
     "title": "Blue_October",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Blue_October.txt",
+    "file": "Blue_October.txt",
     "status": "skipped-existing",
     "label": "Blue October",
     "display": "Blue October"
@@ -450,7 +450,7 @@
   {
     "input": "Blue Öyster Cult",
     "title": "Blue_Öyster_Cult",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Blue_Öyster_Cult.txt",
+    "file": "Blue_Öyster_Cult.txt",
     "status": "skipped-existing",
     "label": "Blue Öyster Cult",
     "display": "Blue Öyster Cult"
@@ -458,7 +458,7 @@
   {
     "input": "Blues Traveler",
     "title": "Blues_Traveler",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Blues_Traveler.txt",
+    "file": "Blues_Traveler.txt",
     "status": "skipped-existing",
     "label": "Blues Traveler",
     "display": "Blues Traveler"
@@ -466,7 +466,7 @@
   {
     "input": "James Blunt",
     "title": "James_Blunt",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\James_Blunt.txt",
+    "file": "James_Blunt.txt",
     "status": "skipped-existing",
     "label": "James Blunt",
     "display": "James Blunt"
@@ -474,7 +474,7 @@
   {
     "input": "Blur (band)",
     "title": "Blur_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Blur_(band).txt",
+    "file": "Blur_(band).txt",
     "status": "skipped-existing",
     "label": "Blur",
     "display": "Blur"
@@ -482,7 +482,7 @@
   {
     "input": "Bon Jovi",
     "title": "Bon_Jovi",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bon_Jovi.txt",
+    "file": "Bon_Jovi.txt",
     "status": "skipped-existing",
     "label": "Bon Jovi",
     "display": "Bon Jovi"
@@ -490,7 +490,7 @@
   {
     "input": "Boston (band)",
     "title": "Boston_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Boston_(band).txt",
+    "file": "Boston_(band).txt",
     "status": "skipped-existing",
     "label": "Boston",
     "display": "Boston"
@@ -498,7 +498,7 @@
   {
     "input": "David Bowie",
     "title": "David_Bowie",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\David_Bowie.txt",
+    "file": "David_Bowie.txt",
     "status": "skipped-existing",
     "label": "David Bowie",
     "display": "David Bowie"
@@ -506,7 +506,7 @@
   {
     "input": "Bowling for Soup",
     "title": "Bowling_for_Soup",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bowling_for_Soup.txt",
+    "file": "Bowling_for_Soup.txt",
     "status": "skipped-existing",
     "label": "Bowling for Soup",
     "display": "Bowling for Soup"
@@ -514,7 +514,7 @@
   {
     "input": "The Boxtones",
     "title": "The_Boxtones",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Boxtones.txt",
+    "file": "The_Boxtones.txt",
     "status": "skipped-existing",
     "label": "The Boxtones",
     "display": "The Boxtones"
@@ -522,7 +522,7 @@
   {
     "input": "Boys Like Girls",
     "title": "Boys_Like_Girls",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Boys_Like_Girls.txt",
+    "file": "Boys_Like_Girls.txt",
     "status": "skipped-existing",
     "label": "Boys Like Girls",
     "display": "Boys Like Girls"
@@ -530,7 +530,7 @@
   {
     "input": "Bread (band)",
     "title": "Bread_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bread_(band).txt",
+    "file": "Bread_(band).txt",
     "status": "skipped-existing",
     "label": "Bread",
     "display": "Bread"
@@ -538,7 +538,7 @@
   {
     "input": "Breaking Benjamin",
     "title": "Breaking_Benjamin",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Breaking_Benjamin.txt",
+    "file": "Breaking_Benjamin.txt",
     "status": "skipped-existing",
     "label": "Breaking Benjamin",
     "display": "Breaking Benjamin"
@@ -546,7 +546,7 @@
   {
     "input": "Bring Me the Horizon",
     "title": "Bring_Me_the_Horizon",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bring_Me_the_Horizon.txt",
+    "file": "Bring_Me_the_Horizon.txt",
     "status": "skipped-existing",
     "label": "Bring Me the Horizon",
     "display": "Bring Me the Horizon"
@@ -554,7 +554,7 @@
   {
     "input": "Jackson Browne",
     "title": "Jackson_Browne",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jackson_Browne.txt",
+    "file": "Jackson_Browne.txt",
     "status": "skipped-existing",
     "label": "Jackson Browne",
     "display": "Jackson Browne"
@@ -562,7 +562,7 @@
   {
     "input": "Buckcherry",
     "title": "Buckcherry",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Buckcherry.txt",
+    "file": "Buckcherry.txt",
     "status": "skipped-existing",
     "label": "Buckcherry",
     "display": "Buckcherry"
@@ -570,7 +570,7 @@
   {
     "input": "Jeff Buckley",
     "title": "Jeff_Buckley",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jeff_Buckley.txt",
+    "file": "Jeff_Buckley.txt",
     "status": "skipped-existing",
     "label": "Jeff Buckley",
     "display": "Jeff Buckley"
@@ -578,7 +578,7 @@
   {
     "input": "Bullet for My Valentine",
     "title": "Bullet_for_My_Valentine",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bullet_for_My_Valentine.txt",
+    "file": "Bullet_for_My_Valentine.txt",
     "status": "skipped-existing",
     "label": "Bullet for My Valentine",
     "display": "Bullet for My Valentine"
@@ -586,7 +586,7 @@
   {
     "input": "Chris de Burgh",
     "title": "Chris_de_Burgh",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chris_de_Burgh.txt",
+    "file": "Chris_de_Burgh.txt",
     "status": "skipped-existing",
     "label": "Chris de Burgh",
     "display": "Chris de Burgh"
@@ -594,7 +594,7 @@
   {
     "input": "Bush (British band)",
     "title": "Bush_(British_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bush_(British_band).txt",
+    "file": "Bush_(British_band).txt",
     "status": "skipped-existing",
     "label": "Bush",
     "display": "Bush"
@@ -602,7 +602,7 @@
   {
     "input": "The Byrds",
     "title": "The_Byrds",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Byrds.txt",
+    "file": "The_Byrds.txt",
     "status": "skipped-existing",
     "label": "The Byrds",
     "display": "The Byrds"
@@ -610,7 +610,7 @@
   {
     "input": "Cage the Elephant",
     "title": "Cage_the_Elephant",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Cage_the_Elephant.txt",
+    "file": "Cage_the_Elephant.txt",
     "status": "skipped-existing",
     "label": "Cage the Elephant",
     "display": "Cage the Elephant"
@@ -618,7 +618,7 @@
   {
     "input": "Cake (band)",
     "title": "Cake_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Cake_(band).txt",
+    "file": "Cake_(band).txt",
     "status": "skipped-existing",
     "label": "Cake",
     "display": "Cake"
@@ -626,7 +626,7 @@
   {
     "input": "Canned Heat",
     "title": "Canned_Heat",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Canned_Heat.txt",
+    "file": "Canned_Heat.txt",
     "status": "skipped-existing",
     "label": "Canned Heat",
     "display": "Canned Heat"
@@ -634,7 +634,7 @@
   {
     "input": "The Cab",
     "title": "The_Cab",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Cab.txt",
+    "file": "The_Cab.txt",
     "status": "skipped-existing",
     "label": "The Cab",
     "display": "The Cab"
@@ -642,7 +642,7 @@
   {
     "input": "The Cardigans",
     "title": "The_Cardigans",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Cardigans.txt",
+    "file": "The_Cardigans.txt",
     "status": "skipped-existing",
     "label": "The Cardigans",
     "display": "The Cardigans"
@@ -650,7 +650,7 @@
   {
     "input": "The Cars",
     "title": "The_Cars",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Cars.txt",
+    "file": "The_Cars.txt",
     "status": "skipped-existing",
     "label": "The Cars",
     "display": "The Cars"
@@ -658,7 +658,7 @@
   {
     "input": "Catfish and the Bottlemen",
     "title": "Catfish_and_the_Bottlemen",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Catfish_and_the_Bottlemen.txt",
+    "file": "Catfish_and_the_Bottlemen.txt",
     "status": "skipped-existing",
     "label": "Catfish and the Bottlemen",
     "display": "Catfish and the Bottlemen"
@@ -666,7 +666,7 @@
   {
     "input": "Harry Chapin",
     "title": "Harry_Chapin",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Harry_Chapin.txt",
+    "file": "Harry_Chapin.txt",
     "status": "skipped-existing",
     "label": "Harry Chapin",
     "display": "Harry Chapin"
@@ -674,7 +674,7 @@
   {
     "input": "Tracy Chapman",
     "title": "Tracy_Chapman",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tracy_Chapman.txt",
+    "file": "Tracy_Chapman.txt",
     "status": "skipped-existing",
     "label": "Tracy Chapman",
     "display": "Tracy Chapman"
@@ -682,7 +682,7 @@
   {
     "input": "Cheap Trick",
     "title": "Cheap_Trick",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Cheap_Trick.txt",
+    "file": "Cheap_Trick.txt",
     "status": "skipped-existing",
     "label": "Cheap Trick",
     "display": "Cheap Trick"
@@ -690,7 +690,7 @@
   {
     "input": "Chevelle (band)",
     "title": "Chevelle_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chevelle_(band).txt",
+    "file": "Chevelle_(band).txt",
     "status": "skipped-existing",
     "label": "Chevelle",
     "display": "Chevelle"
@@ -698,7 +698,7 @@
   {
     "input": "Chicago (band)",
     "title": "Chicago_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chicago_(band).txt",
+    "file": "Chicago_(band).txt",
     "status": "skipped-existing",
     "label": "Chicago",
     "display": "Chicago"
@@ -706,7 +706,7 @@
   {
     "input": "Chubby Checker",
     "title": "Chubby_Checker",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chubby_Checker.txt",
+    "file": "Chubby_Checker.txt",
     "status": "skipped-existing",
     "label": "Chubby Checker",
     "display": "Chubby Checker"
@@ -714,7 +714,7 @@
   {
     "input": "Cinderella (band)",
     "title": "Cinderella_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Cinderella_(band).txt",
+    "file": "Cinderella_(band).txt",
     "status": "skipped-existing",
     "label": "Cinderella",
     "display": "Cinderella"
@@ -722,7 +722,7 @@
   {
     "input": "Dallas Green (musician)",
     "title": "Dallas_Green_(musician)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dallas_Green_(musician).txt",
+    "file": "Dallas_Green_(musician).txt",
     "status": "skipped-existing",
     "label": "City and Colour",
     "display": "City and Colour"
@@ -730,7 +730,7 @@
   {
     "input": "Eric Clapton",
     "title": "Eric_Clapton",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Eric_Clapton.txt",
+    "file": "Eric_Clapton.txt",
     "status": "skipped-existing",
     "label": "Eric Clapton",
     "display": "Eric Clapton"
@@ -738,7 +738,7 @@
   {
     "input": "The Clash",
     "title": "The_Clash",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Clash.txt",
+    "file": "The_Clash.txt",
     "status": "skipped-existing",
     "label": "The Clash",
     "display": "The Clash"
@@ -746,7 +746,7 @@
   {
     "input": "Eddie Cochran",
     "title": "Eddie_Cochran",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Eddie_Cochran.txt",
+    "file": "Eddie_Cochran.txt",
     "status": "skipped-existing",
     "label": "Eddie Cochran",
     "display": "Eddie Cochran"
@@ -754,7 +754,7 @@
   {
     "input": "Joe Cocker",
     "title": "Joe_Cocker",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Joe_Cocker.txt",
+    "file": "Joe_Cocker.txt",
     "status": "skipped-existing",
     "label": "Joe Cocker",
     "display": "Joe Cocker"
@@ -762,7 +762,7 @@
   {
     "input": "Coheed and Cambria",
     "title": "Coheed_and_Cambria",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Coheed_and_Cambria.txt",
+    "file": "Coheed_and_Cambria.txt",
     "status": "skipped-existing",
     "label": "Coheed and Cambria",
     "display": "Coheed and Cambria"
@@ -770,7 +770,7 @@
   {
     "input": "Cold Chisel",
     "title": "Cold_Chisel",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Cold_Chisel.txt",
+    "file": "Cold_Chisel.txt",
     "status": "skipped-existing",
     "label": "Cold Chisel",
     "display": "Cold Chisel"
@@ -778,7 +778,7 @@
   {
     "input": "Coldplay",
     "title": "Coldplay",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Coldplay.txt",
+    "file": "Coldplay.txt",
     "status": "skipped-existing",
     "label": "Coldplay",
     "display": "Coldplay"
@@ -786,7 +786,7 @@
   {
     "input": "Collective Soul",
     "title": "Collective_Soul",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Collective_Soul.txt",
+    "file": "Collective_Soul.txt",
     "status": "skipped-existing",
     "label": "Collective Soul",
     "display": "Collective Soul"
@@ -794,7 +794,7 @@
   {
     "input": "Phil Collins",
     "title": "Phil_Collins",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Phil_Collins.txt",
+    "file": "Phil_Collins.txt",
     "status": "skipped-existing",
     "label": "Phil Collins",
     "display": "Phil Collins"
@@ -802,7 +802,7 @@
   {
     "input": "Alice Cooper",
     "title": "Alice_Cooper",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Alice_Cooper.txt",
+    "file": "Alice_Cooper.txt",
     "status": "skipped-existing",
     "label": "Alice Cooper",
     "display": "Alice Cooper"
@@ -810,7 +810,7 @@
   {
     "input": "Alice Cooper (band)",
     "title": "Alice_Cooper_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Alice_Cooper_(band).txt",
+    "file": "Alice_Cooper_(band).txt",
     "status": "skipped-existing",
     "label": "Alice Cooper",
     "display": "Alice Cooper (band)"
@@ -818,7 +818,7 @@
   {
     "input": "Chris Cornell",
     "title": "Chris_Cornell",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chris_Cornell.txt",
+    "file": "Chris_Cornell.txt",
     "status": "skipped-existing",
     "label": "Chris Cornell",
     "display": "Chris Cornell"
@@ -826,7 +826,7 @@
   {
     "input": "Elvis Costello",
     "title": "Elvis_Costello",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Elvis_Costello.txt",
+    "file": "Elvis_Costello.txt",
     "status": "skipped-existing",
     "label": "Elvis Costello",
     "display": "Elvis Costello"
@@ -834,7 +834,7 @@
   {
     "input": "Counting Crows",
     "title": "Counting_Crows",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Counting_Crows.txt",
+    "file": "Counting_Crows.txt",
     "status": "skipped-existing",
     "label": "Counting Crows",
     "display": "Counting Crows"
@@ -842,7 +842,7 @@
   {
     "input": "The Cranberries",
     "title": "The_Cranberries",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Cranberries.txt",
+    "file": "The_Cranberries.txt",
     "status": "skipped-existing",
     "label": "The Cranberries",
     "display": "The Cranberries"
@@ -850,7 +850,7 @@
   {
     "input": "Crash Test Dummies",
     "title": "Crash_Test_Dummies",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Crash_Test_Dummies.txt",
+    "file": "Crash_Test_Dummies.txt",
     "status": "skipped-existing",
     "label": "Crash Test Dummies",
     "display": "Crash Test Dummies"
@@ -858,7 +858,7 @@
   {
     "input": "Cream (band)",
     "title": "Cream_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Cream_(band).txt",
+    "file": "Cream_(band).txt",
     "status": "skipped-existing",
     "label": "Cream",
     "display": "Cream"
@@ -866,7 +866,7 @@
   {
     "input": "Creed (band)",
     "title": "Creed_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Creed_(band).txt",
+    "file": "Creed_(band).txt",
     "status": "skipped-existing",
     "label": "Creed",
     "display": "Creed"
@@ -874,7 +874,7 @@
   {
     "input": "Creedence Clearwater Revival",
     "title": "Creedence_Clearwater_Revival",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Creedence_Clearwater_Revival.txt",
+    "file": "Creedence_Clearwater_Revival.txt",
     "status": "skipped-existing",
     "label": "Creedence Clearwater Revival",
     "display": "Creedence Clearwater Revival"
@@ -882,7 +882,7 @@
   {
     "input": "Jim Croce",
     "title": "Jim_Croce",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jim_Croce.txt",
+    "file": "Jim_Croce.txt",
     "status": "skipped-existing",
     "label": "Jim Croce",
     "display": "Jim Croce"
@@ -890,7 +890,7 @@
   {
     "input": "Crosby, Stills, Nash & Young",
     "title": "Crosby,_Stills,_Nash_&_Young",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Crosby__Stills__Nash_&_Young.txt",
+    "file": "Crosby__Stills__Nash_&_Young.txt",
     "status": "skipped-existing",
     "label": "Crosby, Stills, Nash & Young",
     "display": "Crosby, Stills, Nash & Young"
@@ -898,7 +898,7 @@
   {
     "input": "Christopher Cross",
     "title": "Christopher_Cross",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Christopher_Cross.txt",
+    "file": "Christopher_Cross.txt",
     "status": "skipped-existing",
     "label": "Christopher Cross",
     "display": "Christopher Cross"
@@ -906,7 +906,7 @@
   {
     "input": "Sheryl Crow",
     "title": "Sheryl_Crow",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sheryl_Crow.txt",
+    "file": "Sheryl_Crow.txt",
     "status": "skipped-existing",
     "label": "Sheryl Crow",
     "display": "Sheryl Crow"
@@ -914,7 +914,7 @@
   {
     "input": "Crowded House",
     "title": "Crowded_House",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Crowded_House.txt",
+    "file": "Crowded_House.txt",
     "status": "skipped-existing",
     "label": "Crowded House",
     "display": "Crowded House"
@@ -922,7 +922,7 @@
   {
     "input": "The Cult",
     "title": "The_Cult",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Cult.txt",
+    "file": "The_Cult.txt",
     "status": "skipped-existing",
     "label": "The Cult",
     "display": "The Cult"
@@ -930,7 +930,7 @@
   {
     "input": "The Cure",
     "title": "The_Cure",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Cure.txt",
+    "file": "The_Cure.txt",
     "status": "skipped-existing",
     "label": "The Cure",
     "display": "The Cure"
@@ -938,7 +938,7 @@
   {
     "input": "Damn Yankees (band)",
     "title": "Damn_Yankees_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Damn_Yankees_(band).txt",
+    "file": "Damn_Yankees_(band).txt",
     "status": "skipped-existing",
     "label": "Damn Yankees",
     "display": "Damn Yankees"
@@ -946,7 +946,7 @@
   {
     "input": "Charlie Daniels",
     "title": "Charlie_Daniels",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Charlie_Daniels.txt",
+    "file": "Charlie_Daniels.txt",
     "status": "skipped-existing",
     "label": "Charlie Daniels",
     "display": "Charlie Daniels"
@@ -954,7 +954,7 @@
   {
     "input": "Dashboard Confessional",
     "title": "Dashboard_Confessional",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dashboard_Confessional.txt",
+    "file": "Dashboard_Confessional.txt",
     "status": "skipped-existing",
     "label": "Dashboard Confessional",
     "display": "Dashboard Confessional"
@@ -962,7 +962,7 @@
   {
     "input": "Daughtry (band)",
     "title": "Daughtry_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Daughtry_(band).txt",
+    "file": "Daughtry_(band).txt",
     "status": "skipped-existing",
     "label": "Daughtry",
     "display": "Daughtry"
@@ -970,7 +970,7 @@
   {
     "input": "The Dave Clark Five",
     "title": "The_Dave_Clark_Five",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Dave_Clark_Five.txt",
+    "file": "The_Dave_Clark_Five.txt",
     "status": "skipped-existing",
     "label": "The Dave Clark Five",
     "display": "The Dave Clark Five"
@@ -978,7 +978,7 @@
   {
     "input": "Dave Matthews Band",
     "title": "Dave_Matthews_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dave_Matthews_Band.txt",
+    "file": "Dave_Matthews_Band.txt",
     "status": "skipped-existing",
     "label": "Dave Matthews Band",
     "display": "Dave Matthews Band"
@@ -986,7 +986,7 @@
   {
     "input": "Days of the New",
     "title": "Days_of_the_New",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Days_of_the_New.txt",
+    "file": "Days_of_the_New.txt",
     "status": "skipped-existing",
     "label": "Days of the New",
     "display": "Days of the New"
@@ -994,7 +994,7 @@
   {
     "input": "Death Cab for Cutie",
     "title": "Death_Cab_for_Cutie",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Death_Cab_for_Cutie.txt",
+    "file": "Death_Cab_for_Cutie.txt",
     "status": "skipped-existing",
     "label": "Death Cab for Cutie",
     "display": "Death Cab for Cutie"
@@ -1002,7 +1002,7 @@
   {
     "input": "Deep Purple",
     "title": "Deep_Purple",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Deep_Purple.txt",
+    "file": "Deep_Purple.txt",
     "status": "skipped-existing",
     "label": "Deep Purple",
     "display": "Deep Purple"
@@ -1010,7 +1010,7 @@
   {
     "input": "Def Leppard",
     "title": "Def_Leppard",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Def_Leppard.txt",
+    "file": "Def_Leppard.txt",
     "status": "skipped-existing",
     "label": "Def Leppard",
     "display": "Def Leppard"
@@ -1018,7 +1018,7 @@
   {
     "input": "Deftones",
     "title": "Deftones",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Deftones.txt",
+    "file": "Deftones.txt",
     "status": "skipped-existing",
     "label": "Deftones",
     "display": "Deftones"
@@ -1026,7 +1026,7 @@
   {
     "input": "Depeche Mode",
     "title": "Depeche_Mode",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Depeche_Mode.txt",
+    "file": "Depeche_Mode.txt",
     "status": "skipped-existing",
     "label": "Depeche Mode",
     "display": "Depeche Mode"
@@ -1034,7 +1034,7 @@
   {
     "input": "Bo Diddley",
     "title": "Bo_Diddley",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bo_Diddley.txt",
+    "file": "Bo_Diddley.txt",
     "status": "skipped-existing",
     "label": "Bo Diddley",
     "display": "Bo Diddley"
@@ -1042,7 +1042,7 @@
   {
     "input": "Dio (band)",
     "title": "Dio_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dio_(band).txt",
+    "file": "Dio_(band).txt",
     "status": "skipped-existing",
     "label": "Dio",
     "display": "Dio"
@@ -1050,7 +1050,7 @@
   {
     "input": "Dire Straits",
     "title": "Dire_Straits",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dire_Straits.txt",
+    "file": "Dire_Straits.txt",
     "status": "skipped-existing",
     "label": "Dire Straits",
     "display": "Dire Straits"
@@ -1058,7 +1058,7 @@
   {
     "input": "Disturbed (band)",
     "title": "Disturbed_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Disturbed_(band).txt",
+    "file": "Disturbed_(band).txt",
     "status": "skipped-existing",
     "label": "Disturbed",
     "display": "Disturbed"
@@ -1066,7 +1066,7 @@
   {
     "input": "Fats Domino",
     "title": "Fats_Domino",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Fats_Domino.txt",
+    "file": "Fats_Domino.txt",
     "status": "skipped-existing",
     "label": "Fats Domino",
     "display": "Fats Domino"
@@ -1074,7 +1074,7 @@
   {
     "input": "Donovan",
     "title": "Donovan",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Donovan.txt",
+    "file": "Donovan.txt",
     "status": "skipped-existing",
     "label": "Donovan",
     "display": "Donovan"
@@ -1082,7 +1082,7 @@
   {
     "input": "The Doobie Brothers",
     "title": "The_Doobie_Brothers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Doobie_Brothers.txt",
+    "file": "The_Doobie_Brothers.txt",
     "status": "skipped-existing",
     "label": "The Doobie Brothers",
     "display": "The Doobie Brothers"
@@ -1090,7 +1090,7 @@
   {
     "input": "The Doors",
     "title": "The_Doors",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Doors.txt",
+    "file": "The_Doors.txt",
     "status": "skipped-existing",
     "label": "The Doors",
     "display": "The Doors"
@@ -1098,7 +1098,7 @@
   {
     "input": "Dr. Hook & the Medicine Show",
     "title": "Dr._Hook_&_the_Medicine_Show",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dr._Hook_&_the_Medicine_Show.txt",
+    "file": "Dr._Hook_&_the_Medicine_Show.txt",
     "status": "skipped-existing",
     "label": "Dr. Hook & the Medicine Show",
     "display": "Dr. Hook & the Medicine Show"
@@ -1106,7 +1106,7 @@
   {
     "input": "Dropkick Murphys",
     "title": "Dropkick_Murphys",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dropkick_Murphys.txt",
+    "file": "Dropkick_Murphys.txt",
     "status": "skipped-existing",
     "label": "Dropkick Murphys",
     "display": "Dropkick Murphys"
@@ -1114,7 +1114,7 @@
   {
     "input": "Drowning Pool",
     "title": "Drowning_Pool",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Drowning_Pool.txt",
+    "file": "Drowning_Pool.txt",
     "status": "skipped-existing",
     "label": "Drowning Pool",
     "display": "Drowning Pool"
@@ -1122,7 +1122,7 @@
   {
     "input": "Duran Duran",
     "title": "Duran_Duran",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Duran_Duran.txt",
+    "file": "Duran_Duran.txt",
     "status": "skipped-existing",
     "label": "Duran Duran",
     "display": "Duran Duran"
@@ -1130,7 +1130,7 @@
   {
     "input": "Ian Dury",
     "title": "Ian_Dury",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ian_Dury.txt",
+    "file": "Ian_Dury.txt",
     "status": "skipped-existing",
     "label": "Ian Dury & the Blockheads",
     "display": "Ian Dury & the Blockheads"
@@ -1138,7 +1138,7 @@
   {
     "input": "Bob Dylan",
     "title": "Bob_Dylan",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bob_Dylan.txt",
+    "file": "Bob_Dylan.txt",
     "status": "skipped-existing",
     "label": "Bob Dylan",
     "display": "Bob Dylan"
@@ -1146,7 +1146,7 @@
   {
     "input": "Eagles (band)",
     "title": "Eagles_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Eagles_(band).txt",
+    "file": "Eagles_(band).txt",
     "status": "skipped-existing",
     "label": "Eagles",
     "display": "Eagles"
@@ -1154,7 +1154,7 @@
   {
     "input": "Echo & the Bunnymen",
     "title": "Echo_&_the_Bunnymen",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Echo_&_the_Bunnymen.txt",
+    "file": "Echo_&_the_Bunnymen.txt",
     "status": "skipped-existing",
     "label": "Echo & the Bunnymen",
     "display": "Echo & the Bunnymen"
@@ -1162,7 +1162,7 @@
   {
     "input": "Duane Eddy",
     "title": "Duane_Eddy",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Duane_Eddy.txt",
+    "file": "Duane_Eddy.txt",
     "status": "skipped-existing",
     "label": "Duane Eddy",
     "display": "Duane Eddy"
@@ -1170,7 +1170,7 @@
   {
     "input": "Edgar Winter",
     "title": "Edgar_Winter",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Edgar_Winter.txt",
+    "file": "Edgar_Winter.txt",
     "status": "skipped-existing",
     "label": "The Edgar Winter Group",
     "display": "The Edgar Winter Group"
@@ -1178,7 +1178,7 @@
   {
     "input": "Electric Light Orchestra",
     "title": "Electric_Light_Orchestra",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Electric_Light_Orchestra.txt",
+    "file": "Electric_Light_Orchestra.txt",
     "status": "skipped-existing",
     "label": "Electric Light Orchestra",
     "display": "Electric Light Orchestra"
@@ -1186,7 +1186,7 @@
   {
     "input": "Emerson, Lake & Palmer",
     "title": "Emerson,_Lake_&_Palmer",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Emerson__Lake_&_Palmer.txt",
+    "file": "Emerson__Lake_&_Palmer.txt",
     "status": "skipped-existing",
     "label": "Emerson, Lake & Palmer",
     "display": "Emerson, Lake & Palmer"
@@ -1194,7 +1194,7 @@
   {
     "input": "England Dan & John Ford Coley",
     "title": "England_Dan_&_John_Ford_Coley",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\England_Dan_&_John_Ford_Coley.txt",
+    "file": "England_Dan_&_John_Ford_Coley.txt",
     "status": "skipped-existing",
     "label": "England Dan & John Ford Coley",
     "display": "England Dan & John Ford Coley"
@@ -1202,7 +1202,7 @@
   {
     "input": "Melissa Etheridge",
     "title": "Melissa_Etheridge",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Melissa_Etheridge.txt",
+    "file": "Melissa_Etheridge.txt",
     "status": "skipped-existing",
     "label": "Melissa Etheridge",
     "display": "Melissa Etheridge"
@@ -1210,7 +1210,7 @@
   {
     "input": "Europe (band)",
     "title": "Europe_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Europe_(band).txt",
+    "file": "Europe_(band).txt",
     "status": "skipped-existing",
     "label": "Europe",
     "display": "Europe"
@@ -1218,7 +1218,7 @@
   {
     "input": "Evanescence",
     "title": "Evanescence",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Evanescence.txt",
+    "file": "Evanescence.txt",
     "status": "skipped-existing",
     "label": "Evanescence",
     "display": "Evanescence"
@@ -1226,7 +1226,7 @@
   {
     "input": "Everclear (band)",
     "title": "Everclear_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Everclear_(band).txt",
+    "file": "Everclear_(band).txt",
     "status": "skipped-existing",
     "label": "Everclear",
     "display": "Everclear"
@@ -1234,7 +1234,7 @@
   {
     "input": "Everlast",
     "title": "Everlast",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Everlast.txt",
+    "file": "Everlast.txt",
     "status": "skipped-existing",
     "label": "Everlast",
     "display": "Everlast"
@@ -1242,7 +1242,7 @@
   {
     "input": "The Everly Brothers",
     "title": "The_Everly_Brothers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Everly_Brothers.txt",
+    "file": "The_Everly_Brothers.txt",
     "status": "skipped-existing",
     "label": "The Everly Brothers",
     "display": "The Everly Brothers"
@@ -1250,7 +1250,7 @@
   {
     "input": "Extreme (band)",
     "title": "Extreme_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Extreme_(band).txt",
+    "file": "Extreme_(band).txt",
     "status": "skipped-existing",
     "label": "Extreme",
     "display": "Extreme"
@@ -1258,7 +1258,7 @@
   {
     "input": "Faces (band)",
     "title": "Faces_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Faces_(band).txt",
+    "file": "Faces_(band).txt",
     "status": "skipped-existing",
     "label": "Faces",
     "display": "Faces"
@@ -1266,7 +1266,7 @@
   {
     "input": "Faith No More",
     "title": "Faith_No_More",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Faith_No_More.txt",
+    "file": "Faith_No_More.txt",
     "status": "skipped-existing",
     "label": "Faith No More",
     "display": "Faith No More"
@@ -1274,7 +1274,7 @@
   {
     "input": "Fall Out Boy",
     "title": "Fall_Out_Boy",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Fall_Out_Boy.txt",
+    "file": "Fall_Out_Boy.txt",
     "status": "skipped-existing",
     "label": "Fall Out Boy",
     "display": "Fall Out Boy"
@@ -1282,7 +1282,7 @@
   {
     "input": "Bryan Ferry",
     "title": "Bryan_Ferry",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bryan_Ferry.txt",
+    "file": "Bryan_Ferry.txt",
     "status": "skipped-existing",
     "label": "Bryan Ferry",
     "display": "Bryan Ferry"
@@ -1290,7 +1290,7 @@
   {
     "input": "Filter (band)",
     "title": "Filter_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Filter_(band).txt",
+    "file": "Filter_(band).txt",
     "status": "skipped-existing",
     "label": "Filter",
     "display": "Filter"
@@ -1298,7 +1298,7 @@
   {
     "input": "Finger Eleven",
     "title": "Finger_Eleven",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Finger_Eleven.txt",
+    "file": "Finger_Eleven.txt",
     "status": "skipped-existing",
     "label": "Finger Eleven",
     "display": "Finger Eleven"
@@ -1306,7 +1306,7 @@
   {
     "input": "FireHouse",
     "title": "FireHouse",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\FireHouse.txt",
+    "file": "FireHouse.txt",
     "status": "skipped-existing",
     "label": "FireHouse",
     "display": "FireHouse"
@@ -1314,7 +1314,7 @@
   {
     "input": "Five Finger Death Punch",
     "title": "Five_Finger_Death_Punch",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Five_Finger_Death_Punch.txt",
+    "file": "Five_Finger_Death_Punch.txt",
     "status": "skipped-existing",
     "label": "Five Finger Death Punch",
     "display": "Five Finger Death Punch"
@@ -1322,7 +1322,7 @@
   {
     "input": "Five for Fighting",
     "title": "Five_for_Fighting",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Five_for_Fighting.txt",
+    "file": "Five_for_Fighting.txt",
     "status": "skipped-existing",
     "label": "Five for Fighting",
     "display": "Five for Fighting"
@@ -1330,7 +1330,7 @@
   {
     "input": "The Fixx",
     "title": "The_Fixx",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Fixx.txt",
+    "file": "The_Fixx.txt",
     "status": "skipped-existing",
     "label": "The Fixx",
     "display": "The Fixx"
@@ -1338,7 +1338,7 @@
   {
     "input": "The Flaming Lips",
     "title": "The_Flaming_Lips",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Flaming_Lips.txt",
+    "file": "The_Flaming_Lips.txt",
     "status": "skipped-existing",
     "label": "The Flaming Lips",
     "display": "The Flaming Lips"
@@ -1346,7 +1346,7 @@
   {
     "input": "Fleetwood Mac",
     "title": "Fleetwood_Mac",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Fleetwood_Mac.txt",
+    "file": "Fleetwood_Mac.txt",
     "status": "skipped-existing",
     "label": "Fleetwood Mac",
     "display": "Fleetwood Mac"
@@ -1354,7 +1354,7 @@
   {
     "input": "Flogging Molly",
     "title": "Flogging_Molly",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Flogging_Molly.txt",
+    "file": "Flogging_Molly.txt",
     "status": "skipped-existing",
     "label": "Flogging Molly",
     "display": "Flogging Molly"
@@ -1362,7 +1362,7 @@
   {
     "input": "Florence and the Machine",
     "title": "Florence_and_the_Machine",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Florence_and_the_Machine.txt",
+    "file": "Florence_and_the_Machine.txt",
     "status": "skipped-existing",
     "label": "Florence + the Machine",
     "display": "Florence + the Machine"
@@ -1370,7 +1370,7 @@
   {
     "input": "Flyleaf (band)",
     "title": "Flyleaf_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Flyleaf_(band).txt",
+    "file": "Flyleaf_(band).txt",
     "status": "skipped-existing",
     "label": "Flyleaf",
     "display": "Flyleaf"
@@ -1378,7 +1378,7 @@
   {
     "input": "Foals (band)",
     "title": "Foals_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Foals_(band).txt",
+    "file": "Foals_(band).txt",
     "status": "skipped-existing",
     "label": "Foals",
     "display": "Foals"
@@ -1386,7 +1386,7 @@
   {
     "input": "Dan Fogelberg",
     "title": "Dan_Fogelberg",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Dan_Fogelberg.txt",
+    "file": "Dan_Fogelberg.txt",
     "status": "skipped-existing",
     "label": "Dan Fogelberg",
     "display": "Dan Fogelberg"
@@ -1394,7 +1394,7 @@
   {
     "input": "John Fogerty",
     "title": "John_Fogerty",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\John_Fogerty.txt",
+    "file": "John_Fogerty.txt",
     "status": "skipped-existing",
     "label": "John Fogerty",
     "display": "John Fogerty"
@@ -1402,7 +1402,7 @@
   {
     "input": "Foo Fighters",
     "title": "Foo_Fighters",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Foo_Fighters.txt",
+    "file": "Foo_Fighters.txt",
     "status": "skipped-existing",
     "label": "Foo Fighters",
     "display": "Foo Fighters"
@@ -1410,7 +1410,7 @@
   {
     "input": "Foreigner (band)",
     "title": "Foreigner_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Foreigner_(band).txt",
+    "file": "Foreigner_(band).txt",
     "status": "skipped-existing",
     "label": "Foreigner",
     "display": "Foreigner"
@@ -1418,7 +1418,7 @@
   {
     "input": "Foster the People",
     "title": "Foster_the_People",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Foster_the_People.txt",
+    "file": "Foster_the_People.txt",
     "status": "skipped-existing",
     "label": "Foster the People",
     "display": "Foster the People"
@@ -1426,7 +1426,7 @@
   {
     "input": "The Four Seasons (band)",
     "title": "The_Four_Seasons_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Four_Seasons_(band).txt",
+    "file": "The_Four_Seasons_(band).txt",
     "status": "skipped-existing",
     "label": "The Four Seasons",
     "display": "The Four Seasons"
@@ -1434,7 +1434,7 @@
   {
     "input": "Peter Frampton",
     "title": "Peter_Frampton",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Peter_Frampton.txt",
+    "file": "Peter_Frampton.txt",
     "status": "skipped-existing",
     "label": "Peter Frampton",
     "display": "Peter Frampton"
@@ -1442,7 +1442,7 @@
   {
     "input": "Franz Ferdinand (band)",
     "title": "Franz_Ferdinand_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Franz_Ferdinand_(band).txt",
+    "file": "Franz_Ferdinand_(band).txt",
     "status": "skipped-existing",
     "label": "Franz Ferdinand",
     "display": "Franz Ferdinand"
@@ -1450,7 +1450,7 @@
   {
     "input": "The Fray",
     "title": "The_Fray",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Fray.txt",
+    "file": "The_Fray.txt",
     "status": "skipped-existing",
     "label": "The Fray",
     "display": "The Fray"
@@ -1458,7 +1458,7 @@
   {
     "input": "Glenn Frey",
     "title": "Glenn_Frey",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Glenn_Frey.txt",
+    "file": "Glenn_Frey.txt",
     "status": "skipped-existing",
     "label": "Glenn Frey",
     "display": "Glenn Frey"
@@ -1466,7 +1466,7 @@
   {
     "input": "Fuel (band)",
     "title": "Fuel_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Fuel_(band).txt",
+    "file": "Fuel_(band).txt",
     "status": "skipped-existing",
     "label": "Fuel",
     "display": "Fuel"
@@ -1474,7 +1474,7 @@
   {
     "input": "Fun (band)",
     "title": "Fun_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Fun_(band).txt",
+    "file": "Fun_(band).txt",
     "status": "skipped-existing",
     "label": "Fun.",
     "display": "Fun."
@@ -1482,7 +1482,7 @@
   {
     "input": "Funkadelic",
     "title": "Funkadelic",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Funkadelic.txt",
+    "file": "Funkadelic.txt",
     "status": "skipped-existing",
     "label": "Funkadelic",
     "display": "Funkadelic"
@@ -1490,7 +1490,7 @@
   {
     "input": "Peter Gabriel",
     "title": "Peter_Gabriel",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Peter_Gabriel.txt",
+    "file": "Peter_Gabriel.txt",
     "status": "skipped-existing",
     "label": "Peter Gabriel",
     "display": "Peter Gabriel"
@@ -1498,7 +1498,7 @@
   {
     "input": "Garbage (band)",
     "title": "Garbage_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Garbage_(band).txt",
+    "file": "Garbage_(band).txt",
     "status": "skipped-existing",
     "label": "Garbage",
     "display": "Garbage"
@@ -1506,7 +1506,7 @@
   {
     "input": "Genesis (band)",
     "title": "Genesis_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Genesis_(band).txt",
+    "file": "Genesis_(band).txt",
     "status": "skipped-existing",
     "label": "Genesis",
     "display": "Genesis"
@@ -1514,7 +1514,7 @@
   {
     "input": "Ghost (Swedish band)",
     "title": "Ghost_(Swedish_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ghost_(Swedish_band).txt",
+    "file": "Ghost_(Swedish_band).txt",
     "status": "skipped-existing",
     "label": "Ghost",
     "display": "Ghost"
@@ -1522,7 +1522,7 @@
   {
     "input": "Gin Blossoms",
     "title": "Gin_Blossoms",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Gin_Blossoms.txt",
+    "file": "Gin_Blossoms.txt",
     "status": "skipped-existing",
     "label": "Gin Blossoms",
     "display": "Gin Blossoms"
@@ -1530,7 +1530,7 @@
   {
     "input": "Gary Glitter",
     "title": "Gary_Glitter",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Gary_Glitter.txt",
+    "file": "Gary_Glitter.txt",
     "status": "skipped-existing",
     "label": "Gary Glitter",
     "display": "Gary Glitter"
@@ -1538,7 +1538,7 @@
   {
     "input": "The Go-Go's",
     "title": "The_Go-Go's",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Go-Go's.txt",
+    "file": "The_Go-Go's.txt",
     "status": "skipped-existing",
     "label": "The Go-Go's",
     "display": "The Go-Go's"
@@ -1546,7 +1546,7 @@
   {
     "input": "Godsmack",
     "title": "Godsmack",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Godsmack.txt",
+    "file": "Godsmack.txt",
     "status": "skipped-existing",
     "label": "Godsmack",
     "display": "Godsmack"
@@ -1554,7 +1554,7 @@
   {
     "input": "Golden Earring",
     "title": "Golden_Earring",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Golden_Earring.txt",
+    "file": "Golden_Earring.txt",
     "status": "skipped-existing",
     "label": "Golden Earring",
     "display": "Golden Earring"
@@ -1562,7 +1562,7 @@
   {
     "input": "Goo Goo Dolls",
     "title": "Goo_Goo_Dolls",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Goo_Goo_Dolls.txt",
+    "file": "Goo_Goo_Dolls.txt",
     "status": "skipped-existing",
     "label": "Goo Goo Dolls",
     "display": "Goo Goo Dolls"
@@ -1570,7 +1570,7 @@
   {
     "input": "Good Charlotte",
     "title": "Good_Charlotte",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Good_Charlotte.txt",
+    "file": "Good_Charlotte.txt",
     "status": "skipped-existing",
     "label": "Good Charlotte",
     "display": "Good Charlotte"
@@ -1578,7 +1578,7 @@
   {
     "input": "Grand Funk Railroad",
     "title": "Grand_Funk_Railroad",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Grand_Funk_Railroad.txt",
+    "file": "Grand_Funk_Railroad.txt",
     "status": "skipped-existing",
     "label": "Grand Funk Railroad",
     "display": "Grand Funk Railroad"
@@ -1586,7 +1586,7 @@
   {
     "input": "Grateful Dead",
     "title": "Grateful_Dead",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Grateful_Dead.txt",
+    "file": "Grateful_Dead.txt",
     "status": "skipped-existing",
     "label": "Grateful Dead",
     "display": "Grateful Dead"
@@ -1594,7 +1594,7 @@
   {
     "input": "Great White",
     "title": "Great_White",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Great_White.txt",
+    "file": "Great_White.txt",
     "status": "skipped-existing",
     "label": "Great White",
     "display": "Great White"
@@ -1602,7 +1602,7 @@
   {
     "input": "Green Day",
     "title": "Green_Day",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Green_Day.txt",
+    "file": "Green_Day.txt",
     "status": "skipped-existing",
     "label": "Green Day",
     "display": "Green Day"
@@ -1610,7 +1610,7 @@
   {
     "input": "Greta Van Fleet",
     "title": "Greta_Van_Fleet",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Greta_Van_Fleet.txt",
+    "file": "Greta_Van_Fleet.txt",
     "status": "skipped-existing",
     "label": "Greta Van Fleet",
     "display": "Greta Van Fleet"
@@ -1618,7 +1618,7 @@
   {
     "input": "The Guess Who",
     "title": "The_Guess_Who",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Guess_Who.txt",
+    "file": "The_Guess_Who.txt",
     "status": "skipped-existing",
     "label": "The Guess Who",
     "display": "The Guess Who"
@@ -1626,7 +1626,7 @@
   {
     "input": "Guns N' Roses",
     "title": "Guns_N'_Roses",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Guns_N'_Roses.txt",
+    "file": "Guns_N'_Roses.txt",
     "status": "skipped-existing",
     "label": "Guns N' Roses",
     "display": "Guns N' Roses"
@@ -1634,7 +1634,7 @@
   {
     "input": "Halestorm",
     "title": "Halestorm",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Halestorm.txt",
+    "file": "Halestorm.txt",
     "status": "skipped-existing",
     "label": "Halestorm",
     "display": "Halestorm"
@@ -1642,7 +1642,7 @@
   {
     "input": "Bill Haley & His Comets",
     "title": "Bill_Haley_&_His_Comets",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bill_Haley_&_His_Comets.txt",
+    "file": "Bill_Haley_&_His_Comets.txt",
     "status": "skipped-existing",
     "label": "Bill Haley & His Comets",
     "display": "Bill Haley & His Comets"
@@ -1650,7 +1650,7 @@
   {
     "input": "Hall & Oates",
     "title": "Hall_&_Oates",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Hall_&_Oates.txt",
+    "file": "Hall_&_Oates.txt",
     "status": "skipped-existing",
     "label": "Hall & Oates",
     "display": "Hall & Oates"
@@ -1658,7 +1658,7 @@
   {
     "input": "George Harrison",
     "title": "George_Harrison",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\George_Harrison.txt",
+    "file": "George_Harrison.txt",
     "status": "skipped-existing",
     "label": "George Harrison",
     "display": "George Harrison"
@@ -1666,7 +1666,7 @@
   {
     "input": "Heart (band)",
     "title": "Heart_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Heart_(band).txt",
+    "file": "Heart_(band).txt",
     "status": "skipped-existing",
     "label": "Heart",
     "display": "Heart"
@@ -1674,7 +1674,7 @@
   {
     "input": "Jimi Hendrix",
     "title": "Jimi_Hendrix",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jimi_Hendrix.txt",
+    "file": "Jimi_Hendrix.txt",
     "status": "skipped-existing",
     "label": "Jimi Hendrix",
     "display": "Jimi Hendrix"
@@ -1682,7 +1682,7 @@
   {
     "input": "Don Henley",
     "title": "Don_Henley",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Don_Henley.txt",
+    "file": "Don_Henley.txt",
     "status": "skipped-existing",
     "label": "Don Henley",
     "display": "Don Henley"
@@ -1690,7 +1690,7 @@
   {
     "input": "Herman's Hermits",
     "title": "Herman's_Hermits",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Herman's_Hermits.txt",
+    "file": "Herman's_Hermits.txt",
     "status": "skipped-existing",
     "label": "Herman's Hermits",
     "display": "Herman's Hermits"
@@ -1698,7 +1698,7 @@
   {
     "input": "Highly Suspect",
     "title": "Highly_Suspect",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Highly_Suspect.txt",
+    "file": "Highly_Suspect.txt",
     "status": "skipped-existing",
     "label": "Highly Suspect",
     "display": "Highly Suspect"
@@ -1706,7 +1706,7 @@
   {
     "input": "Hinder",
     "title": "Hinder",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Hinder.txt",
+    "file": "Hinder.txt",
     "status": "skipped-existing",
     "label": "Hinder",
     "display": "Hinder"
@@ -1714,7 +1714,7 @@
   {
     "input": "The Hives",
     "title": "The_Hives",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Hives.txt",
+    "file": "The_Hives.txt",
     "status": "skipped-existing",
     "label": "The Hives",
     "display": "The Hives"
@@ -1722,7 +1722,7 @@
   {
     "input": "Hole (band)",
     "title": "Hole_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Hole_(band).txt",
+    "file": "Hole_(band).txt",
     "status": "skipped-existing",
     "label": "Hole",
     "display": "Hole"
@@ -1730,7 +1730,7 @@
   {
     "input": "The Hollies",
     "title": "The_Hollies",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Hollies.txt",
+    "file": "The_Hollies.txt",
     "status": "skipped-existing",
     "label": "The Hollies",
     "display": "The Hollies"
@@ -1738,7 +1738,7 @@
   {
     "input": "Buddy Holly",
     "title": "Buddy_Holly",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Buddy_Holly.txt",
+    "file": "Buddy_Holly.txt",
     "status": "skipped-existing",
     "label": "Buddy Holly",
     "display": "Buddy Holly"
@@ -1746,7 +1746,7 @@
   {
     "input": "Hoobastank",
     "title": "Hoobastank",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Hoobastank.txt",
+    "file": "Hoobastank.txt",
     "status": "skipped-existing",
     "label": "Hoobastank",
     "display": "Hoobastank"
@@ -1754,7 +1754,7 @@
   {
     "input": "Hootie & the Blowfish",
     "title": "Hootie_&_the_Blowfish",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Hootie_&_the_Blowfish.txt",
+    "file": "Hootie_&_the_Blowfish.txt",
     "status": "skipped-existing",
     "label": "Hootie & the Blowfish",
     "display": "Hootie & the Blowfish"
@@ -1762,7 +1762,7 @@
   {
     "input": "Icehouse (band)",
     "title": "Icehouse_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Icehouse_(band).txt",
+    "file": "Icehouse_(band).txt",
     "status": "skipped-existing",
     "label": "Icehouse",
     "display": "Icehouse"
@@ -1770,7 +1770,7 @@
   {
     "input": "Billy Idol",
     "title": "Billy_Idol",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Billy_Idol.txt",
+    "file": "Billy_Idol.txt",
     "status": "skipped-existing",
     "label": "Billy Idol",
     "display": "Billy Idol"
@@ -1778,7 +1778,7 @@
   {
     "input": "Imagine Dragons",
     "title": "Imagine_Dragons",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Imagine_Dragons.txt",
+    "file": "Imagine_Dragons.txt",
     "status": "skipped-existing",
     "label": "Imagine Dragons",
     "display": "Imagine Dragons"
@@ -1786,7 +1786,7 @@
   {
     "input": "Incubus (band)",
     "title": "Incubus_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Incubus_(band).txt",
+    "file": "Incubus_(band).txt",
     "status": "skipped-existing",
     "label": "Incubus",
     "display": "Incubus"
@@ -1794,7 +1794,7 @@
   {
     "input": "Interpol (band)",
     "title": "Interpol_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Interpol_(band).txt",
+    "file": "Interpol_(band).txt",
     "status": "skipped-existing",
     "label": "Interpol",
     "display": "Interpol"
@@ -1802,7 +1802,7 @@
   {
     "input": "INXS",
     "title": "INXS",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\INXS.txt",
+    "file": "INXS.txt",
     "status": "skipped-existing",
     "label": "INXS",
     "display": "INXS"
@@ -1810,7 +1810,7 @@
   {
     "input": "Iron Maiden",
     "title": "Iron_Maiden",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Iron_Maiden.txt",
+    "file": "Iron_Maiden.txt",
     "status": "skipped-existing",
     "label": "Iron Maiden",
     "display": "Iron Maiden"
@@ -1818,7 +1818,7 @@
   {
     "input": "The J. Geils Band",
     "title": "The_J._Geils_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_J._Geils_Band.txt",
+    "file": "The_J._Geils_Band.txt",
     "status": "skipped-existing",
     "label": "The J. Geils Band",
     "display": "The J. Geils Band"
@@ -1826,7 +1826,7 @@
   {
     "input": "The Jam",
     "title": "The_Jam",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Jam.txt",
+    "file": "The_Jam.txt",
     "status": "skipped-existing",
     "label": "The Jam",
     "display": "The Jam"
@@ -1834,7 +1834,7 @@
   {
     "input": "Tommy James and the Shondells",
     "title": "Tommy_James_and_the_Shondells",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tommy_James_and_the_Shondells.txt",
+    "file": "Tommy_James_and_the_Shondells.txt",
     "status": "skipped-existing",
     "label": "Tommy James and the Shondells",
     "display": "Tommy James and the Shondells"
@@ -1842,7 +1842,7 @@
   {
     "input": "Jane's Addiction",
     "title": "Jane's_Addiction",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jane's_Addiction.txt",
+    "file": "Jane's_Addiction.txt",
     "status": "skipped-existing",
     "label": "Jane's Addiction",
     "display": "Jane's Addiction"
@@ -1850,7 +1850,7 @@
   {
     "input": "Jefferson Airplane",
     "title": "Jefferson_Airplane",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jefferson_Airplane.txt",
+    "file": "Jefferson_Airplane.txt",
     "status": "skipped-existing",
     "label": "Jefferson Airplane",
     "display": "Jefferson Airplane"
@@ -1858,7 +1858,7 @@
   {
     "input": "Jefferson Starship",
     "title": "Jefferson_Starship",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jefferson_Starship.txt",
+    "file": "Jefferson_Starship.txt",
     "status": "skipped-existing",
     "label": "Jefferson Starship",
     "display": "Jefferson Starship"
@@ -1866,7 +1866,7 @@
   {
     "input": "The Jesus and Mary Chain",
     "title": "The_Jesus_and_Mary_Chain",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Jesus_and_Mary_Chain.txt",
+    "file": "The_Jesus_and_Mary_Chain.txt",
     "status": "skipped-existing",
     "label": "The Jesus and Mary Chain",
     "display": "The Jesus and Mary Chain"
@@ -1874,7 +1874,7 @@
   {
     "input": "Jet (Australian band)",
     "title": "Jet_(Australian_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jet_(Australian_band).txt",
+    "file": "Jet_(Australian_band).txt",
     "status": "skipped-existing",
     "label": "Jet",
     "display": "Jet"
@@ -1882,7 +1882,7 @@
   {
     "input": "Jethro Tull (band)",
     "title": "Jethro_Tull_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jethro_Tull_(band).txt",
+    "file": "Jethro_Tull_(band).txt",
     "status": "skipped-existing",
     "label": "Jethro Tull",
     "display": "Jethro Tull"
@@ -1890,7 +1890,7 @@
   {
     "input": "Joan Jett",
     "title": "Joan_Jett",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Joan_Jett.txt",
+    "file": "Joan_Jett.txt",
     "status": "skipped-existing",
     "label": "Joan Jett & the Blackhearts",
     "display": "Joan Jett & the Blackhearts"
@@ -1898,7 +1898,7 @@
   {
     "input": "Jimmy Eat World",
     "title": "Jimmy_Eat_World",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jimmy_Eat_World.txt",
+    "file": "Jimmy_Eat_World.txt",
     "status": "skipped-existing",
     "label": "Jimmy Eat World",
     "display": "Jimmy Eat World"
@@ -1906,7 +1906,7 @@
   {
     "input": "Billy Joel",
     "title": "Billy_Joel",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Billy_Joel.txt",
+    "file": "Billy_Joel.txt",
     "status": "skipped-existing",
     "label": "Billy Joel",
     "display": "Billy Joel"
@@ -1914,7 +1914,7 @@
   {
     "input": "Elton John",
     "title": "Elton_John",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Elton_John.txt",
+    "file": "Elton_John.txt",
     "status": "skipped-existing",
     "label": "Elton John",
     "display": "Elton John"
@@ -1922,7 +1922,7 @@
   {
     "input": "Janis Joplin",
     "title": "Janis_Joplin",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Janis_Joplin.txt",
+    "file": "Janis_Joplin.txt",
     "status": "skipped-existing",
     "label": "Janis Joplin",
     "display": "Janis Joplin"
@@ -1930,7 +1930,7 @@
   {
     "input": "Journey (band)",
     "title": "Journey_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Journey_(band).txt",
+    "file": "Journey_(band).txt",
     "status": "skipped-existing",
     "label": "Journey",
     "display": "Journey"
@@ -1938,7 +1938,7 @@
   {
     "input": "Joy Division",
     "title": "Joy_Division",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Joy_Division.txt",
+    "file": "Joy_Division.txt",
     "status": "skipped-existing",
     "label": "Joy Division",
     "display": "Joy Division"
@@ -1946,7 +1946,7 @@
   {
     "input": "Judas Priest",
     "title": "Judas_Priest",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Judas_Priest.txt",
+    "file": "Judas_Priest.txt",
     "status": "skipped-existing",
     "label": "Judas Priest",
     "display": "Judas Priest"
@@ -1954,7 +1954,7 @@
   {
     "input": "Kaiser Chiefs",
     "title": "Kaiser_Chiefs",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kaiser_Chiefs.txt",
+    "file": "Kaiser_Chiefs.txt",
     "status": "skipped-existing",
     "label": "Kaiser Chiefs",
     "display": "Kaiser Chiefs"
@@ -1962,7 +1962,7 @@
   {
     "input": "Kaleo (band)",
     "title": "Kaleo_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kaleo_(band).txt",
+    "file": "Kaleo_(band).txt",
     "status": "skipped-existing",
     "label": "Kaleo",
     "display": "Kaleo"
@@ -1970,7 +1970,7 @@
   {
     "input": "Kansas (band)",
     "title": "Kansas_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kansas_(band).txt",
+    "file": "Kansas_(band).txt",
     "status": "skipped-existing",
     "label": "Kansas",
     "display": "Kansas"
@@ -1978,7 +1978,7 @@
   {
     "input": "Keane (band)",
     "title": "Keane_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Keane_(band).txt",
+    "file": "Keane_(band).txt",
     "status": "skipped-existing",
     "label": "Keane",
     "display": "Keane"
@@ -1986,7 +1986,7 @@
   {
     "input": "Kid Rock",
     "title": "Kid_Rock",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kid_Rock.txt",
+    "file": "Kid_Rock.txt",
     "status": "skipped-existing",
     "label": "Kid Rock",
     "display": "Kid Rock"
@@ -1994,7 +1994,7 @@
   {
     "input": "The Killers",
     "title": "The_Killers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Killers.txt",
+    "file": "The_Killers.txt",
     "status": "skipped-existing",
     "label": "The Killers",
     "display": "The Killers"
@@ -2002,7 +2002,7 @@
   {
     "input": "Killswitch Engage",
     "title": "Killswitch_Engage",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Killswitch_Engage.txt",
+    "file": "Killswitch_Engage.txt",
     "status": "skipped-existing",
     "label": "Killswitch Engage",
     "display": "Killswitch Engage"
@@ -2010,7 +2010,7 @@
   {
     "input": "Kings of Leon",
     "title": "Kings_of_Leon",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kings_of_Leon.txt",
+    "file": "Kings_of_Leon.txt",
     "status": "skipped-existing",
     "label": "Kings of Leon",
     "display": "Kings of Leon"
@@ -2018,7 +2018,7 @@
   {
     "input": "The Kinks",
     "title": "The_Kinks",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Kinks.txt",
+    "file": "The_Kinks.txt",
     "status": "skipped-existing",
     "label": "The Kinks",
     "display": "The Kinks"
@@ -2026,7 +2026,7 @@
   {
     "input": "Kiss (band)",
     "title": "Kiss_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kiss_(band).txt",
+    "file": "Kiss_(band).txt",
     "status": "skipped-existing",
     "label": "Kiss",
     "display": "Kiss"
@@ -2034,7 +2034,7 @@
   {
     "input": "Korn",
     "title": "Korn",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Korn.txt",
+    "file": "Korn.txt",
     "status": "skipped-existing",
     "label": "Korn",
     "display": "Korn"
@@ -2042,7 +2042,7 @@
   {
     "input": "Lenny Kravitz",
     "title": "Lenny_Kravitz",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Lenny_Kravitz.txt",
+    "file": "Lenny_Kravitz.txt",
     "status": "skipped-existing",
     "label": "Lenny Kravitz",
     "display": "Lenny Kravitz"
@@ -2050,7 +2050,7 @@
   {
     "input": "Lacuna Coil",
     "title": "Lacuna_Coil",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Lacuna_Coil.txt",
+    "file": "Lacuna_Coil.txt",
     "status": "skipped-existing",
     "label": "Lacuna Coil",
     "display": "Lacuna Coil"
@@ -2058,7 +2058,7 @@
   {
     "input": "Lamb of God (band)",
     "title": "Lamb_of_God_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Lamb_of_God_(band).txt",
+    "file": "Lamb_of_God_(band).txt",
     "status": "skipped-existing",
     "label": "Lamb of God",
     "display": "Lamb of God"
@@ -2066,7 +2066,7 @@
   {
     "input": "Avril Lavigne",
     "title": "Avril_Lavigne",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Avril_Lavigne.txt",
+    "file": "Avril_Lavigne.txt",
     "status": "skipped-existing",
     "label": "Avril Lavigne",
     "display": "Avril Lavigne"
@@ -2074,7 +2074,7 @@
   {
     "input": "Led Zeppelin",
     "title": "Led_Zeppelin",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Led_Zeppelin.txt",
+    "file": "Led_Zeppelin.txt",
     "status": "skipped-existing",
     "label": "Led Zeppelin",
     "display": "Led Zeppelin"
@@ -2082,7 +2082,7 @@
   {
     "input": "John Lennon",
     "title": "John_Lennon",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\John_Lennon.txt",
+    "file": "John_Lennon.txt",
     "status": "skipped-existing",
     "label": "John Lennon",
     "display": "John Lennon"
@@ -2090,7 +2090,7 @@
   {
     "input": "Huey Lewis and the News",
     "title": "Huey_Lewis_and_the_News",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Huey_Lewis_and_the_News.txt",
+    "file": "Huey_Lewis_and_the_News.txt",
     "status": "skipped-existing",
     "label": "Huey Lewis and the News",
     "display": "Huey Lewis and the News"
@@ -2098,7 +2098,7 @@
   {
     "input": "Jerry Lee Lewis",
     "title": "Jerry_Lee_Lewis",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jerry_Lee_Lewis.txt",
+    "file": "Jerry_Lee_Lewis.txt",
     "status": "skipped-existing",
     "label": "Jerry Lee Lewis",
     "display": "Jerry Lee Lewis"
@@ -2106,7 +2106,7 @@
   {
     "input": "Lifehouse (band)",
     "title": "Lifehouse_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Lifehouse_(band).txt",
+    "file": "Lifehouse_(band).txt",
     "status": "skipped-existing",
     "label": "Lifehouse",
     "display": "Lifehouse"
@@ -2114,7 +2114,7 @@
   {
     "input": "Limp Bizkit",
     "title": "Limp_Bizkit",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Limp_Bizkit.txt",
+    "file": "Limp_Bizkit.txt",
     "status": "skipped-existing",
     "label": "Limp Bizkit",
     "display": "Limp Bizkit"
@@ -2122,7 +2122,7 @@
   {
     "input": "Linkin Park",
     "title": "Linkin_Park",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Linkin_Park.txt",
+    "file": "Linkin_Park.txt",
     "status": "skipped-existing",
     "label": "Linkin Park",
     "display": "Linkin Park"
@@ -2130,7 +2130,7 @@
   {
     "input": "Little Richard",
     "title": "Little_Richard",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Little_Richard.txt",
+    "file": "Little_Richard.txt",
     "status": "skipped-existing",
     "label": "Little Richard",
     "display": "Little Richard"
@@ -2138,7 +2138,7 @@
   {
     "input": "Little River Band",
     "title": "Little_River_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Little_River_Band.txt",
+    "file": "Little_River_Band.txt",
     "status": "skipped-existing",
     "label": "Little River Band",
     "display": "Little River Band"
@@ -2146,7 +2146,7 @@
   {
     "input": "Live (band)",
     "title": "Live_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Live_(band).txt",
+    "file": "Live_(band).txt",
     "status": "skipped-existing",
     "label": "Live",
     "display": "Live"
@@ -2154,7 +2154,7 @@
   {
     "input": "Living Colour",
     "title": "Living_Colour",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Living_Colour.txt",
+    "file": "Living_Colour.txt",
     "status": "skipped-existing",
     "label": "Living Colour",
     "display": "Living Colour"
@@ -2162,7 +2162,7 @@
   {
     "input": "Kenny Loggins",
     "title": "Kenny_Loggins",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Kenny_Loggins.txt",
+    "file": "Kenny_Loggins.txt",
     "status": "skipped-existing",
     "label": "Kenny Loggins",
     "display": "Kenny Loggins"
@@ -2170,7 +2170,7 @@
   {
     "input": "Loverboy",
     "title": "Loverboy",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Loverboy.txt",
+    "file": "Loverboy.txt",
     "status": "skipped-existing",
     "label": "Loverboy",
     "display": "Loverboy"
@@ -2178,7 +2178,7 @@
   {
     "input": "The Lovin' Spoonful",
     "title": "The_Lovin'_Spoonful",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Lovin'_Spoonful.txt",
+    "file": "The_Lovin'_Spoonful.txt",
     "status": "skipped-existing",
     "label": "The Lovin' Spoonful",
     "display": "The Lovin' Spoonful"
@@ -2186,7 +2186,7 @@
   {
     "input": "The Lumineers",
     "title": "The_Lumineers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Lumineers.txt",
+    "file": "The_Lumineers.txt",
     "status": "skipped-existing",
     "label": "The Lumineers",
     "display": "The Lumineers"
@@ -2194,7 +2194,7 @@
   {
     "input": "Lynyrd Skynyrd",
     "title": "Lynyrd_Skynyrd",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Lynyrd_Skynyrd.txt",
+    "file": "Lynyrd_Skynyrd.txt",
     "status": "skipped-existing",
     "label": "Lynyrd Skynyrd",
     "display": "Lynyrd Skynyrd"
@@ -2202,7 +2202,7 @@
   {
     "input": "The Mamas & the Papas",
     "title": "The_Mamas_&_the_Papas",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Mamas_&_the_Papas.txt",
+    "file": "The_Mamas_&_the_Papas.txt",
     "status": "skipped-existing",
     "label": "The Mamas & the Papas",
     "display": "The Mamas & the Papas"
@@ -2210,7 +2210,7 @@
   {
     "input": "Manfred Mann",
     "title": "Manfred_Mann",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Manfred_Mann.txt",
+    "file": "Manfred_Mann.txt",
     "status": "skipped-existing",
     "label": "Manfred Mann",
     "display": "Manfred Mann"
@@ -2218,7 +2218,7 @@
   {
     "input": "Manfred Mann (musician)",
     "title": "Manfred_Mann_(musician)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Manfred_Mann_(musician).txt",
+    "file": "Manfred_Mann_(musician).txt",
     "status": "skipped-existing",
     "label": "Manfred Mann",
     "display": "Manfred Mann (musician)"
@@ -2226,7 +2226,7 @@
   {
     "input": "Manfred Mann's Earth Band",
     "title": "Manfred_Mann's_Earth_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Manfred_Mann's_Earth_Band.txt",
+    "file": "Manfred_Mann's_Earth_Band.txt",
     "status": "skipped-existing",
     "label": "Manfred Mann's Earth Band",
     "display": "Manfred Mann's Earth Band"
@@ -2234,7 +2234,7 @@
   {
     "input": "Manfred Mann Chapter Three",
     "title": "Manfred_Mann_Chapter_Three",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Manfred_Mann_Chapter_Three.txt",
+    "file": "Manfred_Mann_Chapter_Three.txt",
     "status": "skipped-existing",
     "label": "Manfred Mann Chapter Three",
     "display": "Manfred Mann Chapter Three"
@@ -2242,7 +2242,7 @@
   {
     "input": "Marilyn Manson",
     "title": "Marilyn_Manson",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Marilyn_Manson.txt",
+    "file": "Marilyn_Manson.txt",
     "status": "skipped-existing",
     "label": "Marilyn Manson",
     "display": "Marilyn Manson"
@@ -2250,7 +2250,7 @@
   {
     "input": "Marilyn Manson (band)",
     "title": "Marilyn_Manson_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Marilyn_Manson_(band).txt",
+    "file": "Marilyn_Manson_(band).txt",
     "status": "skipped-existing",
     "label": "Marilyn Manson",
     "display": "Marilyn Manson (band)"
@@ -2258,7 +2258,7 @@
   {
     "input": "The Marshall Tucker Band",
     "title": "The_Marshall_Tucker_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Marshall_Tucker_Band.txt",
+    "file": "The_Marshall_Tucker_Band.txt",
     "status": "skipped-existing",
     "label": "The Marshall Tucker Band",
     "display": "The Marshall Tucker Band"
@@ -2266,7 +2266,7 @@
   {
     "input": "Matchbox Twenty",
     "title": "Matchbox_Twenty",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Matchbox_Twenty.txt",
+    "file": "Matchbox_Twenty.txt",
     "status": "skipped-existing",
     "label": "Matchbox Twenty",
     "display": "Matchbox Twenty"
@@ -2274,7 +2274,7 @@
   {
     "input": "John Mayer",
     "title": "John_Mayer",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\John_Mayer.txt",
+    "file": "John_Mayer.txt",
     "status": "skipped-existing",
     "label": "John Mayer",
     "display": "John Mayer"
@@ -2282,7 +2282,7 @@
   {
     "input": "John Mayall",
     "title": "John_Mayall",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\John_Mayall.txt",
+    "file": "John_Mayall.txt",
     "status": "skipped-existing",
     "label": "John Mayall",
     "display": "John Mayall"
@@ -2290,7 +2290,7 @@
   {
     "input": "John Mayall & the Bluesbreakers",
     "title": "John_Mayall_&_the_Bluesbreakers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\John_Mayall_&_the_Bluesbreakers.txt",
+    "file": "John_Mayall_&_the_Bluesbreakers.txt",
     "status": "skipped-existing",
     "label": "John Mayall & the Bluesbreakers",
     "display": "John Mayall & the Bluesbreakers"
@@ -2298,7 +2298,7 @@
   {
     "input": "Paul McCartney",
     "title": "Paul_McCartney",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Paul_McCartney.txt",
+    "file": "Paul_McCartney.txt",
     "status": "skipped-existing",
     "label": "Paul McCartney",
     "display": "Paul McCartney"
@@ -2306,7 +2306,7 @@
   {
     "input": "Meat Loaf",
     "title": "Meat_Loaf",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Meat_Loaf.txt",
+    "file": "Meat_Loaf.txt",
     "status": "skipped-existing",
     "label": "Meat Loaf",
     "display": "Meat Loaf"
@@ -2314,7 +2314,7 @@
   {
     "input": "Megadeth",
     "title": "Megadeth",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Megadeth.txt",
+    "file": "Megadeth.txt",
     "status": "skipped-existing",
     "label": "Megadeth",
     "display": "Megadeth"
@@ -2322,7 +2322,7 @@
   {
     "input": "John Mellencamp",
     "title": "John_Mellencamp",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\John_Mellencamp.txt",
+    "file": "John_Mellencamp.txt",
     "status": "skipped-existing",
     "label": "John Mellencamp",
     "display": "John Mellencamp"
@@ -2330,7 +2330,7 @@
   {
     "input": "Men at Work",
     "title": "Men_at_Work",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Men_at_Work.txt",
+    "file": "Men_at_Work.txt",
     "status": "skipped-existing",
     "label": "Men at Work",
     "display": "Men at Work"
@@ -2338,7 +2338,7 @@
   {
     "input": "Metallica",
     "title": "Metallica",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Metallica.txt",
+    "file": "Metallica.txt",
     "status": "skipped-existing",
     "label": "Metallica",
     "display": "Metallica"
@@ -2346,7 +2346,7 @@
   {
     "input": "Midnight Oil",
     "title": "Midnight_Oil",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Midnight_Oil.txt",
+    "file": "Midnight_Oil.txt",
     "status": "skipped-existing",
     "label": "Midnight Oil",
     "display": "Midnight Oil"
@@ -2354,7 +2354,7 @@
   {
     "input": "Mike and the Mechanics",
     "title": "Mike_and_the_Mechanics",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Mike_and_the_Mechanics.txt",
+    "file": "Mike_and_the_Mechanics.txt",
     "status": "skipped-existing",
     "label": "Mike + the Mechanics",
     "display": "Mike + the Mechanics"
@@ -2362,7 +2362,7 @@
   {
     "input": "Modest Mouse",
     "title": "Modest_Mouse",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Modest_Mouse.txt",
+    "file": "Modest_Mouse.txt",
     "status": "skipped-existing",
     "label": "Modest Mouse",
     "display": "Modest Mouse"
@@ -2370,7 +2370,7 @@
   {
     "input": "Eddie Money",
     "title": "Eddie_Money",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Eddie_Money.txt",
+    "file": "Eddie_Money.txt",
     "status": "skipped-existing",
     "label": "Eddie Money",
     "display": "Eddie Money"
@@ -2378,7 +2378,7 @@
   {
     "input": "The Monkees",
     "title": "The_Monkees",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Monkees.txt",
+    "file": "The_Monkees.txt",
     "status": "skipped-existing",
     "label": "The Monkees",
     "display": "The Monkees"
@@ -2386,7 +2386,7 @@
   {
     "input": "Montgomery Gentry",
     "title": "Montgomery_Gentry",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Montgomery_Gentry.txt",
+    "file": "Montgomery_Gentry.txt",
     "status": "skipped-existing",
     "label": "Montgomery Gentry",
     "display": "Montgomery Gentry"
@@ -2394,7 +2394,7 @@
   {
     "input": "The Moody Blues",
     "title": "The_Moody_Blues",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Moody_Blues.txt",
+    "file": "The_Moody_Blues.txt",
     "status": "skipped-existing",
     "label": "The Moody Blues",
     "display": "The Moody Blues"
@@ -2402,7 +2402,7 @@
   {
     "input": "Alanis Morissette",
     "title": "Alanis_Morissette",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Alanis_Morissette.txt",
+    "file": "Alanis_Morissette.txt",
     "status": "skipped-existing",
     "label": "Alanis Morissette",
     "display": "Alanis Morissette"
@@ -2410,7 +2410,7 @@
   {
     "input": "Van Morrison",
     "title": "Van_Morrison",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Van_Morrison.txt",
+    "file": "Van_Morrison.txt",
     "status": "skipped-existing",
     "label": "Van Morrison",
     "display": "Van Morrison"
@@ -2418,7 +2418,7 @@
   {
     "input": "Morrissey",
     "title": "Morrissey",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Morrissey.txt",
+    "file": "Morrissey.txt",
     "status": "skipped-existing",
     "label": "Morrissey",
     "display": "Morrissey"
@@ -2426,7 +2426,7 @@
   {
     "input": "The Mothers of Invention",
     "title": "The_Mothers_of_Invention",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Mothers_of_Invention.txt",
+    "file": "The_Mothers_of_Invention.txt",
     "status": "skipped-existing",
     "label": "The Mothers of Invention",
     "display": "The Mothers of Invention"
@@ -2434,7 +2434,7 @@
   {
     "input": "Mötley Crüe",
     "title": "Mötley_Crüe",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Mötley_Crüe.txt",
+    "file": "Mötley_Crüe.txt",
     "status": "skipped-existing",
     "label": "Mötley Crüe",
     "display": "Mötley Crüe"
@@ -2442,7 +2442,7 @@
   {
     "input": "Motörhead",
     "title": "Motörhead",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Motörhead.txt",
+    "file": "Motörhead.txt",
     "status": "skipped-existing",
     "label": "Motörhead",
     "display": "Motörhead"
@@ -2450,7 +2450,7 @@
   {
     "input": "Mudvayne",
     "title": "Mudvayne",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Mudvayne.txt",
+    "file": "Mudvayne.txt",
     "status": "skipped-existing",
     "label": "Mudvayne",
     "display": "Mudvayne"
@@ -2458,7 +2458,7 @@
   {
     "input": "Mumford & Sons",
     "title": "Mumford_&_Sons",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Mumford_&_Sons.txt",
+    "file": "Mumford_&_Sons.txt",
     "status": "skipped-existing",
     "label": "Mumford & Sons",
     "display": "Mumford & Sons"
@@ -2466,7 +2466,7 @@
   {
     "input": "Michael Martin Murphey",
     "title": "Michael_Martin_Murphey",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Michael_Martin_Murphey.txt",
+    "file": "Michael_Martin_Murphey.txt",
     "status": "skipped-existing",
     "label": "Michael Martin Murphey",
     "display": "Michael Martin Murphey"
@@ -2474,7 +2474,7 @@
   {
     "input": "Muse (band)",
     "title": "Muse_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Muse_(band).txt",
+    "file": "Muse_(band).txt",
     "status": "skipped-existing",
     "label": "Muse",
     "display": "Muse"
@@ -2482,7 +2482,7 @@
   {
     "input": "My Chemical Romance",
     "title": "My_Chemical_Romance",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\My_Chemical_Romance.txt",
+    "file": "My_Chemical_Romance.txt",
     "status": "skipped-existing",
     "label": "My Chemical Romance",
     "display": "My Chemical Romance"
@@ -2490,7 +2490,7 @@
   {
     "input": "New York Dolls",
     "title": "New_York_Dolls",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\New_York_Dolls.txt",
+    "file": "New_York_Dolls.txt",
     "status": "skipped-existing",
     "label": "New York Dolls",
     "display": "New York Dolls"
@@ -2498,7 +2498,7 @@
   {
     "input": "Nickelback",
     "title": "Nickelback",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Nickelback.txt",
+    "file": "Nickelback.txt",
     "status": "skipped-existing",
     "label": "Nickelback",
     "display": "Nickelback"
@@ -2506,7 +2506,7 @@
   {
     "input": "Stevie Nicks",
     "title": "Stevie_Nicks",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Stevie_Nicks.txt",
+    "file": "Stevie_Nicks.txt",
     "status": "skipped-existing",
     "label": "Stevie Nicks",
     "display": "Stevie Nicks"
@@ -2514,7 +2514,7 @@
   {
     "input": "Harry Nilsson",
     "title": "Harry_Nilsson",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Harry_Nilsson.txt",
+    "file": "Harry_Nilsson.txt",
     "status": "skipped-existing",
     "label": "Harry Nilsson",
     "display": "Harry Nilsson"
@@ -2522,7 +2522,7 @@
   {
     "input": "Nine Inch Nails",
     "title": "Nine_Inch_Nails",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Nine_Inch_Nails.txt",
+    "file": "Nine_Inch_Nails.txt",
     "status": "skipped-existing",
     "label": "Nine Inch Nails",
     "display": "Nine Inch Nails"
@@ -2530,7 +2530,7 @@
   {
     "input": "Nirvana (band)",
     "title": "Nirvana_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Nirvana_(band).txt",
+    "file": "Nirvana_(band).txt",
     "status": "skipped-existing",
     "label": "Nirvana",
     "display": "Nirvana"
@@ -2538,7 +2538,7 @@
   {
     "input": "No Doubt",
     "title": "No_Doubt",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\No_Doubt.txt",
+    "file": "No_Doubt.txt",
     "status": "skipped-existing",
     "label": "No Doubt",
     "display": "No Doubt"
@@ -2546,7 +2546,7 @@
   {
     "input": "Ted Nugent",
     "title": "Ted_Nugent",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ted_Nugent.txt",
+    "file": "Ted_Nugent.txt",
     "status": "skipped-existing",
     "label": "Ted Nugent",
     "display": "Ted Nugent"
@@ -2554,7 +2554,7 @@
   {
     "input": "Oasis (band)",
     "title": "Oasis_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Oasis_(band).txt",
+    "file": "Oasis_(band).txt",
     "status": "skipped-existing",
     "label": "Oasis",
     "display": "Oasis"
@@ -2562,7 +2562,7 @@
   {
     "input": "The Offspring",
     "title": "The_Offspring",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Offspring.txt",
+    "file": "The_Offspring.txt",
     "status": "skipped-existing",
     "label": "The Offspring",
     "display": "The Offspring"
@@ -2570,7 +2570,7 @@
   {
     "input": "Roy Orbison",
     "title": "Roy_Orbison",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Roy_Orbison.txt",
+    "file": "Roy_Orbison.txt",
     "status": "skipped-existing",
     "label": "Roy Orbison",
     "display": "Roy Orbison"
@@ -2578,7 +2578,7 @@
   {
     "input": "Ozzy Osbourne",
     "title": "Ozzy_Osbourne",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ozzy_Osbourne.txt",
+    "file": "Ozzy_Osbourne.txt",
     "status": "skipped-existing",
     "label": "Ozzy Osbourne",
     "display": "Ozzy Osbourne"
@@ -2586,7 +2586,7 @@
   {
     "input": "Our Lady Peace",
     "title": "Our_Lady_Peace",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Our_Lady_Peace.txt",
+    "file": "Our_Lady_Peace.txt",
     "status": "skipped-existing",
     "label": "Our Lady Peace",
     "display": "Our Lady Peace"
@@ -2594,7 +2594,7 @@
   {
     "input": "The Outfield",
     "title": "The_Outfield",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Outfield.txt",
+    "file": "The_Outfield.txt",
     "status": "skipped-existing",
     "label": "The Outfield",
     "display": "The Outfield"
@@ -2602,7 +2602,7 @@
   {
     "input": "P.O.D.",
     "title": "P.O.D.",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\P.O.D..txt",
+    "file": "P.O.D..txt",
     "status": "skipped-existing",
     "label": "P.O.D.",
     "display": "P.O.D."
@@ -2610,7 +2610,7 @@
   {
     "input": "Panic! at the Disco",
     "title": "Panic!_at_the_Disco",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Panic__at_the_Disco.txt",
+    "file": "Panic__at_the_Disco.txt",
     "status": "skipped-existing",
     "label": "Panic! at the Disco",
     "display": "Panic! at the Disco"
@@ -2618,7 +2618,7 @@
   {
     "input": "Pantera",
     "title": "Pantera",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Pantera.txt",
+    "file": "Pantera.txt",
     "status": "skipped-existing",
     "label": "Pantera",
     "display": "Pantera"
@@ -2626,7 +2626,7 @@
   {
     "input": "Papa Roach",
     "title": "Papa_Roach",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Papa_Roach.txt",
+    "file": "Papa_Roach.txt",
     "status": "skipped-existing",
     "label": "Papa Roach",
     "display": "Papa Roach"
@@ -2634,7 +2634,7 @@
   {
     "input": "Paramore",
     "title": "Paramore",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Paramore.txt",
+    "file": "Paramore.txt",
     "status": "skipped-existing",
     "label": "Paramore",
     "display": "Paramore"
@@ -2642,7 +2642,7 @@
   {
     "input": "Parliament (band)",
     "title": "Parliament_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Parliament_(band).txt",
+    "file": "Parliament_(band).txt",
     "status": "skipped-existing",
     "label": "Parliament",
     "display": "Parliament (band)"
@@ -2650,7 +2650,7 @@
   {
     "input": "Parliament-Funkadelic",
     "title": "Parliament-Funkadelic",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Parliament-Funkadelic.txt",
+    "file": "Parliament-Funkadelic.txt",
     "status": "skipped-existing",
     "label": "Parliament-Funkadelic",
     "display": "Parliament-Funkadelic"
@@ -2658,7 +2658,7 @@
   {
     "input": "Pearl Jam",
     "title": "Pearl_Jam",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Pearl_Jam.txt",
+    "file": "Pearl_Jam.txt",
     "status": "skipped-existing",
     "label": "Pearl Jam",
     "display": "Pearl Jam"
@@ -2666,7 +2666,7 @@
   {
     "input": "A Perfect Circle",
     "title": "A_Perfect_Circle",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\A_Perfect_Circle.txt",
+    "file": "A_Perfect_Circle.txt",
     "status": "skipped-existing",
     "label": "A Perfect Circle",
     "display": "A Perfect Circle"
@@ -2674,7 +2674,7 @@
   {
     "input": "Tom Petty",
     "title": "Tom_Petty",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tom_Petty.txt",
+    "file": "Tom_Petty.txt",
     "status": "skipped-existing",
     "label": "Tom Petty",
     "display": "Tom Petty"
@@ -2682,7 +2682,7 @@
   {
     "input": "Tom Petty and the Heartbreakers",
     "title": "Tom_Petty_and_the_Heartbreakers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tom_Petty_and_the_Heartbreakers.txt",
+    "file": "Tom_Petty_and_the_Heartbreakers.txt",
     "status": "skipped-existing",
     "label": "Tom Petty and the Heartbreakers",
     "display": "Tom Petty and the Heartbreakers"
@@ -2690,7 +2690,7 @@
   {
     "input": "Pink Floyd",
     "title": "Pink_Floyd",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Pink_Floyd.txt",
+    "file": "Pink_Floyd.txt",
     "status": "skipped-existing",
     "label": "Pink Floyd",
     "display": "Pink Floyd"
@@ -2698,7 +2698,7 @@
   {
     "input": "Pixies (band)",
     "title": "Pixies_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Pixies_(band).txt",
+    "file": "Pixies_(band).txt",
     "status": "skipped-existing",
     "label": "Pixies",
     "display": "Pixies"
@@ -2706,7 +2706,7 @@
   {
     "input": "Robert Plant",
     "title": "Robert_Plant",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Robert_Plant.txt",
+    "file": "Robert_Plant.txt",
     "status": "skipped-existing",
     "label": "Robert Plant",
     "display": "Robert Plant"
@@ -2714,7 +2714,7 @@
   {
     "input": "Poison (American band)",
     "title": "Poison_(American_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Poison_(American_band).txt",
+    "file": "Poison_(American_band).txt",
     "status": "skipped-existing",
     "label": "Poison",
     "display": "Poison"
@@ -2722,7 +2722,7 @@
   {
     "input": "The Police",
     "title": "The_Police",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Police.txt",
+    "file": "The_Police.txt",
     "status": "skipped-existing",
     "label": "The Police",
     "display": "The Police"
@@ -2730,7 +2730,7 @@
   {
     "input": "Iggy Pop",
     "title": "Iggy_Pop",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Iggy_Pop.txt",
+    "file": "Iggy_Pop.txt",
     "status": "skipped-existing",
     "label": "Iggy Pop",
     "display": "Iggy Pop"
@@ -2738,7 +2738,7 @@
   {
     "input": "Pop Evil",
     "title": "Pop_Evil",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Pop_Evil.txt",
+    "file": "Pop_Evil.txt",
     "status": "skipped-existing",
     "label": "Pop Evil",
     "display": "Pop Evil"
@@ -2746,7 +2746,7 @@
   {
     "input": "The Presidents of the United States of America (band)",
     "title": "The_Presidents_of_the_United_States_of_America_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Presidents_of_the_United_States_of_America_(band).txt",
+    "file": "The_Presidents_of_the_United_States_of_America_(band).txt",
     "status": "skipped-existing",
     "label": "The Presidents of the United States of America",
     "display": "The Presidents of the United States of America"
@@ -2754,7 +2754,7 @@
   {
     "input": "The Pretenders",
     "title": "The_Pretenders",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Pretenders.txt",
+    "file": "The_Pretenders.txt",
     "status": "skipped-existing",
     "label": "The Pretenders",
     "display": "The Pretenders"
@@ -2762,7 +2762,7 @@
   {
     "input": "Elvis Presley",
     "title": "Elvis_Presley",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Elvis_Presley.txt",
+    "file": "Elvis_Presley.txt",
     "status": "skipped-existing",
     "label": "Elvis Presley",
     "display": "Elvis Presley"
@@ -2770,7 +2770,7 @@
   {
     "input": "The Pretty Reckless",
     "title": "The_Pretty_Reckless",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Pretty_Reckless.txt",
+    "file": "The_Pretty_Reckless.txt",
     "status": "skipped-existing",
     "label": "The Pretty Reckless",
     "display": "The Pretty Reckless"
@@ -2778,7 +2778,7 @@
   {
     "input": "Primus (band)",
     "title": "Primus_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Primus_(band).txt",
+    "file": "Primus_(band).txt",
     "status": "skipped-existing",
     "label": "Primus",
     "display": "Primus"
@@ -2786,7 +2786,7 @@
   {
     "input": "Puddle of Mudd",
     "title": "Puddle_of_Mudd",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Puddle_of_Mudd.txt",
+    "file": "Puddle_of_Mudd.txt",
     "status": "skipped-existing",
     "label": "Puddle of Mudd",
     "display": "Puddle of Mudd"
@@ -2794,7 +2794,7 @@
   {
     "input": "Queen (band)",
     "title": "Queen_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Queen_(band).txt",
+    "file": "Queen_(band).txt",
     "status": "skipped-existing",
     "label": "Queen",
     "display": "Queen"
@@ -2802,7 +2802,7 @@
   {
     "input": "Queens of the Stone Age",
     "title": "Queens_of_the_Stone_Age",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Queens_of_the_Stone_Age.txt",
+    "file": "Queens_of_the_Stone_Age.txt",
     "status": "skipped-existing",
     "label": "Queens of the Stone Age",
     "display": "Queens of the Stone Age"
@@ -2810,7 +2810,7 @@
   {
     "input": "Queensrÿche",
     "title": "Queensrÿche",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Queensrÿche.txt",
+    "file": "Queensrÿche.txt",
     "status": "skipped-existing",
     "label": "Queensrÿche",
     "display": "Queensrÿche"
@@ -2818,7 +2818,7 @@
   {
     "input": "Quiet Riot",
     "title": "Quiet_Riot",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Quiet_Riot.txt",
+    "file": "Quiet_Riot.txt",
     "status": "skipped-existing",
     "label": "Quiet Riot",
     "display": "Quiet Riot"
@@ -2826,7 +2826,7 @@
   {
     "input": "R.E.M.",
     "title": "R.E.M.",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\R.E.M..txt",
+    "file": "R.E.M..txt",
     "status": "skipped-existing",
     "label": "R.E.M.",
     "display": "R.E.M."
@@ -2834,7 +2834,7 @@
   {
     "input": "Radiohead",
     "title": "Radiohead",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Radiohead.txt",
+    "file": "Radiohead.txt",
     "status": "skipped-existing",
     "label": "Radiohead",
     "display": "Radiohead"
@@ -2842,7 +2842,7 @@
   {
     "input": "Rage Against the Machine",
     "title": "Rage_Against_the_Machine",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rage_Against_the_Machine.txt",
+    "file": "Rage_Against_the_Machine.txt",
     "status": "skipped-existing",
     "label": "Rage Against the Machine",
     "display": "Rage Against the Machine"
@@ -2850,7 +2850,7 @@
   {
     "input": "Rainbow (rock band)",
     "title": "Rainbow_(rock_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rainbow_(rock_band).txt",
+    "file": "Rainbow_(rock_band).txt",
     "status": "skipped-existing",
     "label": "Rainbow",
     "display": "Rainbow"
@@ -2858,7 +2858,7 @@
   {
     "input": "Rammstein",
     "title": "Rammstein",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rammstein.txt",
+    "file": "Rammstein.txt",
     "status": "skipped-existing",
     "label": "Rammstein",
     "display": "Rammstein"
@@ -2866,7 +2866,7 @@
   {
     "input": "Ramones",
     "title": "Ramones",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ramones.txt",
+    "file": "Ramones.txt",
     "status": "skipped-existing",
     "label": "Ramones",
     "display": "Ramones"
@@ -2874,7 +2874,7 @@
   {
     "input": "Ratt",
     "title": "Ratt",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ratt.txt",
+    "file": "Ratt.txt",
     "status": "skipped-existing",
     "label": "Ratt",
     "display": "Ratt"
@@ -2882,7 +2882,7 @@
   {
     "input": "Red Hot Chili Peppers",
     "title": "Red_Hot_Chili_Peppers",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Red_Hot_Chili_Peppers.txt",
+    "file": "Red_Hot_Chili_Peppers.txt",
     "status": "skipped-existing",
     "label": "Red Hot Chili Peppers",
     "display": "Red Hot Chili Peppers"
@@ -2890,7 +2890,7 @@
   {
     "input": "Lou Reed",
     "title": "Lou_Reed",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Lou_Reed.txt",
+    "file": "Lou_Reed.txt",
     "status": "skipped-existing",
     "label": "Lou Reed",
     "display": "Lou Reed"
@@ -2898,7 +2898,7 @@
   {
     "input": "REO Speedwagon",
     "title": "REO_Speedwagon",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\REO_Speedwagon.txt",
+    "file": "REO_Speedwagon.txt",
     "status": "skipped-existing",
     "label": "REO Speedwagon",
     "display": "REO Speedwagon"
@@ -2906,7 +2906,7 @@
   {
     "input": "Chris Rea",
     "title": "Chris_Rea",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Chris_Rea.txt",
+    "file": "Chris_Rea.txt",
     "status": "skipped-existing",
     "label": "Chris Rea",
     "display": "Chris Rea"
@@ -2914,7 +2914,7 @@
   {
     "input": "Rise Against",
     "title": "Rise_Against",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rise_Against.txt",
+    "file": "Rise_Against.txt",
     "status": "skipped-existing",
     "label": "Rise Against",
     "display": "Rise Against"
@@ -2922,7 +2922,7 @@
   {
     "input": "Sixto Rodriguez",
     "title": "Sixto_Rodriguez",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sixto_Rodriguez.txt",
+    "file": "Sixto_Rodriguez.txt",
     "status": "skipped-existing",
     "label": "Sixto Rodriguez",
     "display": "Sixto Rodriguez"
@@ -2930,7 +2930,7 @@
   {
     "input": "The Rolling Stones",
     "title": "The_Rolling_Stones",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Rolling_Stones.txt",
+    "file": "The_Rolling_Stones.txt",
     "status": "skipped-existing",
     "label": "The Rolling Stones",
     "display": "The Rolling Stones"
@@ -2938,7 +2938,7 @@
   {
     "input": "Linda Ronstadt",
     "title": "Linda_Ronstadt",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Linda_Ronstadt.txt",
+    "file": "Linda_Ronstadt.txt",
     "status": "skipped-existing",
     "label": "Linda Ronstadt",
     "display": "Linda Ronstadt"
@@ -2946,7 +2946,7 @@
   {
     "input": "Roxy Music",
     "title": "Roxy_Music",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Roxy_Music.txt",
+    "file": "Roxy_Music.txt",
     "status": "skipped-existing",
     "label": "Roxy Music",
     "display": "Roxy Music"
@@ -2954,7 +2954,7 @@
   {
     "input": "Royal Blood (band)",
     "title": "Royal_Blood_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Royal_Blood_(band).txt",
+    "file": "Royal_Blood_(band).txt",
     "status": "skipped-existing",
     "label": "Royal Blood",
     "display": "Royal Blood"
@@ -2962,7 +2962,7 @@
   {
     "input": "Run-DMC",
     "title": "Run-DMC",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Run-DMC.txt",
+    "file": "Run-DMC.txt",
     "status": "skipped-existing",
     "label": "Run-DMC",
     "display": "Run-DMC"
@@ -2970,7 +2970,7 @@
   {
     "input": "Rush (band)",
     "title": "Rush_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rush_(band).txt",
+    "file": "Rush_(band).txt",
     "status": "skipped-existing",
     "label": "Rush",
     "display": "Rush"
@@ -2978,7 +2978,7 @@
   {
     "input": "Mitch Ryder",
     "title": "Mitch_Ryder",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Mitch_Ryder.txt",
+    "file": "Mitch_Ryder.txt",
     "status": "skipped-existing",
     "label": "Mitch Ryder",
     "display": "Mitch Ryder"
@@ -2986,7 +2986,7 @@
   {
     "input": "Saliva (band)",
     "title": "Saliva_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Saliva_(band).txt",
+    "file": "Saliva_(band).txt",
     "status": "skipped-existing",
     "label": "Saliva",
     "display": "Saliva"
@@ -2994,7 +2994,7 @@
   {
     "input": "Sam Fender",
     "title": "Sam_Fender",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sam_Fender.txt",
+    "file": "Sam_Fender.txt",
     "status": "skipped-existing",
     "label": "Sam Fender",
     "display": "Sam Fender"
@@ -3002,7 +3002,7 @@
   {
     "input": "Santana (band)",
     "title": "Santana_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Santana_(band).txt",
+    "file": "Santana_(band).txt",
     "status": "skipped-existing",
     "label": "Santana",
     "display": "Santana"
@@ -3010,7 +3010,7 @@
   {
     "input": "Joe Satriani",
     "title": "Joe_Satriani",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Joe_Satriani.txt",
+    "file": "Joe_Satriani.txt",
     "status": "skipped-existing",
     "label": "Joe Satriani",
     "display": "Joe Satriani"
@@ -3018,7 +3018,7 @@
   {
     "input": "Saving Abel",
     "title": "Saving_Abel",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Saving_Abel.txt",
+    "file": "Saving_Abel.txt",
     "status": "skipped-existing",
     "label": "Saving Abel",
     "display": "Saving Abel"
@@ -3026,7 +3026,7 @@
   {
     "input": "Scorpions (band)",
     "title": "Scorpions_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Scorpions_(band).txt",
+    "file": "Scorpions_(band).txt",
     "status": "skipped-existing",
     "label": "Scorpions",
     "display": "Scorpions"
@@ -3034,7 +3034,7 @@
   {
     "input": "The Script",
     "title": "The_Script",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Script.txt",
+    "file": "The_Script.txt",
     "status": "skipped-existing",
     "label": "The Script",
     "display": "The Script"
@@ -3042,7 +3042,7 @@
   {
     "input": "Seether",
     "title": "Seether",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Seether.txt",
+    "file": "Seether.txt",
     "status": "skipped-existing",
     "label": "Seether",
     "display": "Seether"
@@ -3050,7 +3050,7 @@
   {
     "input": "Bob Seger",
     "title": "Bob_Seger",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bob_Seger.txt",
+    "file": "Bob_Seger.txt",
     "status": "skipped-existing",
     "label": "Bob Seger & the Silver Bullet Band",
     "display": "Bob Seger & the Silver Bullet Band"
@@ -3058,7 +3058,7 @@
   {
     "input": "Sepultura",
     "title": "Sepultura",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sepultura.txt",
+    "file": "Sepultura.txt",
     "status": "skipped-existing",
     "label": "Sepultura",
     "display": "Sepultura"
@@ -3066,7 +3066,7 @@
   {
     "input": "Sex Pistols",
     "title": "Sex_Pistols",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sex_Pistols.txt",
+    "file": "Sex_Pistols.txt",
     "status": "skipped-existing",
     "label": "Sex Pistols",
     "display": "Sex Pistols"
@@ -3074,7 +3074,7 @@
   {
     "input": "Shakin' Stevens",
     "title": "Shakin'_Stevens",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Shakin'_Stevens.txt",
+    "file": "Shakin'_Stevens.txt",
     "status": "skipped-existing",
     "label": "Shakin' Stevens",
     "display": "Shakin' Stevens"
@@ -3082,7 +3082,7 @@
   {
     "input": "Shinedown",
     "title": "Shinedown",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Shinedown.txt",
+    "file": "Shinedown.txt",
     "status": "skipped-existing",
     "label": "Shinedown",
     "display": "Shinedown"
@@ -3090,7 +3090,7 @@
   {
     "input": "Silverchair",
     "title": "Silverchair",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Silverchair.txt",
+    "file": "Silverchair.txt",
     "status": "skipped-existing",
     "label": "Silverchair",
     "display": "Silverchair"
@@ -3098,7 +3098,7 @@
   {
     "input": "Simon & Garfunkel",
     "title": "Simon_&_Garfunkel",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Simon_&_Garfunkel.txt",
+    "file": "Simon_&_Garfunkel.txt",
     "status": "skipped-existing",
     "label": "Simon & Garfunkel",
     "display": "Simon & Garfunkel"
@@ -3106,7 +3106,7 @@
   {
     "input": "Simple Minds",
     "title": "Simple_Minds",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Simple_Minds.txt",
+    "file": "Simple_Minds.txt",
     "status": "skipped-existing",
     "label": "Simple Minds",
     "display": "Simple Minds"
@@ -3114,7 +3114,7 @@
   {
     "input": "Simple Plan",
     "title": "Simple_Plan",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Simple_Plan.txt",
+    "file": "Simple_Plan.txt",
     "status": "skipped-existing",
     "label": "Simple Plan",
     "display": "Simple Plan"
@@ -3122,7 +3122,7 @@
   {
     "input": "Skid Row (American band)",
     "title": "Skid_Row_(American_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Skid_Row_(American_band).txt",
+    "file": "Skid_Row_(American_band).txt",
     "status": "skipped-existing",
     "label": "Skid Row",
     "display": "Skid Row"
@@ -3130,7 +3130,7 @@
   {
     "input": "Skillet (band)",
     "title": "Skillet_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Skillet_(band).txt",
+    "file": "Skillet_(band).txt",
     "status": "skipped-existing",
     "label": "Skillet",
     "display": "Skillet"
@@ -3138,7 +3138,7 @@
   {
     "input": "Slade",
     "title": "Slade",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Slade.txt",
+    "file": "Slade.txt",
     "status": "skipped-existing",
     "label": "Slade",
     "display": "Slade"
@@ -3146,7 +3146,7 @@
   {
     "input": "Slayer",
     "title": "Slayer",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Slayer.txt",
+    "file": "Slayer.txt",
     "status": "skipped-existing",
     "label": "Slayer",
     "display": "Slayer"
@@ -3154,7 +3154,7 @@
   {
     "input": "Slipknot (band)",
     "title": "Slipknot_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Slipknot_(band).txt",
+    "file": "Slipknot_(band).txt",
     "status": "skipped-existing",
     "label": "Slipknot",
     "display": "Slipknot"
@@ -3162,7 +3162,7 @@
   {
     "input": "Sly and the Family Stone",
     "title": "Sly_and_the_Family_Stone",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sly_and_the_Family_Stone.txt",
+    "file": "Sly_and_the_Family_Stone.txt",
     "status": "skipped-existing",
     "label": "Sly and the Family Stone",
     "display": "Sly and the Family Stone"
@@ -3170,7 +3170,7 @@
   {
     "input": "Small Faces",
     "title": "Small_Faces",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Small_Faces.txt",
+    "file": "Small_Faces.txt",
     "status": "skipped-existing",
     "label": "Small Faces",
     "display": "Small Faces"
@@ -3178,7 +3178,7 @@
   {
     "input": "Smash Mouth",
     "title": "Smash_Mouth",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Smash_Mouth.txt",
+    "file": "Smash_Mouth.txt",
     "status": "skipped-existing",
     "label": "Smash Mouth",
     "display": "Smash Mouth"
@@ -3186,7 +3186,7 @@
   {
     "input": "The Smashing Pumpkins",
     "title": "The_Smashing_Pumpkins",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Smashing_Pumpkins.txt",
+    "file": "The_Smashing_Pumpkins.txt",
     "status": "skipped-existing",
     "label": "The Smashing Pumpkins",
     "display": "The Smashing Pumpkins"
@@ -3194,7 +3194,7 @@
   {
     "input": "The Smiths",
     "title": "The_Smiths",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Smiths.txt",
+    "file": "The_Smiths.txt",
     "status": "skipped-existing",
     "label": "The Smiths",
     "display": "The Smiths"
@@ -3202,7 +3202,7 @@
   {
     "input": "Smokie (band)",
     "title": "Smokie_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Smokie_(band).txt",
+    "file": "Smokie_(band).txt",
     "status": "skipped-existing",
     "label": "Smokie",
     "display": "Smokie"
@@ -3210,7 +3210,7 @@
   {
     "input": "Snow Patrol",
     "title": "Snow_Patrol",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Snow_Patrol.txt",
+    "file": "Snow_Patrol.txt",
     "status": "skipped-existing",
     "label": "Snow Patrol",
     "display": "Snow Patrol"
@@ -3218,7 +3218,7 @@
   {
     "input": "Social Distortion",
     "title": "Social_Distortion",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Social_Distortion.txt",
+    "file": "Social_Distortion.txt",
     "status": "skipped-existing",
     "label": "Social Distortion",
     "display": "Social Distortion"
@@ -3226,7 +3226,7 @@
   {
     "input": "Sonic Youth",
     "title": "Sonic_Youth",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sonic_Youth.txt",
+    "file": "Sonic_Youth.txt",
     "status": "skipped-existing",
     "label": "Sonic Youth",
     "display": "Sonic Youth"
@@ -3234,7 +3234,7 @@
   {
     "input": "Soundgarden",
     "title": "Soundgarden",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Soundgarden.txt",
+    "file": "Soundgarden.txt",
     "status": "skipped-existing",
     "label": "Soundgarden",
     "display": "Soundgarden"
@@ -3242,7 +3242,7 @@
   {
     "input": "Bruce Springsteen",
     "title": "Bruce_Springsteen",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Bruce_Springsteen.txt",
+    "file": "Bruce_Springsteen.txt",
     "status": "skipped-existing",
     "label": "Bruce Springsteen",
     "display": "Bruce Springsteen"
@@ -3250,7 +3250,7 @@
   {
     "input": "Billy Squier",
     "title": "Billy_Squier",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Billy_Squier.txt",
+    "file": "Billy_Squier.txt",
     "status": "skipped-existing",
     "label": "Billy Squier",
     "display": "Billy Squier"
@@ -3258,7 +3258,7 @@
   {
     "input": "Staind",
     "title": "Staind",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Staind.txt",
+    "file": "Staind.txt",
     "status": "skipped-existing",
     "label": "Staind",
     "display": "Staind"
@@ -3266,7 +3266,7 @@
   {
     "input": "Ringo Starr",
     "title": "Ringo_Starr",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ringo_Starr.txt",
+    "file": "Ringo_Starr.txt",
     "status": "skipped-existing",
     "label": "Ringo Starr",
     "display": "Ringo Starr"
@@ -3274,7 +3274,7 @@
   {
     "input": "Starset",
     "title": "Starset",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Starset.txt",
+    "file": "Starset.txt",
     "status": "skipped-existing",
     "label": "Starset",
     "display": "Starset"
@@ -3282,7 +3282,7 @@
   {
     "input": "Starship (band)",
     "title": "Starship_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Starship_(band).txt",
+    "file": "Starship_(band).txt",
     "status": "skipped-existing",
     "label": "Starship",
     "display": "Starship"
@@ -3290,7 +3290,7 @@
   {
     "input": "Status Quo (band)",
     "title": "Status_Quo_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Status_Quo_(band).txt",
+    "file": "Status_Quo_(band).txt",
     "status": "skipped-existing",
     "label": "Status Quo",
     "display": "Status Quo"
@@ -3298,7 +3298,7 @@
   {
     "input": "Steely Dan",
     "title": "Steely_Dan",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Steely_Dan.txt",
+    "file": "Steely_Dan.txt",
     "status": "skipped-existing",
     "label": "Steely Dan",
     "display": "Steely Dan"
@@ -3306,7 +3306,7 @@
   {
     "input": "Steppenwolf (band)",
     "title": "Steppenwolf_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Steppenwolf_(band).txt",
+    "file": "Steppenwolf_(band).txt",
     "status": "skipped-existing",
     "label": "Steppenwolf",
     "display": "Steppenwolf"
@@ -3314,7 +3314,7 @@
   {
     "input": "Steve Miller Band",
     "title": "Steve_Miller_Band",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Steve_Miller_Band.txt",
+    "file": "Steve_Miller_Band.txt",
     "status": "skipped-existing",
     "label": "Steve Miller Band",
     "display": "Steve Miller Band"
@@ -3322,7 +3322,7 @@
   {
     "input": "Rod Stewart",
     "title": "Rod_Stewart",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rod_Stewart.txt",
+    "file": "Rod_Stewart.txt",
     "status": "skipped-existing",
     "label": "Rod Stewart",
     "display": "Rod Stewart"
@@ -3330,7 +3330,7 @@
   {
     "input": "Sting (musician)",
     "title": "Sting_(musician)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sting_(musician).txt",
+    "file": "Sting_(musician).txt",
     "status": "skipped-existing",
     "label": "Sting",
     "display": "Sting"
@@ -3338,7 +3338,7 @@
   {
     "input": "The Stone Roses",
     "title": "The_Stone_Roses",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Stone_Roses.txt",
+    "file": "The_Stone_Roses.txt",
     "status": "skipped-existing",
     "label": "The Stone Roses",
     "display": "The Stone Roses"
@@ -3346,7 +3346,7 @@
   {
     "input": "Stone Sour",
     "title": "Stone_Sour",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Stone_Sour.txt",
+    "file": "Stone_Sour.txt",
     "status": "skipped-existing",
     "label": "Stone Sour",
     "display": "Stone Sour"
@@ -3354,7 +3354,7 @@
   {
     "input": "Stone Temple Pilots",
     "title": "Stone_Temple_Pilots",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Stone_Temple_Pilots.txt",
+    "file": "Stone_Temple_Pilots.txt",
     "status": "skipped-existing",
     "label": "Stone Temple Pilots",
     "display": "Stone Temple Pilots"
@@ -3362,7 +3362,7 @@
   {
     "input": "The Strokes",
     "title": "The_Strokes",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Strokes.txt",
+    "file": "The_Strokes.txt",
     "status": "skipped-existing",
     "label": "The Strokes",
     "display": "The Strokes"
@@ -3370,7 +3370,7 @@
   {
     "input": "Styx (band)",
     "title": "Styx_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Styx_(band).txt",
+    "file": "Styx_(band).txt",
     "status": "skipped-existing",
     "label": "Styx",
     "display": "Styx"
@@ -3378,7 +3378,7 @@
   {
     "input": "Sublime (band)",
     "title": "Sublime_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sublime_(band).txt",
+    "file": "Sublime_(band).txt",
     "status": "skipped-existing",
     "label": "Sublime",
     "display": "Sublime"
@@ -3386,7 +3386,7 @@
   {
     "input": "Sublime with Rome",
     "title": "Sublime_with_Rome",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sublime_with_Rome.txt",
+    "file": "Sublime_with_Rome.txt",
     "status": "skipped-existing",
     "label": "Sublime with Rome",
     "display": "Sublime with Rome"
@@ -3394,7 +3394,7 @@
   {
     "input": "Sum 41",
     "title": "Sum_41",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Sum_41.txt",
+    "file": "Sum_41.txt",
     "status": "skipped-existing",
     "label": "Sum 41",
     "display": "Sum 41"
@@ -3402,7 +3402,7 @@
   {
     "input": "Supertramp",
     "title": "Supertramp",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Supertramp.txt",
+    "file": "Supertramp.txt",
     "status": "skipped-existing",
     "label": "Supertramp",
     "display": "Supertramp"
@@ -3410,7 +3410,7 @@
   {
     "input": "Survivor (band)",
     "title": "Survivor_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Survivor_(band).txt",
+    "file": "Survivor_(band).txt",
     "status": "skipped-existing",
     "label": "Survivor",
     "display": "Survivor"
@@ -3418,7 +3418,7 @@
   {
     "input": "The Sweet",
     "title": "The_Sweet",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Sweet.txt",
+    "file": "The_Sweet.txt",
     "status": "skipped-existing",
     "label": "Sweet",
     "display": "Sweet"
@@ -3426,7 +3426,7 @@
   {
     "input": "System of a Down",
     "title": "System_of_a_Down",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\System_of_a_Down.txt",
+    "file": "System_of_a_Down.txt",
     "status": "skipped-existing",
     "label": "System of a Down",
     "display": "System of a Down"
@@ -3434,7 +3434,7 @@
   {
     "input": "T. Rex (band)",
     "title": "T._Rex_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\T._Rex_(band).txt",
+    "file": "T._Rex_(band).txt",
     "status": "skipped-existing",
     "label": "T. Rex",
     "display": "T. Rex"
@@ -3442,7 +3442,7 @@
   {
     "input": "Talking Heads",
     "title": "Talking_Heads",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Talking_Heads.txt",
+    "file": "Talking_Heads.txt",
     "status": "skipped-existing",
     "label": "Talking Heads",
     "display": "Talking Heads"
@@ -3450,7 +3450,7 @@
   {
     "input": "James Taylor",
     "title": "James_Taylor",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\James_Taylor.txt",
+    "file": "James_Taylor.txt",
     "status": "skipped-existing",
     "label": "James Taylor",
     "display": "James Taylor"
@@ -3458,7 +3458,7 @@
   {
     "input": "Ten Years After",
     "title": "Ten_Years_After",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ten_Years_After.txt",
+    "file": "Ten_Years_After.txt",
     "status": "skipped-existing",
     "label": "Ten Years After",
     "display": "Ten Years After"
@@ -3466,7 +3466,7 @@
   {
     "input": "Tenacious D",
     "title": "Tenacious_D",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tenacious_D.txt",
+    "file": "Tenacious_D.txt",
     "status": "skipped-existing",
     "label": "Tenacious D",
     "display": "Tenacious D"
@@ -3474,7 +3474,7 @@
   {
     "input": "Tesla (band)",
     "title": "Tesla_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tesla_(band).txt",
+    "file": "Tesla_(band).txt",
     "status": "skipped-existing",
     "label": "Tesla",
     "display": "Tesla"
@@ -3482,7 +3482,7 @@
   {
     "input": "Theory of a Deadman",
     "title": "Theory_of_a_Deadman",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Theory_of_a_Deadman.txt",
+    "file": "Theory_of_a_Deadman.txt",
     "status": "skipped-existing",
     "label": "Theory of a Deadman",
     "display": "Theory of a Deadman"
@@ -3490,7 +3490,7 @@
   {
     "input": "Thin Lizzy",
     "title": "Thin_Lizzy",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Thin_Lizzy.txt",
+    "file": "Thin_Lizzy.txt",
     "status": "skipped-existing",
     "label": "Thin Lizzy",
     "display": "Thin Lizzy"
@@ -3498,7 +3498,7 @@
   {
     "input": "Third Eye Blind",
     "title": "Third_Eye_Blind",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Third_Eye_Blind.txt",
+    "file": "Third_Eye_Blind.txt",
     "status": "skipped-existing",
     "label": "Third Eye Blind",
     "display": "Third Eye Blind"
@@ -3506,7 +3506,7 @@
   {
     "input": "Thirty Seconds to Mars",
     "title": "Thirty_Seconds_to_Mars",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Thirty_Seconds_to_Mars.txt",
+    "file": "Thirty_Seconds_to_Mars.txt",
     "status": "skipped-existing",
     "label": "Thirty Seconds to Mars",
     "display": "Thirty Seconds to Mars"
@@ -3514,7 +3514,7 @@
   {
     "input": "George Thorogood",
     "title": "George_Thorogood",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\George_Thorogood.txt",
+    "file": "George_Thorogood.txt",
     "status": "skipped-existing",
     "label": "George Thorogood and the Destroyers",
     "display": "George Thorogood and the Destroyers"
@@ -3522,7 +3522,7 @@
   {
     "input": "Thousand Foot Krutch",
     "title": "Thousand_Foot_Krutch",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Thousand_Foot_Krutch.txt",
+    "file": "Thousand_Foot_Krutch.txt",
     "status": "skipped-existing",
     "label": "Thousand Foot Krutch",
     "display": "Thousand Foot Krutch"
@@ -3530,7 +3530,7 @@
   {
     "input": "Three Days Grace",
     "title": "Three_Days_Grace",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Three_Days_Grace.txt",
+    "file": "Three_Days_Grace.txt",
     "status": "skipped-existing",
     "label": "Three Days Grace",
     "display": "Three Days Grace"
@@ -3538,7 +3538,7 @@
   {
     "input": "Three Dog Night",
     "title": "Three_Dog_Night",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Three_Dog_Night.txt",
+    "file": "Three_Dog_Night.txt",
     "status": "skipped-existing",
     "label": "Three Dog Night",
     "display": "Three Dog Night"
@@ -3546,7 +3546,7 @@
   {
     "input": "Tool (band)",
     "title": "Tool_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Tool_(band).txt",
+    "file": "Tool_(band).txt",
     "status": "skipped-existing",
     "label": "Tool",
     "display": "Tool"
@@ -3554,7 +3554,7 @@
   {
     "input": "Toto (band)",
     "title": "Toto_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Toto_(band).txt",
+    "file": "Toto_(band).txt",
     "status": "skipped-existing",
     "label": "Toto",
     "display": "Toto"
@@ -3562,7 +3562,7 @@
   {
     "input": "Traffic (band)",
     "title": "Traffic_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Traffic_(band).txt",
+    "file": "Traffic_(band).txt",
     "status": "skipped-existing",
     "label": "Traffic",
     "display": "Traffic"
@@ -3570,7 +3570,7 @@
   {
     "input": "The Tragically Hip",
     "title": "The_Tragically_Hip",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Tragically_Hip.txt",
+    "file": "The_Tragically_Hip.txt",
     "status": "skipped-existing",
     "label": "The Tragically Hip",
     "display": "The Tragically Hip"
@@ -3578,7 +3578,7 @@
   {
     "input": "Train (band)",
     "title": "Train_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Train_(band).txt",
+    "file": "Train_(band).txt",
     "status": "skipped-existing",
     "label": "Train",
     "display": "Train"
@@ -3586,7 +3586,7 @@
   {
     "input": "Traveling Wilburys",
     "title": "Traveling_Wilburys",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Traveling_Wilburys.txt",
+    "file": "Traveling_Wilburys.txt",
     "status": "skipped-existing",
     "label": "The Traveling Wilburys",
     "display": "The Traveling Wilburys"
@@ -3594,7 +3594,7 @@
   {
     "input": "Travis (band)",
     "title": "Travis_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Travis_(band).txt",
+    "file": "Travis_(band).txt",
     "status": "skipped-existing",
     "label": "Travis",
     "display": "Travis"
@@ -3602,7 +3602,7 @@
   {
     "input": "Trivium (band)",
     "title": "Trivium_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Trivium_(band).txt",
+    "file": "Trivium_(band).txt",
     "status": "skipped-existing",
     "label": "Trivium",
     "display": "Trivium"
@@ -3610,7 +3610,7 @@
   {
     "input": "Twenty One Pilots",
     "title": "Twenty_One_Pilots",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Twenty_One_Pilots.txt",
+    "file": "Twenty_One_Pilots.txt",
     "status": "skipped-existing",
     "label": "Twenty One Pilots",
     "display": "Twenty One Pilots"
@@ -3618,7 +3618,7 @@
   {
     "input": "Twisted Sister",
     "title": "Twisted_Sister",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Twisted_Sister.txt",
+    "file": "Twisted_Sister.txt",
     "status": "skipped-existing",
     "label": "Twisted Sister",
     "display": "Twisted Sister"
@@ -3626,7 +3626,7 @@
   {
     "input": "U2",
     "title": "U2",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\U2.txt",
+    "file": "U2.txt",
     "status": "skipped-existing",
     "label": "U2",
     "display": "U2"
@@ -3634,7 +3634,7 @@
   {
     "input": "UB40",
     "title": "UB40",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\UB40.txt",
+    "file": "UB40.txt",
     "status": "skipped-existing",
     "label": "UB40",
     "display": "UB40"
@@ -3642,7 +3642,7 @@
   {
     "input": "Uriah Heep (band)",
     "title": "Uriah_Heep_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Uriah_Heep_(band).txt",
+    "file": "Uriah_Heep_(band).txt",
     "status": "skipped-existing",
     "label": "Uriah Heep",
     "display": "Uriah Heep"
@@ -3650,7 +3650,7 @@
   {
     "input": "The Used",
     "title": "The_Used",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Used.txt",
+    "file": "The_Used.txt",
     "status": "skipped-existing",
     "label": "The Used",
     "display": "The Used"
@@ -3658,7 +3658,7 @@
   {
     "input": "Steve Vai",
     "title": "Steve_Vai",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Steve_Vai.txt",
+    "file": "Steve_Vai.txt",
     "status": "skipped-existing",
     "label": "Steve Vai",
     "display": "Steve Vai"
@@ -3666,7 +3666,7 @@
   {
     "input": "Ritchie Valens",
     "title": "Ritchie_Valens",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Ritchie_Valens.txt",
+    "file": "Ritchie_Valens.txt",
     "status": "skipped-existing",
     "label": "Ritchie Valens",
     "display": "Ritchie Valens"
@@ -3674,7 +3674,7 @@
   {
     "input": "Vampire Weekend",
     "title": "Vampire_Weekend",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Vampire_Weekend.txt",
+    "file": "Vampire_Weekend.txt",
     "status": "skipped-existing",
     "label": "Vampire Weekend",
     "display": "Vampire Weekend"
@@ -3682,7 +3682,7 @@
   {
     "input": "Van Halen",
     "title": "Van_Halen",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Van_Halen.txt",
+    "file": "Van_Halen.txt",
     "status": "skipped-existing",
     "label": "Van Halen",
     "display": "Van Halen"
@@ -3690,7 +3690,7 @@
   {
     "input": "Van Zant (band)",
     "title": "Van_Zant_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Van_Zant_(band).txt",
+    "file": "Van_Zant_(band).txt",
     "status": "skipped-existing",
     "label": "Van Zant",
     "display": "Van Zant (band)"
@@ -3698,7 +3698,7 @@
   {
     "input": "Stevie Ray Vaughan",
     "title": "Stevie_Ray_Vaughan",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Stevie_Ray_Vaughan.txt",
+    "file": "Stevie_Ray_Vaughan.txt",
     "status": "skipped-existing",
     "label": "Stevie Ray Vaughan and Double Trouble",
     "display": "Stevie Ray Vaughan and Double Trouble"
@@ -3706,7 +3706,7 @@
   {
     "input": "Velvet Revolver",
     "title": "Velvet_Revolver",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Velvet_Revolver.txt",
+    "file": "Velvet_Revolver.txt",
     "status": "skipped-existing",
     "label": "Velvet Revolver",
     "display": "Velvet Revolver"
@@ -3714,7 +3714,7 @@
   {
     "input": "The Velvet Underground",
     "title": "The_Velvet_Underground",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Velvet_Underground.txt",
+    "file": "The_Velvet_Underground.txt",
     "status": "skipped-existing",
     "label": "The Velvet Underground",
     "display": "The Velvet Underground"
@@ -3722,7 +3722,7 @@
   {
     "input": "The Verve",
     "title": "The_Verve",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Verve.txt",
+    "file": "The_Verve.txt",
     "status": "skipped-existing",
     "label": "The Verve",
     "display": "The Verve"
@@ -3730,7 +3730,7 @@
   {
     "input": "Gene Vincent",
     "title": "Gene_Vincent",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Gene_Vincent.txt",
+    "file": "Gene_Vincent.txt",
     "status": "skipped-existing",
     "label": "Gene Vincent",
     "display": "Gene Vincent"
@@ -3738,7 +3738,7 @@
   {
     "input": "Volbeat",
     "title": "Volbeat",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Volbeat.txt",
+    "file": "Volbeat.txt",
     "status": "skipped-existing",
     "label": "Volbeat",
     "display": "Volbeat"
@@ -3746,7 +3746,7 @@
   {
     "input": "Joe Walsh",
     "title": "Joe_Walsh",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Joe_Walsh.txt",
+    "file": "Joe_Walsh.txt",
     "status": "skipped-existing",
     "label": "Joe Walsh",
     "display": "Joe Walsh"
@@ -3754,7 +3754,7 @@
   {
     "input": "Warrant (American band)",
     "title": "Warrant_(American_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Warrant_(American_band).txt",
+    "file": "Warrant_(American_band).txt",
     "status": "skipped-existing",
     "label": "Warrant",
     "display": "Warrant"
@@ -3762,7 +3762,7 @@
   {
     "input": "W.A.S.P. (band)",
     "title": "W.A.S.P._(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\W.A.S.P._(band).txt",
+    "file": "W.A.S.P._(band).txt",
     "status": "skipped-existing",
     "label": "W.A.S.P.",
     "display": "W.A.S.P. (band)"
@@ -3770,7 +3770,7 @@
   {
     "input": "Weezer",
     "title": "Weezer",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Weezer.txt",
+    "file": "Weezer.txt",
     "status": "skipped-existing",
     "label": "Weezer",
     "display": "Weezer"
@@ -3778,7 +3778,7 @@
   {
     "input": "Jack White",
     "title": "Jack_White",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Jack_White.txt",
+    "file": "Jack_White.txt",
     "status": "skipped-existing",
     "label": "Jack White",
     "display": "Jack White"
@@ -3786,7 +3786,7 @@
   {
     "input": "The White Stripes",
     "title": "The_White_Stripes",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_White_Stripes.txt",
+    "file": "The_White_Stripes.txt",
     "status": "skipped-existing",
     "label": "The White Stripes",
     "display": "The White Stripes"
@@ -3794,7 +3794,7 @@
   {
     "input": "White Zombie (band)",
     "title": "White_Zombie_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\White_Zombie_(band).txt",
+    "file": "White_Zombie_(band).txt",
     "status": "skipped-existing",
     "label": "White Zombie",
     "display": "White Zombie"
@@ -3802,7 +3802,7 @@
   {
     "input": "Whitesnake",
     "title": "Whitesnake",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Whitesnake.txt",
+    "file": "Whitesnake.txt",
     "status": "skipped-existing",
     "label": "Whitesnake",
     "display": "Whitesnake"
@@ -3810,7 +3810,7 @@
   {
     "input": "The Who",
     "title": "The_Who",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Who.txt",
+    "file": "The_Who.txt",
     "status": "skipped-existing",
     "label": "The Who",
     "display": "The Who"
@@ -3818,7 +3818,7 @@
   {
     "input": "Paul McCartney and Wings",
     "title": "Paul_McCartney_and_Wings",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Paul_McCartney_and_Wings.txt",
+    "file": "Paul_McCartney_and_Wings.txt",
     "status": "skipped-existing",
     "label": "Wings",
     "display": "Wings"
@@ -3826,7 +3826,7 @@
   {
     "input": "Steve Winwood",
     "title": "Steve_Winwood",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Steve_Winwood.txt",
+    "file": "Steve_Winwood.txt",
     "status": "skipped-existing",
     "label": "Steve Winwood",
     "display": "Steve Winwood"
@@ -3834,7 +3834,7 @@
   {
     "input": "X (American band)",
     "title": "X_(American_band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\X_(American_band).txt",
+    "file": "X_(American_band).txt",
     "status": "skipped-existing",
     "label": "X",
     "display": "X (American band)"
@@ -3842,7 +3842,7 @@
   {
     "input": "X Ambassadors",
     "title": "X_Ambassadors",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\X_Ambassadors.txt",
+    "file": "X_Ambassadors.txt",
     "status": "skipped-existing",
     "label": "X Ambassadors",
     "display": "X Ambassadors"
@@ -3850,7 +3850,7 @@
   {
     "input": "The Yardbirds",
     "title": "The_Yardbirds",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Yardbirds.txt",
+    "file": "The_Yardbirds.txt",
     "status": "skipped-existing",
     "label": "The Yardbirds",
     "display": "The Yardbirds"
@@ -3858,7 +3858,7 @@
   {
     "input": "Yes (band)",
     "title": "Yes_(band)",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Yes_(band).txt",
+    "file": "Yes_(band).txt",
     "status": "skipped-existing",
     "label": "Yes",
     "display": "Yes"
@@ -3866,7 +3866,7 @@
   {
     "input": "Neil Young",
     "title": "Neil_Young",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Neil_Young.txt",
+    "file": "Neil_Young.txt",
     "status": "skipped-existing",
     "label": "Neil Young",
     "display": "Neil Young"
@@ -3874,7 +3874,7 @@
   {
     "input": "Frank Zappa",
     "title": "Frank_Zappa",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Frank_Zappa.txt",
+    "file": "Frank_Zappa.txt",
     "status": "skipped-existing",
     "label": "Frank Zappa",
     "display": "Frank Zappa"
@@ -3882,7 +3882,7 @@
   {
     "input": "Rob Zombie",
     "title": "Rob_Zombie",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\Rob_Zombie.txt",
+    "file": "Rob_Zombie.txt",
     "status": "skipped-existing",
     "label": "Rob Zombie",
     "display": "Rob Zombie"
@@ -3890,7 +3890,7 @@
   {
     "input": "The Zombies",
     "title": "The_Zombies",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\The_Zombies.txt",
+    "file": "The_Zombies.txt",
     "status": "skipped-existing",
     "label": "The Zombies",
     "display": "The Zombies"
@@ -3898,7 +3898,7 @@
   {
     "input": "ZZ Top",
     "title": "ZZ_Top",
-    "file": "c:\\Users\\felix\\Desktop\\Social Graphs\\artist_pages_wikitext\\ZZ_Top.txt",
+    "file": "ZZ_Top.txt",
     "status": "skipped-existing",
     "label": "ZZ Top",
     "display": "ZZ Top"
