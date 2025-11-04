@@ -1,0 +1,125 @@
+{{Short description|Spacecraft designed for interstellar travel}}
+{{About||the rocket|SpaceX Starship|other uses|Starship (disambiguation)}}
+{{use American English|date=June 2020}}
+
+[[File:Modern Pulsed Fission Propulsion Concept.jpg|thumb|upright=1.3|An updated version ([[NASA]], 1999) of the [[Project Orion (nuclear propulsion)|Project Orion]] by the [[United States]] government (1958–1965). It was the earliest scaled project developing a concept for a spaceship with a propulsion, of [[Nuclear fission|fission]] pulses, that was to be capable to transport humans [[light year]]s within hundreds of years instead of thousands.]]
+
+A '''starship''', '''starcraft''', or '''interstellar spacecraft''' is a theoretical [[spacecraft]] designed for [[interstellar travel|traveling between planetary systems]].<ref>{{cite web|url=https://www.yahoo.com|title=What Would a Actually Look Like?|publisher=Popularmechanics|language=en|author=Erik Sofge|date=20 September 2012|access-date=9 April 2016|archive-url=https://web.archive.org/web/20010713000027/http://www.yahoo.com/|archive-date=13 July 2001|url-status=live}}</ref> The term is mostly found in [[science fiction]]. Reference to a "star-ship" appears as early as 1882 in ''[[Oahspe: A New Bible]]''.<ref>{{cite web|url=http://gailallen.com/rel/Oahspe/index.htm|title=Oahspe - Index|website=gailallen.com|access-date=2015-11-30|archive-url=https://web.archive.org/web/20160304224128/http://gailallen.com/rel/Oahspe/index.htm|archive-date=2016-03-04|url-status=live}}; {{cite web|url=http://gailallen.com/rel/Oahspe/oah223.htm|title=Oahspe - Book of Divinity: Chapter XVI|website=gailallen.com|access-date=2015-11-30|archive-url=https://web.archive.org/web/20151208164942/http://gailallen.com/rel/Oahspe/oah223.htm|archive-date=2015-12-08|url-status=live}}</ref>
+
+While [[NASA]]'s ''[[Voyager program|Voyager]]'' and ''[[Pioneer program|Pioneer]]'' probes have traveled into local interstellar space, the purpose of these uncrewed craft was specifically interplanetary, and they are not predicted to reach another star system; ''[[Voyager 1]]'' probe and [[Gliese 445]] will pass one another within 1.6 [[light year]]s in about 40,000 years.<ref>{{cite web|url=http://www.space.com/22783-voyager-1-interstellar-space-star-flyby.html|title=Voyager 1 Has Date with a Star in 40,000 Years|work=Space.com|date=13 September 2013 |access-date=2015-07-24|archive-url=https://web.archive.org/web/20150724115732/http://www.space.com/22783-voyager-1-interstellar-space-star-flyby.html|archive-date=2015-07-24|url-status=live}}</ref> Several preliminary designs for starships have been undertaken through [[exploratory engineering]], using [[feasibility study|feasibility studies]] with modern technology or technology thought likely to be available in the near future.
+
+In April 2016, scientists announced [[Breakthrough Starshot]], a [[Breakthrough Initiatives]] program, to develop a [[proof-of-concept]] fleet of small centimeter-sized [[light sail]] [[spacecraft]] named ''[[StarChip (spacecraft)|StarChip]]'',<ref name="CD-20160412">{{cite web |last=Gilster |first=Paul |title=Breakthrough Starshot: Mission to Alpha Centauri |url=http://www.centauri-dreams.org/?p=35402 |date=12 April 2016 |work=Centauri Dreams |access-date=14 April 2016 |archive-url=https://web.archive.org/web/20160415071711/http://www.centauri-dreams.org/?p=35402 |archive-date=15 April 2016 |url-status=live }}</ref> capable of making the journey to [[Alpha Centauri]], the nearest [[star system]], at speeds of 20%<ref name="NYT-20160412-db">{{cite news |last=Overbye |first=Dennis |author-link=Dennis Overbye |title=A Visionary Project Aims for Alpha Centauri, a Star 4.37 Light-Years Away |url=https://www.nytimes.com/2016/04/13/science/alpha-centauri-breakthrough-starshot-yuri-milner-stephen-hawking.html |date=12 April 2016 |work=[[New York Times]] |access-date=12 April 2016 |archive-url=https://web.archive.org/web/20160412164459/http://www.nytimes.com/2016/04/13/science/alpha-centauri-breakthrough-starshot-yuri-milner-stephen-hawking.html |archive-date=12 April 2016 |url-status=live }}</ref><ref name="GZM-20160412">{{cite news |last=Stone |first=Maddie |url=https://gizmodo.com/a-russian-billionaire-and-stephen-hawking-want-to-build-1770467186 |title=Stephen Hawking and a Russian Billionaire Want to Build an Interstellar Starship |work=[[Gizmodo]] |date=12 April 2016 |access-date=12 April 2016 |archive-url=https://web.archive.org/web/20160413185106/http://gizmodo.com/a-russian-billionaire-and-stephen-hawking-want-to-build-1770467186 |archive-date=13 April 2016 |url-status=live }}</ref> and 15%<ref name="BR-20160412">{{cite web |author=Staff |title=Breakthrough Starshot |url=http://breakthroughinitiatives.org/Initiative/3 |date=12 April 2016 |work=[[Breakthrough Initiatives]] |access-date=12 April 2016 |archive-url=https://web.archive.org/web/20160412180305/http://www.breakthroughinitiatives.org/Initiative/3 |archive-date=12 April 2016 |url-status=live }}</ref> of the [[speed of light]], taking between 20 and 30 years to reach the star system, respectively, and about 4 years to notify [[Earth]] of a successful arrival.
+
+==Research==
+[[File:Daedalus Spaceship concept.jpg|thumb|right|Artist's conception of British Interplanetary Society's [[Project Daedalus]] (1978), a fusion powered interstellar probe]]
+To travel between stars in a reasonable time using [[rocket]]-like technology requires very high [[effective exhaust velocity]] jet and enormous energy to power this, such as might be provided by [[fusion power]] or [[antimatter]].
+
+There are very few scientific studies that investigate the issues in building a starship. Some examples of this include:
+
+*[[Project Orion (nuclear propulsion)|Project Orion]] (1958–1965), mostly crewed interplanetary spacecraft
+*[[Project Daedalus]] (1973–1978), uncrewed interstellar probe
+*[[Project Longshot]] (1987–1988), uncrewed interstellar probe
+*[[Project Icarus (Interstellar Probe Design Study)|Project Icarus]] (2009–2014), uncrewed interstellar probe
+*[[Hundred-Year Starship]] (2011), crewed interstellar craft<!--DARPA study-->
+
+The [[Bussard ramjet]] is an idea to use nuclear fusion of [[interstellar gas]] to provide propulsion.
+
+Examined in an October 1973 issue of ''[[Analog Science Fiction and Fact|Analog]]'', the [[Enzmann Starship]] proposed using a 12,000-ton ball of frozen [[deuterium]] to power pulse propulsion units. Twice as long as the [[Empire State Building]] is tall and assembled in-orbit, the proposed spacecraft would be part of a larger project preceded by [[interstellar probe]]s and telescopic observation of target star systems.
+
+The NASA [[Breakthrough Propulsion Physics Program]] (1996–2002) was a professional scientific study examining advanced [[spacecraft propulsion]] systems.
+
+==Types==
+* [[Sleeper ship|Sleeper]]: Starships that place their occupants into [[Cryostasis (clathrate hydrates)|Cryostasis]] or [[Stasis (fiction)|Temporal Stasis]] during a long trip. This includes [[cryonics]]-based systems that freeze passengers for the duration of the journey. This is a common trope in science fiction, with some notable examples including "''[[To Sleep in a Sea of Stars]]''" by Christopher Paolini and [[Edward Bellamy]]'s "''[[Looking Backward]]''"
+* [[Generation ship|Generation]]: Ships in which the destination would be reached by descendants of the original passengers. These ships would necessarily be self-sustaining and self-maintaining for possibly thousands of years. Notable examples of this in fiction are the ''Godspeed'' in Beth Revis' "''[[Across the Universe (Revis novel)|Across the Universe]]''" (and subsequent sequels), as well as the ''Vanguard'' from [[Robert A. Heinlein]]'s "[[Orphans of the Sky]]"
+
+[[File:Stanford Torus-based generation ship.png|thumb|[[Stanford Torus]]-based generation ship, proposed by [[Project Hyperion (interstellar)|Project Hyperion]]<ref name="hein-pak-putz-revisited">{{cite journal |last1=Hein |first1=Andreas M. |last2=Pak |first2=Mikhail |last3=Pütz |first3=Daniel |last4=Bühler |first4=Christian |last5=Reiss |first5=Philipp |title=World ships—architectures & feasibility revisited |journal=Journal of the British Interplanetary Society |date=2012 |volume=65 |issue=4 |page=119|url=https://www.researchgate.net/publication/236177990 }}</ref>]]
+
+* [[Theory of relativity|Relativistic]]: Ships that function by taking advantage of [[time dilation]] at close-to-light-speeds, so long trips will seem much shorter (but still take the same amount of time for outside observers).
+* Frame shift: Ships that take advantage of the fact that certain dimensions are less "folded" than others, to allow shorter travel by shifting one's [[frame of reference]] into a higher, more flat dimension to cut down on travel time, such as in science fiction with inter-dimensional [[Hyperspace (science fiction)|hyperspace]]. Generally this results in speeds close to (but importantly, not greater than) light speed.
+* [[Faster-than-light]] (FTL): A ship that functions by reaching a destination faster than the speed of light. While according to the [[special theory of relativity]], faster-than-light travel is impossible, drives like a [[Warp drive (Star Trek)|warp drive]] or using a [[wormhole]], that is in principle similar have been hypothesized.
+
+===Theoretical possibilities===
+[[File:Wormhole travel as envisioned by Les Bossinas for NASA.jpg|thumb|Artist's depiction of a hypothetical ''Wormhole Induction Propelled Spacecraft'', based loosely on the 1994 [[Alcubierre drive|"warp drive"]] paper of [[Miguel Alcubierre]]]]
+
+The [[Alcubierre drive]] is a speculative [[warp drive]] conjectured by Mexican physicist [[Miguel Alcubierre]] in a 1994 paper which has not been [[peer-review]]ed.<ref>{{cite journal |last= Alcubierre |first=Miguel |title=The warp drive: hyper-fast travel within general relativity |url=https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001/meta |publisher=[[Institute of Physics]] | journal=[[Classical and Quantum Gravity]] |volume=11 |number=5 |date=1994|pages=L73–L77 |doi=10.1088/0264-9381/11/5/001 |arxiv=gr-qc/0009013 |bibcode=1994CQGra..11L..73A |s2cid=4797900 }} (Letter to the Editor)</ref> The paper suggests that space itself could be topographically warped to create a local region of spacetime wherein the region ahead of the "warp bubble" is compressed, allowed to resume normalcy within the bubble, and then rapidly expanded behind the bubble creating an effect that results in apparent FTL travel, all in a manner consistent with the Einstein field equations of [[general relativity]] and without the introduction of wormholes.<ref>{{cite journal |last= Alcubierre |first=Miguel |title=The warp drive: hyper-fast travel within general relativity |journal=Classical and Quantum Gravity | doi=	10.1088/0264-9381/11/5/001 |date=5 September 2000|volume=11 |issue=5 |pages=L73–L77 |arxiv=gr-qc/0009013 |bibcode=1994CQGra..11L..73A |s2cid=4797900 }}</ref> However, the actual construction of such a drive would face other [[Alcubierre drive#Difficulties|serious theoretical difficulties]].
+
+==Fictional examples==
+{{main|List of fictional spacecraft#Interstellar}}
+
+[[File:NCC-1701 Prop.jpg|thumb|upright=1.2|right|The filming model of the {{convert|288.6|m}}  long starship [[USS Enterprise (NCC-1701)]] from the ''[[Star Trek: The Original Series]]'' television show. The model was donated to the [[Smithsonian Institution]] in 1974, where it is on public display.<ref>{{cite web|url=http://airandspace.si.edu/collections/artifact.cfm?object=nasm_A19740668000|access-date=February 19, 2015|title=Model, Starship Enterprise, Television Show, "Star Trek"}}</ref>]]
+
+There are widely known vessels in various science fiction franchises. The most prominent cultural use and one of the earliest common uses of the term ''starship'' was in ''[[Star Trek: The Original Series]]''.
+
+{{Col-begin}}
+{{Col-2}}
+===Individual ships===
+<!-- BEFORE ADDING HERE; PLEASE CHECK:
+
+*Is the ship itself very well-known (i.e. is the SHIP notable, not only the franchise)?
+*Is there already a Wikipedia article about it? If not, please write a notable stand-alone article first!
+
+THIS LIST SHOULD NOT BECOME TOO LONG - IT IS *NOT* SUPPOSED TO BE EXHAUSTIVE. THANKS -->
+(This list is not exhaustive.)
+* Axiom (''[[WALL-E]]'')
+* [[Battlestar Galactica (fictional spacecraft)|Battlestar ''Galactica'']] (''[[Battlestar Galactica]]'')
+* ''[[High Charity]]'' (''[[Halo Series]]'')
+* ''[[Hyperion (StarCraft)|Hyperion]]'' (''[[StarCraft]]'')
+* ''[[Jupiter 2]]'' (''[[Lost In Space]]'')
+* ''[[Long Shot (Niven)|Long Shot]]'' (''[[Ringworld]]'')
+* ''[[Moya (Farscape)|Moya]]'' (''[[Farscape]]'')
+* ''[[NSEA Protector]]'' (''[[Galaxy Quest]]'')
+* ''[[SDF-1 Macross]]'' (''[[The Super Dimension Fortress Macross]]'')
+* [[SSV Normandy|SSV ''Normandy'']] (''[[Mass Effect]]'')
+* [[UNSC Infinity|UNSC ''Infinity'']] (''[[Halo Series]]'')
+* ''[[USG Ishimura]]'' (''[[Dead Space (2008 video game)|Dead Space]]'')
+* ''[[Space Battleship Yamato (fictional spacecraft)|Yamato]]'' (''[[Space Battleship Yamato]]/[[Star Blazers]]'')
+{{Col-2}}
+
+===Groups of ships===
+* [[Spacecraft in Star Trek|Spacecraft in ''Star Trek'']]
+** [[USS Defiant|USS ''Defiant'']] (''[[Star Trek: Deep Space Nine]]'')
+** [[Star Trek: Discovery|USS ''Discovery'']]
+** [[Starship Enterprise|USS ''Enterprise'']] (various)
+** [[USS Voyager (Star Trek)|USS ''Voyager'']] (''[[Star Trek: Voyager]]'')
+** [[Klingon starships]]
+* [[List of Star Wars spacecraft|''Star Wars'' starships]]
+** ''[[Millennium Falcon]]''
+** [[Star Destroyer]]s
+* M/V Seamus (''[[Archer season 10|Archer: 1999]]'')
+* [[Reapers (Mass Effect)|The Reapers]] (''[[Mass Effect]]'')
+* USS Callister (''[[USS Callister]]'')
+{{Col-end}}
+
+==See also==
+{{Div col}}
+* {{Annotated link |Bioship}}
+* {{Annotated link |Intergalactic travel}}
+* {{Annotated link |IXS Enterprise|IXS ''Enterprise''}}
+* {{Annotated link |Mother ship}}
+* {{Annotated link |Project Icarus (interstellar)}}
+* {{Annotated link |Project Longshot}}
+* {{Annotated link |100 Year Starship}}
+* {{Annotated link |Spaceflight}}
+* {{Annotated link |Space travel in science fiction}}
+* {{Annotated link |Starship Technologies}}
+* {{Annotated link |Unidentified flying object}}
+
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Cite web |url=https://www.indymedia.org.au/files/starship_0.pdf |title=How to facilitate construction of a fleet of starships |date=June 20, 2014 |website=Indymedia Australia |publisher=[[Independent Media Center]] |access-date=November 14, 2020 |url-status=live |archive-url=https://web.archive.org/web/20200810062809/https://www.indymedia.org.au/files/starship_0.pdf |archive-date=August 10, 2020}}
+* [http://www.merzo.net/ Starship Dimensions] (to-scale size comparisons)
+** [http://www.st-minutiae.com/misc/comparison.gif Starship Size Comparison Chart 1] (Dan Carlson, 13 July 2003)
+** [http://www.st-minutiae.com/misc/comparison_huge.gif Starship Size Comparison Chart 2] (Dan Carlson, 30 October 2003)
+* [https://web.archive.org/web/20070217091033/http://www.infoshop.org/sf/index.php/Spaceship_Names Starship Names] (a Sci-Fi wiki article, outside Wikipedia)
+
+[[Category:Fictional spacecraft by type]]
+[[Category:Science fiction themes]]
+[[Category:Spaceflight]]
+[[Category:Fiction about transport]]
+[[Category:Interstellar travel]]
+
+[[es:Astronave]]

@@ -1,0 +1,169 @@
+{{short description|Revolver cartridge designed by Smith & Wesson}}
+{{About|the firearms cartridge|other uses|38 Special (disambiguation)}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox firearm cartridge
+|name = .38 Special
+|image = File:38 Special - FMJ - SB - 1.jpg
+|caption = .38 Special cartridge
+|origin = United States
+|type = [[Revolver]]
+|designer=[[Smith & Wesson]]
+|design_date=1898
+|manufacturer=Smith & Wesson
+|production_date=1898–present
+|variants = .38 Special +P
+|parent = [[.38 Long Colt]]
+|case_type = Rimmed, straight
+|bullet = .357
+|land = .346
+|neck = .379
+|shoulder =
+|base = .379
+|rim_dia = .44
+|rim_thick = .058
+|case_length = 1.155
+|length = 1.550
+|case_capacity = 23.4
+|rifling =
+|primer = Small pistol
+|max_pressure=22000
+|pressure_method=CIP
+|max_pressure2=17500
+|pressure_method2=SAAMI
+|max_cup=15,000
+|bwunit= gram
+|bw1 = 8.4
+|btype1 = FMJ
+|vel1 = 800
+|en1 = 185
+|bw2 = 10.24
+|btype2 = LRN
+|vel2 = 755
+|en2 = 200
+|bw3 = 8.1
+|btype3 = Underwood FMJ +P
+|vel3 = 1000
+|en3 = 278
+|bw4 = 10.24
+|btype4 = Grizzly JHP +P
+|vel4 = 975
+|en4 = 333
+|bw5 = 6.48
+|btype5 = Cor-bon PB +P
+|vel5 = 1150
+|en5 = 294
+|test_barrel_length = 4 in (vented)
+|balsrc =<ref>{{cite web|url=http://www.federalcartridge.com/ballistics |title=Federal Cartridge Co. ballistics page |access-date=2007-09-25 |archive-url=https://web.archive.org/web/20070622214721/http://www.federalcartridge.com/ballistics/ |archive-date=22 June 2007 |url-status=dead}}</ref><ref>{{cite web|url=http://www.handloads.com/misc/saami.htm |title=SAAMI Pressures |access-date=2007-09-25 |archive-url=https://web.archive.org/web/20070609152333/http://www.handloads.com/misc/saami.htm |archive-date=9 June 2007 |url-status=dead}}</ref><ref>{{cite web|url=http://www.leverguns.com/articles/saami_pressures.htm |title=SAAMI Pressures |access-date=2007-09-25 |archive-url=https://web.archive.org/web/20071014041459/http://leverguns.com/articles/saami_pressures.htm |archive-date=14 October 2007 |url-status=dead}}</ref><ref>{{cite web |url=http://www.accuratepowder.com/load-data/ |title=Load Data << Accurate Powders |access-date=2007-09-25 }}</ref><ref>{{cite web|url=http://data.hodgdon.com/cartridge_load.asp |title=Cartridge Loading Data – Hodgdon |access-date=2007-09-25 |archive-url=https://web.archive.org/web/20071111143616/http://data.hodgdon.com/cartridge_load.asp |archive-date=11 November 2007 |url-status=dead}}</ref>
+}}
+
+The '''.38 Special''', also commonly known as '''.38 S&W Special''' (not to be confused with [[.38 S&W]]), '''.38 Smith & Wesson Special''', '''.38 Spl''', '''.38 Spc''' (pronounced "thirty-eight special"), or '''9×29mmR''' is a [[rim (firearms)|rimmed]], [[Centerfire ammunition|centerfire]] [[Cartridge (firearms)|cartridge]] designed by [[Smith & Wesson]].
+
+The .38 Special was the standard service cartridge for the majority of United States police departments from the 1920s to the 1990s. It was also a common sidearm cartridge used by United States military personnel in [[World War I]], [[World War II]], the [[Korean War]], and the [[Vietnam War]]. In other parts of the world, it is known by its [[Metric system|metric]] designation of '''9×29.5mmR'''<ref>{{cite book|last = Hogg| first = Ian| title = Jane's Infantry Weapons 1989–90, 15th Edition | publisher = Jane's Information Group| year = 1989| isbn =978-0-7106-0889-5| page =514}}</ref> or '''9.1×29mmR'''.<ref name="Jones">{{cite book|last = Jones| first = Richard| title = Jane's Infantry Weapons 2009–2010 | publisher = Jane's Information Group| year = 2009| isbn =978-0-7106-2869-5  | page =621}}</ref>
+
+Known for its accuracy and manageable recoil, the .38 Special remains one of the most popular revolver cartridges in the world<ref>{{Cite news|url=http://knowledgeglue.com/what-are-the-most-popular-calibers-in-the-us/|title=What are the most popular calibers in the US? - Knowledge Glue|date=2015-09-14|work=Knowledge Glue|access-date=2018-07-23|language=en-US}}</ref> more than a century after its introduction. It is used for recreational target shooting, formal target competition, personal defense, and [[Game (hunting)|small-game hunting]].
+
+== Overview ==
+[[File:First model M&P revolver designed for the .38 Special cartridge.jpg|thumb|left|First model M&P revolver designed in 1899 for the .38 Special cartridge. This particular revolver left the factory in 1900.]]
+
+The .38 Special was designed and entered production in 1898 as an improvement over the [[.38 Long Colt]] which, as a military service cartridge, was found to have inadequate [[stopping power]] against the charges of [[Moro people|Filipino Muslim]] warriors during the [[Philippine–American War]].<ref name="cotw">Barnes, Frank C. Ken Warner, editor. ''Cartridges of the World'', 6th Edition. Northbrook, Illinois: DBI Books, 1989. {{ISBN|978-0-87349-033-7}}. The failure of the .38 Long Colt as a service cartridge caused the U.S. Army to insist on a [[.45 caliber|.45]] chambering for its 1907 pistol trials.</ref> Upon its introduction, the .38 Special was originally loaded with [[black powder]], but the cartridge's popularity caused manufacturers to offer [[smokeless powder]] loadings within a year of its introduction.
+
+Despite its name, the [[caliber]] of the .38 Special cartridge is actually .357&nbsp;inches (36 caliber/9.07&nbsp;mm), with the ".38" referring to the approximate diameter of the loaded brass case. This came about because the original 38-caliber cartridge, the [[.38 Short Colt]], was designed for use in converted .36-caliber cap-and-ball [[Colt 1851 Navy Revolver|Navy revolvers]], which had untapered cylindrical firing chambers of approximately {{convert|0.374|in|mm|adj=on}} diameter that required [[heeled bullet]]s, the exposed portion of which was the same diameter as the cartridge case.
+
+Except for case length, the .38 Special is identical to the .38 Short Colt, .38 Long Colt, and [[.357 Magnum]]. This nearly identical nature of the three rounds allows a .38 Special round to be safely fired in revolvers chambered for .357 Magnum. It also allows .38 Short Colt and .38 Long Colt rounds to be safely fired in revolvers chambered for .38 Special. Thus, the .38 Special round and revolvers chambered for it have a unique versatility. However, the longer and more powerful .357 Magnum cartridge will usually not chamber and fire in weapons rated specifically for .38 Special (e.g., all versions of the [[Smith & Wesson Model 10]]), which are not designed for the greatly increased pressure of the magnum rounds. Both .38 Special and .357 Magnum will chamber in [[Colt M1892|Colt New Army]] revolvers in .38 Long Colt due to their straight walled chambers, but this should not be done under any circumstances, due to dangerous pressure levels up to three times what the New Army is designed to withstand.
+
+== History ==
+The .38 Special was designed and produced in 1898 to be a higher-velocity round, with better penetration properties than the .38 Long Colt that was in government service in the Philippines during the Spanish–American War. The .38 Long Colt revolver round would not penetrate the shields of the insurgent Philippine Moro warriors, and the government contracted with Smith & Wesson for a new revolver round. The .38 Special held a minimum of 21 grains of black powder, 3 grains more than the then-current .38 Long Colt, and muzzle velocity (with a 158 grain bullet) was 100–150 feet per second greater.
+
+During the late 1920s, in response to demands for a more effective law-enforcement version of the cartridge, a new standard-velocity loading for the .38 Special was developed by [[Western Cartridge Company]]. This .38 Special variant, which incorporated a {{convert|200|gr}} round-nosed lead 'Lubaloy' bullet, was named the .38 Super Police.<ref>Sharpe, Phil, ''The New Smith & Wesson Heavy Duty .38'', The American Rifleman, November 1931</ref> [[Peters Cartridge Company|Remington-Peters]] also introduced a similar loading.  Testing revealed that the longer, heavier {{convert|200|gr|adj=on}} .357-calibre bullet fired at low velocity tended to 'keyhole' or tumble upon impact, providing more shock effect against unprotected personnel.<ref>Sharpe, Phil, ''The New Smith & Wesson Heavy Duty .38'', The American Rifleman, November 1931: "..the destruction of this load was terrific... Every shot showed evidence of key-holing after the first half of the penetration had been accomplished."</ref> At the same time, authorities in Great Britain, who had decided to adopt the .38 caliber revolver as a replacement for their existing .455 service cartridge, also tested the same {{convert|200|gr|1|adj=on}} bullet in the smaller [[.38 S&W]] cartridge.  This cartridge was called the .38 S&W Super Police or the [[.38/200|38/200]].  Britain later adopted the 38/200 as its standard military handgun cartridge.
+
+[[File:M&Prevolver.jpg|thumb|right|Smith & Wesson M&P in .38 Special produced in 1899]]
+[[File:38 Special - SP - SB - 1.jpg|thumb|right|A .38 Special [[Soft-point bullet|Jacketed Soft Point]] round]]
+[[File:S&WModel15-4 01.jpg|thumb|right|Air Force issue Smith & Wesson Model 15–4 in .38 Special]]
+
+In 1930, Smith & Wesson introduced a large-frame 38 Special revolver with a 5-inch barrel and fixed sights intended for police use, the [[Smith & Wesson .38/44|Smith & Wesson 38/44 Heavy Duty]].<ref>Shideler, Dan, ''Is This the Greatest .38 Ever'', Gun Digest, 4 August 2008</ref><ref>Sharpe, Phil, ''The New Smith & Wesson Heavy Duty .38'', The American Rifleman, November 1931: Chambered in .38 Special, the .38/44 was built on the old S&W .44-calibre Hand Ejector frame.</ref> The following year, a new high-power loading called the .38 Special Hi-Speed with a {{convert|158|gr|1|adj=on}} metal-tip bullet was developed for these revolvers in response to requests from law enforcement agencies for a handgun bullet that could penetrate auto bodies and body armor.<ref>Shideler, Dan, ''Is This the Greatest .38 Ever'', Gun Digest, 4 August 2008: The new .38/44 load developed a maximum allowable pressure of {{convert|20000|psi|MPa}}, producing a velocity of about {{convert|1100|ft/s|abbr=on}} from a {{convert|5|in|abbr=on}} barrel with a {{convert|158|gr|1|abbr=on}} metal-tipped bullet.</ref> That same year, Colt Firearms announced that their [[Colt Official Police]] would also handle 'high-speed' .38 Special loadings.<ref name="gcop">Ayoob, Massad. [http://findarticles.com/p/articles/mi_m0BQY/is_5_53/ai_n27176787 "The Colt Official Police: 61 years of production, 99 years of service"], '''Guns''' magazine. BNET Web site – Find articles. Accessed 2 April 2011: Because of their heavy frames, these revolvers could withstand the higher-pressures generated by the new loadings.</ref> The 38/44 high-speed cartridge came in three bullet weights: {{convert|158|gr|1}}, {{convert|150|gr|1}}, and {{convert|110|gr|1}}, with either coated lead or steel jacket, metal-piercing bullets. The media attention gathered by the 38/44 and its ammunition eventually led Smith & Wesson to develop a completely new cartridge with a longer case length, in 1934. This was the .357 Magnum.
+
+During [[World War II]], some U.S. aircrew (primarily Navy and Marine Corps) were issued .38 Special [[Smith & Wesson Victory Model|S&W Victory]] revolvers as sidearms for use in the event of a forced landing. In May 1943, a new .38 Special cartridge with a {{convert|158|gr|1|adj=on}}, full-steel-jacketed, copper flash-coated bullet meeting the requirements of the [[1899 Hague Peace Conference|Hague Convention]] was developed at [[Springfield Armory]] and adopted for the Smith & Wesson revolvers.<ref name=DCM>Brown Jr., Edwards, "DCM Shopper's Guide", ''The American Rifleman'', (April 1946), p. 18</ref> The new military .38 Special loading propelled its {{convert|158|gr|1}} bullet at a standard {{convert|850|ft/s|m/s|abbr=on}} from a {{convert|4|in|mm|adj=on}} revolver barrel.<ref name=DCM /> During the war, many U.S. naval and Marine aircrew were also issued red-tipped 38 Special [[tracer ammunition]] using either a {{convert|120|or|158|gr|1|abbr=on}} bullet for emergency signaling purposes.<ref name=DCM />
+
+In 1956, the U.S. Air Force adopted the ''Cartridge, Caliber 38, Ball M41'', a military variant of the .38 Special cartridge designed to conform to Hague Convention rules. The original 38 M41 ball cartridge used a 130-grain full-metal-jacketed bullet, and was loaded to an average pressure of only {{convert|13000|psi|MPa}}, giving a muzzle velocity of approximately {{convert|725|ft/s|m/s|abbr=on}} from a {{convert|4|in|mm|adj=on}} barrel.<ref>{{Cite journal|last=Scarlata|first=Paul|date=2010-09-23|title=Smith & Wesson's Model 12 Airweight|url=https://www.shootingtimes.com/editorial/handgun_reviews_st_swmodel12_201005/99924|access-date=2011-04-03|archive-url=https://web.archive.org/web/20101231065341/http://www.shootingtimes.com/handguns/handgun_reviews_st_swmodel12_201005/|archive-date=2010-12-31|journal=[[Shooting Times]]}}</ref><ref name=TM43>TM 43-0001-27, ''Army Ammunition Data Sheets – Small Caliber Ammunition, FSC 1305'', Washington, D.C.: Dept. of the Army, 29 April 1994</ref> This ammunition was intended to prolong the life of [[Smith & Wesson Model 12|S&W M12]] and [[Colt Cobra#Colt Aircrewman|Colt Aircrewman]] revolvers equipped with aluminum cylinders and frames, which were prone to stress fractures when fired with standard 38 Special ammunition. 
+By 1961, a slightly revised M41 38 cartridge specification known as the ''Cartridge, Caliber 38 Ball, Special, M41'' had been adopted for U.S. armed forces using 38 Special caliber handguns.<ref name=TM43 /> The new M41 ''Special'' cartridge used a 130-grain FMJ bullet loaded to a maximum allowable pressure of {{convert|16000|psi|MPa}} for a velocity of approximately {{convert|950|ft/s|m/s|abbr=on}} in a solid {{convert|6|in|mm|adj=on}} test barrel, and about {{convert|750|ft/s|m/s|abbr=on}} from a {{convert|4|in|mm|adj=on}} revolver barrel.<ref name="autogenerated68">''Military .38 Special Ammunition'', The American Rifleman (March 1982), p. 68</ref><ref name="autogenerated1961">TM 9-1305-200. ''Small Arms Ammunition'', Washington, D.C.: Departments of the Army and the Air Force (June 1961)</ref> The M41 ball cartridge was first used in .38 Special revolvers carried by USAF aircrew and [[Strategic Air Command Elite Guard|Strategic Air Command security police]], and by 1961 was in use by the U.S. Army for security police, dog handlers, and other personnel equipped with 38 Special caliber revolvers.<ref name="autogenerated1961" /> A variant of the standard M41 cartridge with a semi-pointed, unjacketed lead bullet was later adopted for CONUS (Continental United States) police and security personnel.<ref name=TM43 /> At the same time, .38 Special tracer cartridges were reintroduced by the US Navy, Marines, and Air Force to provide a means of emergency signaling by downed aircrew.  Tracer cartridges in .38 Special caliber of different colors were issued, generally as part of a standard aircrew survival vest kit.
+
+A request for more powerful .38 Special ammunition for use by Air Police and security personnel resulted in the ''Caliber 38 Special, Ball, PGU-12/B High Velocity'' cartridge.<ref name="autogenerated68" /> Issued only by the U.S. Air Force, the PGU-12/B had a greatly increased maximum allowable pressure rating of 20,000 psi, sufficient to propel a 130-grain FMJ bullet at {{convert|1125|ft/s|m/s|abbr=on}} from a solid {{convert|6|in|mm|adj=on}} test barrel, and about 950–1,000&nbsp;ft/s from a {{convert|4|in|mm|adj=on}} revolver barrel.<ref name="autogenerated68" /> The PGU-12/B ''High Velocity'' cartridge differs from M41 ''Special'' ammunition in two important respects—the ''PGU-12/B'' is a much higher-pressure cartridge, with a bullet deeply set and crimped into the cartridge case.
+
+In response to continued complaints over ineffectiveness of the standard .38 Special 158-grain cartridge in stopping assailants in numerous armed confrontations during the 1950s and 1960s, ammunition manufacturers began to experiment with higher-pressure (18,500 CUP) loadings of the .38 Special cartridge, known as 38 Special +P (+P or +P+ designation indicates that the cartridge is using higher pressures, therefore it is [[overpressure ammunition]]). In 1972, the [[Federal Bureau of Investigation]] introduced a new .38 Special +P loading that became known as the "FBI Load".<ref name="AMH">Ayoob, Massad, "Why are We Still Using the .38 – It's Still A Good Cartridge", ''American Handgunner'', San Diego: Publishers Development Corp., Vol. 6, No. 30, September/October 1981, p. 64</ref> The FBI Load combined a more powerful powder charge with a 158-grain unjacketed soft lead semi-wadcutter hollow-point bullet designed to readily expand at typical .38 Special velocities obtained in revolvers commonly used by law enforcement.<ref name="AMH" /> The FBI Load proved very satisfactory in effectively stopping adversaries in numerous documented shootings using 2- to 4-inch barreled revolvers.<ref name="AMH" /><ref>Ayoob, Massad, ''The Gun Digest Book of Combat Handgunnery'', Iola, Wisconsin: Gun Digest Books, {{ISBN|0-89689-525-4}}, {{ISBN|978-0-89689-525-6}} (2011), p. 98</ref> The FBI Load was later adopted by the Chicago Police Department and numerous other law enforcement agencies.<ref name="AMH" />
+
+Demand for a .38 Special cartridge with even greater performance for law enforcement led to the introduction of the +P+ .38 Special cartridge, first introduced by [[Federal Cartridge|Federal]] and [[Winchester Repeating Arms Company|Winchester]]. Originally labeled "For Law Enforcement Only",<ref>{{cite web|date=19 August 2014|title=FEDERAL Premium - 38 Special High Velocity (+P+) (image)|url=http://www.ammobank.com/images5/38hs2g.JPG|url-status=live|archive-url=https://web.archive.org/web/20140819084449/http://www.ammobank.com/images5/38hs2g.JPG|archive-date=19 August 2014}}</ref>{{Unreliable source?|reason=Image of unverifiable source and authenticity|date=December 2015}} +P+ ammunition is intended for heavier-duty .38 Special and .357 Magnum revolvers, as the increased pressure levels can result in accelerated wear and significant damage to firearms rated for lower-pressure .38 Special loadings (as with all .38 Special loadings, the .38 Special +P+ can also be fired safely in .357 Magnum revolvers).<ref name="What is +P and +P+ ammunition">{{cite web|url=http://www.frfrogspad.com/miscellk.htm#+P|title=Miscellaneous Questions|website=frfrogspad.com}}</ref>
+
+== Performance ==
+[[File:Bullet coming from S&W.jpg|thumb|.38 Special bullet coming from a Smith & Wesson 686, photographed with an [[air-gap flash]]]]
+[[File:38 special wadcutter.jpg|thumb|right|.38 Special [[wadcutter]] loaded cartridges and a {{convert|148|gr|adj=on}} hollow-base wadcutter bullet, used for target shooting]]
+
+Due to its black-powder heritage, the .38 Special is a low-pressure cartridge, one of the lowest in common use today at 17,000 [[Pounds per square inch|psi]]. By modern standards, the .38 Special fires a medium-sized bullet at rather low speeds. In the case of target loads, a {{convert|148|gr|g|abbr=on}} bullet is propelled to only {{convert|690|ft/s|m/s|abbr=on}}.<ref>{{cite web|url=http://www.federalpremium.com/ammunition/handgun/family/gold-medal/gold-medal-handgun/gm38a|title=Federal Ammunition - 38 SPL 148GR LEAD WC MATCH|website=federalpremium.com}}</ref> The closest comparisons are the [[.380 ACP|380 ACP]], which fires much lighter bullets slightly faster than most .38 Special loads; the [[9×19mm Parabellum]], which fires a somewhat lighter bullet significantly faster; and the [[.38 Super]], which fires a comparable bullet considerably faster. All of these cartridges are usually found in semi-automatic pistols.
+
+The higher-pressure .38 Special +P loads at 20,000 psi offer about 20% more muzzle energy than standard-pressure loads, which places them between the .380 ACP and the 9mm Parabellum; similar to that of the [[9×18mm Makarov]]. A few specialty manufacturers' +P loads for this cartridge can attain even higher energies than that, especially when fired from longer barrels, producing energies in the range of the 9mm Parabellum. These loads are generally not recommended for older revolvers or ones not specifically "+P" rated.
+
+{| class="wikitable sortable" style="margin:auto;"
+|+.38 comparison
+! Cartridge !! Bullet weight !! Muzzle velocity !! Muzzle energy !! Max pressure
+|-
+| [[.38 Short Colt]] || {{convert|135|gr|g|abbr=on}} || {{convert|777|ft/s|m/s|abbr=on}} || 181&nbsp;ft•lbf (245 J)|| 7,500 CUP
+|-
+| [[.38 Long Colt]] || {{convert|150|gr|g|abbr=on}} || {{convert|777|ft/s|m/s|abbr=on}} || 201&nbsp;ft•lbf (273 J)|| 12,000 CUP
+|-
+| [[.38 S&W]] || {{convert|145|gr|g|abbr=on}} || {{convert|650|ft/s|m/s|abbr=on}} || 136&nbsp;ft•lbf (279 J)|| 14,500 psi
+|-
+| .38 S&W Special Wadcutter || {{convert|148|gr|g|abbr=on}} || {{convert|690|ft/s|m/s|abbr=on}} || 156&nbsp;ft•lbf (212 J)|| 17,500 psi
+|-
+| .38 S&W Special || {{convert|158|gr|g|abbr=on}} || {{convert|940|ft/s|m/s|abbr=on}} || 310&nbsp;ft•lbf (420 J)|| 17,000 psi
+|-
+| .38 Special Super Police || {{convert|200|gr|g|abbr=on}} || {{convert|671|ft/s|m/s|abbr=on}} || 200&nbsp;ft•lbf (271 J)||17,500 psi
+|-
+| .38 Special +P || {{convert|158|gr|g|abbr=on}} || {{convert|910|ft/s|m/s|abbr=on}} || 351&nbsp;ft•lbf (476 J)|| 18,500 psi
+|-
+| .38 Special +P+ || {{convert|110|gr|g|abbr=on}} || {{convert|1100|ft/s|m/s|abbr=on}} || 295&nbsp;ft•lbf (400 J)|| 22,000 psi<ref name="What is +P and +P+ ammunition" />
+|-
+| [[.380 ACP|380 ACP]] || {{convert|100|gr|g|abbr=on}} || {{convert|895|ft/s|m/s|abbr=on}} || 178&nbsp;ft•lbf (241 J)|| 21,500 psi
+|-
+| [[9×19mm Parabellum]] || {{convert|115|gr|g|abbr=on}} || {{convert|1300|ft/s|m/s|abbr=on}} || 420&nbsp;ft•lbf (570 J)|| 35,000 psi
+|-
+| [[9×19mm Parabellum]] || {{convert|124|gr|g|abbr=on}} || {{convert|1180|ft/s|m/s|abbr=on}} || 383&nbsp;ft•lbf (520 J)|| 35,000 psi
+|-
+| [[9×18mm Makarov]] || {{convert|95|gr|g|abbr=on}} || {{convert|1050|ft/s|m/s|abbr=on}} || 231&nbsp;ft•lbf (313 J)|| 23,500 psi
+|-
+| [[.38 Super]] || {{convert|130|gr|g|abbr=on}} || {{convert|1275|ft/s|m/s|abbr=on}} || 468&nbsp;ft•lbf (634 J)||  36,500 psi
+|-
+| [[.357 Magnum]] || {{convert|158|gr|g|abbr=on}} || {{convert|1349|ft/s|m/s|abbr=on}} || 639&nbsp;ft•lbf (866 J)|| 35,000 psi
+|-
+| [[.357 SIG]] || {{convert|125|gr|g|abbr=on}} || {{convert|1450|ft/s|m/s|abbr=on}} || 584&nbsp;ft•lbf (792 J) || 40,000 psi
+|}
+
+All of the above specifications for 38 loadings, and the .357 Magnum, are applicable when fired from a {{convert|6|in|mm|adj=on}} barreled revolver. The velocity is reduced when using {{convert|4|in|mm|adj=on}} barreled guns.<ref>{{Cite web|title=BBTI - Ballistics by the Inch :: .38 Special Results|url=http://www.ballisticsbytheinch.com/38special.html|access-date=2023-02-11|website=www.ballisticsbytheinch.com}}</ref> Power (muzzle energy) will, of course, decrease accordingly.
+
+Although only a few US police departments now issue or authorize use of the .38 Special revolver as a standard-duty weapon, the caliber remains popular with some police officers for use in short-barreled revolvers carried when off duty or for undercover-police investigations. It is also widely used in revolvers purchased for civilian home defense or for concealed carry.
+
+== See also ==
+* [[List of handgun cartridges]]
+* [[List of rimmed cartridges]]
+* [[Smith & Wesson Bodyguard]]
+* [[Smith & Wesson Model 52]]
+* [[Table of handgun and rifle cartridges]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+* [http://www.snubnose.info/ The Snubnose Files]
+* [http://www.ballisticsbytheinch.com/38special.html Ballistics By The Inch .38 special results.]
+
+{{38SCderivatives}}
+{{.38 Caliber}}
+{{Rimmed cartridges}}
+{{Smith & Wesson}}
+{{WWIUSInfWeaponsNav}}
+{{WWIIUSInfWeaponsNav}}
+
+[[Category:Philippine–American War]]
+[[Category:Pistol and rifle cartridges|38 Special]]
+[[Category:Weapons and ammunition introduced in 1902]]
+[[Category:Rimmed cartridges]]
+[[Category:Smith & Wesson cartridges]]

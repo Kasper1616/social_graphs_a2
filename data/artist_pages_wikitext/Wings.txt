@@ -1,0 +1,128 @@
+{{Short description|Appendage used for flight}}
+{{About|the term in aerodynamics|other uses|Wing (disambiguation)|and|Wings (disambiguation)}}
+[[File:wing.two.arp.600pix.jpg|thumb|right|Two different planforms are shown with a [[swept wing]] [[KC-10 Extender]] (top) [[air-to-air refueling|refuel]]ing a diamond-like delta wing [[F-22 Raptor]]]]
+
+A '''wing''' is a type of [[fin]] that produces both [[Lift (force)|lift]] and [[Drag (physics)#Aerodynamics|drag]] while moving through air. Wings are defined by two shape characteristics, an [[airfoil]] section and a [[planform (aeronautics)|planform]]. Wing efficiency is expressed as [[lift-to-drag ratio]], which compares the benefit of lift with the air resistance of a given wing shape, as it flies. [[Aerodynamics]] is the study of wing performance in air.
+
+Equivalent [[Foil (fluid mechanics)|foils]] that move through water are found on [[Hydrofoil|hydrofoil power vessels]] and [[Sailing hydrofoil|foiling sailboats]] that lift out of the water at speed and on [[submarine]]s that use [[diving plane]]s to point the boat upwards or downwards, while running submerged. [[Hydrodynamics]] is the study of foil performance in water.
+
+==Etymology and usage==
+The word "wing" from the Old Norse ''vængr''<ref>{{cite web|url=https://www.etymonline.com/index.php?term=wing|title=Online Etymology Dictionary|publisher=Etymonline.com|date=|accessdate=2012-04-25}}</ref> for many centuries referred mainly to the foremost [[limb (anatomy)|limb]]s of [[bird]]s (in addition to the architectural aisle). But in recent centuries the word's meaning has extended to include lift producing appendages of [[insect wing|insect]]s, [[bat]]s, [[pterosaur]]s, [[boomerang]]s, [[Wingsail|some sail boats]] and [[aircraft]], or the airfoil on a [[automobile racing|race car]].<ref>The Sports Car – Its design and performance, Colin Campbell, {{ISBN|978 1 4613 3384 5}}, p.180</ref>
+
+==Aerodynamics==
+[[File:Cloud over A340 wing.JPG|thumb|right|Condensation in the low-pressure region over the wing of an [[Airbus A340]], passing through humid air]]
+[[File:Aircraft flaps.svg|thumb|right|[[flap (aircraft)|Flaps]] (green) are used in various configurations to increase the wing area and to increase the lift. In conjunction with [[spoiler (aeronautics)|spoilers]] (red), flaps maximize drag and minimize lift during the landing roll.]]
+{{Main|Lift (force)}}
+The design and analysis of the wings of aircraft is one of the principal applications of the science of [[aerodynamics]], which is a branch of [[fluid mechanics]]. The properties of the airflow around any moving object can be found by solving the [[Navier–Stokes equations]] of [[fluid dynamics]]. Except for simple geometries, these equations are difficult to solve.<ref name=Nasa_NS>{{cite web|url=http://www.grc.nasa.gov/WWW/K-12/airplane/nseqs.html|title=Navier–Stokes Equations|publisher=[[Glenn Research Center|Grc.nasa.gov]]|date=2012-04-16|accessdate=2012-04-25}}</ref> Simpler explanations can be given.
+
+For a wing to produce "lift", it must be oriented at a suitable [[angle of attack]] relative to the flow of air past the wing. When this occurs, the wing deflects the airflow downwards, "turning" the air as it passes the wing. Since the wing exerts a force on the air to change its direction, the air must exert a force on the wing, equal in size but opposite in direction. This force arises from different air pressures that exist on the upper and lower surfaces of the wing.<ref name=HR_378a>"...the effect of the wing is to give the air stream a downward velocity component. The reaction force of the deflected air mass must then act on the wing to give it an equal and opposite upward component." In: {{citation|first1=David|last1=Halliday|first2=Robert|last2=Resnick|title=Fundamentals of Physics 3rd Edition|publisher=John Wiley & Sons|page=378}}</ref><ref>"If the body is shaped, moved, or inclined in such a way as to produce a net deflection or turning of the flow, the local velocity is changed in magnitude, direction, or both. Changing the velocity creates a net force on the body" {{cite web|publisher=NASA Glenn Research Center|title=Lift from Flow Turning|url=http://www.grc.nasa.gov/WWW/K-12/airplane/right2.html|accessdate=2011-06-29}}</ref><ref name="Weltner_Physics_of_Flight_Reviewed">"The cause of the aerodynamic lifting force is the downward acceleration of air by the airfoil..." {{Citation|last1=Weltner|first1=Klaus|last2=Ingelman-Sundberg|first2=Martin|title=Physics of Flight – reviewed|url=https://user.uni-frankfurt.de/~weltner/Flight/PHYSIC4.htm|url-status=dead|archiveurl=https://web.archive.org/web/20110719102847/http://user.uni-frankfurt.de/~weltner/Flight/PHYSIC4.htm|archivedate=2011-07-19}}</ref>
+
+Lower-than-ambient air pressure is generated on the top surface of the wing, with a higher-than ambient-pressure on the bottom of the wing. (See: [[airfoil]]) These air pressure differences can be either measured using a pressure-measuring device, or can be calculated from the airspeed using [[physics|physical principles]] {{Ndash}}including [[Bernoulli's principle]], which relates changes in air speed to changes in air pressure.
+
+The lower air pressure on the top of the wing generates a smaller downward force on the top of the wing than the upward force generated by the higher air pressure on the bottom of the wing. This gives an upward force on the wing. This force is called the lift generated by the wing.
+
+The different velocities of the air passing by the wing, the air pressure differences, the change in direction of the airflow, and the lift on the wing are different ways of describing how lift is produced so it is possible to calculate lift from any one of the other three. For example, the lift can be calculated from the pressure differences, or from different velocities of the air above and below the wing, or from the total momentum change of the deflected air. Fluid dynamics offers other approaches to solving these problems {{Ndash}}all which methods produce the same answer if correctly calculated. Given a particular wing and its velocity through the air, debates over which mathematical approach is the ''most convenient''{{citation needed|date=January 2025}} to use can be mistaken by those not familiar with the study of aerodynamics as differences of opinion about the basic principles of flight.<ref>{{Cite web |title=Equal Transit Theory Interactive {{!}} Glenn Research Center {{!}} NASA |url=https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilw1/ |url-status=live |archive-url=https://web.archive.org/web/20240927024228/https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilw1/ |archive-date=27 September 2024 |access-date=17 November 2024 |website=[[Glenn Research Center]]}}</ref>
+
+===Cross-sectional shape===
+Wings with an asymmetrical cross-section are the norm in [[subsonic flight]]. Wings with a symmetrical cross-section can also generate lift by using a positive [[angle of attack]] to deflect air downward. Symmetrical airfoils have higher [[Stall (flight)|stalling]] speeds than [[Camber (aerodynamics)|cambered airfoils]] of the same wing area<ref>E. V. Laitone, Wind tunnel tests of wings at Reynolds numbers below 70 000, ''Experiments in Fluids'' '''23''', ''405'' (1997). {{doi|10.1007/s003480050128}}</ref> but are used in [[aerobatic]] aircraft as they provide the same flight characteristics whether the aircraft is upright or inverted.<ref>The Design Of The Aeroplane,Darrol Stinton,{{ISBN|0 632 01877 1}},p.586</ref> Another example comes from sailboats, where the sail is a thin sheet.<ref name=Babinsky>"...consider a sail that is nothing but a vertical wing (generating side-force to propel a yacht). ...it is obvious that the distance between the stagnation point and the trailing edge is more or less the same on both sides. This becomes exactly true in the absence of a mast—and clearly the presence of the mast is of no consequence in the generation of lift. ''Thus, the generation of lift does not require different distances around the upper and lower surfaces.''" Holger Babinsky ''How do Wings Work?'' Physics Education November 2003, [http://iopscience.iop.org/0031-9120/38/6/001/pdf/pe3_6_001.pdf PDF]</ref>
+
+For flight speeds near the speed of sound ([[transonic flight]]), specific asymmetrical airfoil sections are used to minimize the very pronounced increase in drag associated with airflow near the speed of sound.<ref>John D. Anderson, Jr. ''Introduction to Flight'' 4th ed page 271.</ref> These airfoils, called [[supercritical airfoil]]s, are flat on top and curved on the bottom.<ref>'Supercritical wings have a flat-on-top "upside down" look.' NASA Dryden Flight Research Center http://www.nasa.gov/centers/dryden/about/Organizations/Technology/Facts/TF-2004-13-DFRC.html</ref>
+
+==Design features==
+[[File:bmi a319-100 g-dbca closeup arp.jpg|thumb|right|The wing of a landing [[BMI (airline)|BMI]] [[Airbus]] [[A319-100]]. The [[leading edge slats|slats]] at its [[leading edge]] and the [[flap (aircraft)|flap]]s at its [[trailing edge]] are extended.]]
+Aircraft wings may feature some of the following:
+* A rounded [[leading edge]] cross-section
+* A sharp [[trailing edge]] cross-section
+* Leading-edge devices such as [[leading edge slats|slats]], [[leading edge slot|slots]], or [[leading edge extension|extension]]s
+* Trailing-edge devices such as [[flap (aircraft)|flap]]s or flaperons (combination of flaps and ailerons)
+* [[Winglets]] to keep wingtip vortices from increasing drag and decreasing lift
+* [[Dihedral (aircraft)|Dihedral]], or a positive wing angle to the horizontal, increases ''spiral stability'' around the roll axis, whereas ''anhedral'', or a negative wing angle to the horizontal, decreases spiral stability.
+
+Aircraft wings may have various devices, such as flaps or slats, that the pilot uses to modify the shape and surface area of the wing to change its operating characteristics in flight.
+* [[Aileron]]s (usually near the wingtips) to roll the aircraft
+* [[Spoiler (aeronautics)|Spoiler]]s on the upper surface to increase drag for descent and to reduce lift for more weight on wheels during braking
+* [[Vortex generator]]s to help prevent flow separation in transonic flow
+* [[Wing fence]]s to keep flow attached to the wing by stopping boundary layer separation from spreading roll direction. 
+* [[Folding wing]]s allow more aircraft storage in the confined space of the [[hangar|hangar deck]] of an [[aircraft carrier]]
+* [[Variable-sweep wing]] or "swing wings" that allow outstretched wings during low-speed flight (e.g., take-off, landing and loitering) and [[swept wing|swept back wing]]s for high-speed flight (including [[supersonic flight]]), such as in the [[F-111 Aardvark]], the [[F-14 Tomcat]], the [[Panavia Tornado]], the [[MiG-23]], the [[MiG-27]], the [[Tu-160]] and the [[B-1B Lancer]].
+
+==Types==
+* [[Swept wing|Swept Wings]]
+* [[Variable-sweep wing|Variable Sweep Wings]] (includes [[Oblique wing|Oblique wings]])
+* [[Delta wing|Delta Wings]]
+* [[elliptical wing]]s
+* [[Trapezoidal wing|trapezoidal wings]]
+
+==Applications==
+Besides [[fixed-wing aircraft]], applications for wing shapes include:{{citation needed|date = April 2017}}
+* [[Hang glider]]s, which use wings ranging from fully flexible ([[paraglider]]s, gliding [[parachute]]s), flexible (framed sail wings), to rigid
+* [[Kite types|Kites]], which use a variety of lifting surfaces
+* [[Free flight (model aircraft)|Flying model airplane]]s
+* [[Helicopter]]s, which use a rotating wing with a variable pitch angle to provide directional forces
+* [[Propeller]]s, whose blades generate lift for propulsion.
+* The [[NASA]] [[Space Shuttle]], which uses its wings only to glide during its descent to a runway. These types of aircraft are called [[spaceplane]]s.
+* Some [[racing cars]], especially [[Formula One car]]s, which use upside-down wings (or ''[[airfoil]]s'') to provide greater traction at high speeds
+* [[Sailboat]]s, which use sails as vertical wings with variable fullness and direction to move across water
+
+==Flexible wings==
+In 1948, [[Francis Rogallo]] invented the fully limp flexible wing. [[Domina Jalbert]] invented flexible un-sparred ram-air airfoiled thick wings.
+
+==In nature==
+Wings have [[evolution|evolved]] multiple times in history: in [[Insect wing|insects]], [[dinosaur]]s (see [[bird wing]]), mammals (see [[bat]]s), fish, reptiles (see [[pterosaur]]s), and plants. Wings of birds, bats, and pterosaurs all evolved from existing limbs, however insect wings evolved as a completely separate structure.<ref>{{Cite journal |last1=Melis |first1=Johan M. |last2=Siwanowicz |first2=Igor |last3=Dickinson |first3=Michael H. |date=April 2024 |title=Machine learning reveals the control mechanics of an insect wing hinge |url=https://www.nature.com/articles/s41586-024-07293-4 |journal=Nature |language=en |volume=628 |issue=8009 |pages=795–803 |doi=10.1038/s41586-024-07293-4 |pmid=38632396 |bibcode=2024Natur.628..795M |issn=1476-4687|url-access=subscription }}</ref> Wings facilitated increased [[Animal locomotion|locomotion]], dispersal, and diversification.<ref>{{Cite journal |last1=Treidel |first1=Lisa A |last2=Deem |first2=Kevin D |last3=Salcedo |first3=Mary K |last4=Dickinson |first4=Michael H |last5=Bruce |first5=Heather S |last6=Darveau |first6=Charles-A |last7=Dickerson |first7=Bradley H |last8=Ellers |first8=Olaf |last9=Glass |first9=Jordan R |last10=Gordon |first10=Caleb M |last11=Harrison |first11=Jon F |last12=Hedrick |first12=Tyson L |last13=Johnson |first13=Meredith G |last14=Lebenzon |first14=Jacqueline E |last15=Marden |first15=James H |date=2024-08-01 |title=Insect Flight: State of the Field and Future Directions |url=https://academic.oup.com/icb/article-abstract/64/2/533/7710115?redirectedFrom=fulltext |journal=Integrative and Comparative Biology |volume=64 |issue=2 |pages=533–555 |doi=10.1093/icb/icae106 |issn=1540-7063 |pmc=11406162 |pmid=38982327}}</ref> Various species of [[penguin]]s and other flighted or [[flightless bird|flightless]] water birds such as [[auk]]s, [[cormorant]]s, [[guillemot]]s, [[shearwater]]s, [[eider duck|eider]] and scoter ducks and diving [[petrels]] are efficient underwater swimmers, and use their wings to propel through water.<ref>{{cite web|url=http://www.stanford.edu/group/stanfordbirds/text/essays/Swimming.html|title=Swimming|publisher=Stanford.edu|date=|accessdate=2012-04-25}}</ref>
+<gallery mode="nolines" heights="150" widths="200" perrow="2" caption="Wing forms in nature">
+File:PSM V19 D181 Various seeds of trees.jpg|Winged tree seeds that cause [[autorotation]] in descent
+File:Seagull wing.jpg|A [[laughing gull]], exhibiting the "[[gull wing]]" outline.
+File:PikiWiki Israel 11327 Wildlife and Plants of Israel-Bat-003.jpg|Bat in flight
+File:Skimmer (Dragonfly) mating in air.jpg|[[dragonflies]] mating in flight
+</gallery>
+
+==See also==
+{{Div col|colwidth=20em}}
+* [[Flight]]
+'''Natural world:'''
+* [[Bird flight]]
+* [[Flight feather]]
+* [[Flying and gliding animals]]
+* [[Insect flight]]
+* [[List of soaring birds]]
+* [[Samara (fruit)|Samara]] (winged seeds of trees)
+'''Aviation:'''
+* [[Aircraft]]
+* [[Blade solidity]]
+* [[FanWing]] and [[Flettner airplane]] (experimental wing types)
+* [[Aircraft flight dynamics|Flight dynamics]]
+* [[Kite types]]
+* [[Ornithopter]] – flapping-wing aircraft (research prototypes, simple toys and models)
+* [[Otto Lilienthal]]
+* [[Wing configuration]]
+* [[Wingsuit flying]]
+'''Sailing:'''
+* [[Sails]]
+* [[Forces on sails]]
+* [[Wingsail]]
+{{Div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Wings (aerodynamics)|Wings}}
+*[https://www.iop.org/EJ/article/0031-9120/38/6/001/pe3_6_001.pdf How Wings Work – Holger Babinsky <u>Physics Education</u> 2003]
+<!-- broken link: *[http://user.uni-frankfurt.de/~weltner/Flight/PHYSIC4.htm "Physics of flight – revisited" Weltner and Ingelman-Sundberg ] -->
+*[http://www.aviation-history.com/theory/lift.htm How Airplanes Fly: A Physical Description of Lift]
+*[https://www.npr.org/templates/story/story.php?storyId=3875411 Demystifying the Science of Flight] – Audio segment on NPR's Talk of the Nation Science Friday
+*[https://www.grc.nasa.gov/WWW/K-12/airplane/short.html NASA's explanations and simulations]
+<!--The following link is not operating at present:<br />
+*[https://aerodyn.org/Wings/ Advanced Topics in Aerodynamics] Wings for all speeds-->
+*[https://www.youtube.com/watch?v=O4E6M2VGQyk Flight of the StyroHawk wing]
+*[https://www.av8n.com/how/htm/airfoils.html See How It Flies]
+
+{{fins, limbs and wings}}
+
+[[Category:Aerodynamics]]
+[[Category:Aerospace engineering]]
+[[Category:Aircraft wing components]]
+[[Category:Bird anatomy]]
+[[Category:Bird flight]]
+[[Category:Insect anatomy]]
+[[Category:Mammal anatomy]]

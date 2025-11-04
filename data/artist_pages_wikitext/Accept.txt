@@ -1,0 +1,22 @@
+{{distinguish|wikt:except{{!}}except (definition)|Exception (disambiguation){{!}}except}}
+{{wiktionary|accept}}
+
+'''Accept''' often refers to:
+
+* [[Acceptance]], a person's assent to the reality of a situation etc.
+* [[Acceptability]], the property of a thing to be able to be accepted
+'''Accept''' can also refer to:
+* [[Accept (band)]], a German heavy metal band
+** [[Accept (Accept album)|''Accept'' (Accept album)]], their debut album from 1979
+* [[Accept (Chicken Shack album)|''Accept'' (Chicken Shack album)]], 1970
+* [[ACCEPT (organization)]], a Romanian LGBT rights organisation
+* {{samp|accept()}}, a computer programming function provided by the [[Berkeley sockets#accept()|Berkeley sockets]] API
+
+==See also==
+*[[Acceptance (disambiguation)]]
+* {{lookfrom|accept}}
+* {{intitle|accept}}
+* [[Receive (disambiguation)]]
+* [[Rejection (disambiguation)]]
+
+{{disambiguation}}

@@ -1,0 +1,64 @@
+{{Short description|Flat bottomed pan for cooking food on a stove}}
+{{Redirect|Skillet||Frying pan (disambiguation)|and|Skillet (disambiguation)}}
+[[File:Pfanne (Edelstahl).jpg|thumb|A [[stainless steel]] frying pan]]
+
+A '''frying pan'''  or '''skillet''' is a flat-bottomed [[Cookware and bakeware|pan]] used for [[frying]], [[searing]], and [[Browning (cooking)|browning]] foods. It typically ranges from {{convert|20|to|30|cm|inch|0|abbr=on}} in diameter with relatively low sides that flare outwards, a long handle, and no lid. Larger pans may have a small grab handle opposite the main handle. A pan of similar dimensions, but with less flared, more vertical sides and often with a lid, is called a [[sauté pan]]. While a [[sautéing|sauté]] pan can be used as a frying pan, it is designed for lower-heat cooking.
+
+== History ==
+[[File:Copper frying pan, 5th-4th century B.C., Thessaloniki - Greece.jpg|thumb|Copper frying pan dated end 5th to early 4th century BC, [[Archaeological Museum of Thessaloniki]]. The handle is ornamented with floral engravings and ends in the shape of a goose head.]]
+
+Copper frying pans were used in ancient [[Mesopotamia]].<ref>{{Cite book|url=https://archive.org/details/dailylifeinancie00neme|url-access=registration|page=[https://archive.org/details/dailylifeinancie00neme/page/126 126]|quote=Copper frying pans were used in ancient Mesopotamia.|title=Daily Life in Ancient Mesopotamia|last=Nemet-Nejat|first=Karen Rhea|date=1998|publisher=Greenwood Publishing Group|isbn=9780313294976|language=en}}</ref> Frying pans were also known in [[ancient Greece]], where they were called {{Transliteration|grc|tagēnon}} ({{langx|grc|τάγηνον}}) and teganon (τήγανον)<ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dta%2Fghnon τάγηνον], Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus</ref><ref>[https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0062%3Aalphabetic+letter%3DS%3Aentry+group%3D4%3Aentry%3Dsartago-harpers Harry Thurston Peck, Harpers Dictionary of Classical Antiquities (1898), Sartago]</ref> and [[Ancient Rome|Rome]], where they were called ''patella'' or ''sartago''. The word ''pan'' derives from the [[Old English]] {{Lang|ang|panna}}.<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/pan|title=Pan - Definition and More from the Free Merriam-Webster Dictionary}}</ref> Before the introduction of the [[kitchen stove]] in the mid-19th century, a commonly used cast-iron cooking pan called a 'spider' had a handle and three legs used to stand up in the coals and ashes of the fire. Cooking pots and pans with legless, flat bottoms were designed when cooking stoves became popular; this period of the late 19th century saw the introduction of the flat cast-iron skillet.{{Cn|date=March 2025}}
+
+== Frying pan relatives ==
+A versatile pan that combines the benefits of both the sauté pan and the frying pan has higher, sloping sides, often slightly curved. This pan is called a ''sauteuse'' (literally: a sauté pan in the female gender), an ''evasée'' (denoting a pan with sloping sides), or a ''fait-tout'' (literally "does everything"). Most professional kitchens possess several of these utensils in varying sizes.{{Cn|date=March 2025}}
+
+A "rappie pan" is a pan used to make [[rappie pie]], an [[Acadian]] potato dish. The pan is made from [[aluminum]] or [[stainless steel]].<ref>Pamela Goyan Kittler, Kathryn Sucher ''Food and Culture''Cengage Learning, 2007 {{ISBN|049511541X}}, page 519</ref>
+
+== Construction ==
+{{Unreferenced section|date=March 2025}}
+[[File:Pan frying sausages.jpg|thumb|[[Sausage]]s being [[Pan frying|pan fried]] in a frying pan]]
+
+Traditionally, frying pans were forged from [[Cast-iron cookware|cast iron]], [[carbon steel]] or [[copper]] lined with tin, for their different qualities and properties. Copper pans are highly thermally conductive, making them useful for evenly sautéing. However, they are also highly reactive with most foods, so today, many of copper pans sold have a tin lining which can be replaced when it wears out. Cast iron pans are used because although they do not conduct heat very evenly, they retain it quite well, making them useful for searing meats and vegetables. Carbon steel cookware is used, as over time it can develop a highly nonstick patina of [[Polymerization|polymerized]] oil called "seasoning," useful for cooking protein that is prone to stick, such as fish and eggs. While all of these materials are still commonly used in professional kitchens, many modern materials have supplanted them in the consumer market. Nowadays, most frying pans are created from metals such as [[aluminium]] or [[stainless steel]]. The materials and construction method used in modern frying pans vary greatly, and some typical materials include:
+* [[Aluminium]] or [[anodized aluminium]]
+* [[Cast-iron cookware|Cast iron]]
+* [[Copper]]
+* [[Stainless steel]]
+* [[Cookware and bakeware#Coating|Clad stainless steel with an aluminium or copper core]]
+
+A coating is sometimes applied to the surface of the pan to make it [[Non-stick surface|non-stick]]. Frying pans made from bare cast iron or carbon steel can also gain non-stick properties through [[Seasoning (cookware)|seasoning]] and use.
+
+==Variants==
+===Non-stick===
+{{Main|Non-stick pan}}
+
+A process for bonding [[Teflon]] to chemically roughened aluminium was patented in France by Marc Gregoire in 1954. In 1956 he formed a company to market [[Non-stick surface|non-stick]] cookware under the "[[Tefal]]" brand name.<ref>{{cite book|first=Richard L.|last=Myers|title=The 100 Most Important Chemical Compounds: A Reference Guide|publisher=ABC-CLIO|date=2007|isbn=978-0313337581|page=276}}</ref> The durability of the early coatings was initially poor, but improvements in manufacturing have made these products a kitchen standard. The surface is not as tough as metal and the use of metal utensils (e.g. [[spatulas]]) can permanently mar the coating and degrade its non-stick property.{{Cn|date=March 2025}}
+
+For some cooking preparations a non-stick frying pan is inappropriate, especially for [[Deglazing (cooking)|deglazing]], where the residue of browning is to be incorporated in a later step such as a pan sauce. Since little to no residue can stick to the surface, the sauce will fail for lack of its primary flavouring agent.{{Cn|date=March 2025}}
+
+===Electric===
+[[File:Black electric frying pan.png|thumb|Electric frying pan]]
+
+An electric frying pan or electric skillet incorporates an electric [[heating element]] into the frying pan itself and so can function independently off of a [[Improved cookstove|cooking stove]]. Accordingly, it has heat-insulated legs for standing on a countertop. (The legs usually attach to handles.) Electric frying pans are common in shapes that are unusual for 'unpowered' frying pans, notably square and rectangular. Most are designed with straighter sides than their stovetop cousins and include a lid. In this way they are a cross between a frying pan and a sauté pan.{{Cn|date=March 2025}}
+
+A modern electric skillet has an additional advantage over the stovetop version: heat regulation. The detachable power cord incorporates a thermostatic control for maintaining the desired temperature.{{Cn|date=March 2025}}
+
+With the perfection of the thermostatic control, the electric skillet became a popular kitchen appliance. Although it largely has been supplanted by the [[microwave oven]], it is still in use in many kitchens.{{Cn|date=March 2025}}
+
+===Diamond===
+[[File:Vacuum brazed diamond frying pan.jpg|thumb|alt=A diamond frying pan|A diamond frying pan]]
+
+Diamond frying pans are produced by bonding [[Synthetic diamond|diamond particles]] to a metal base, typically [[carbon steel]], through [[Brazing|vacuum-brazing]] under controlled conditions to prevent [[oxidation]] and create a durable, scratch-resistant cooking surface. Diamond’s high [[thermal conductivity]] (900–2320 W/m·K) may offer rapid and even heat distribution, making them useful for high-temperature cooking methods like searing and stir-frying. Additionally, diamond surfaces are usually [[hydrophobicity|hydrophobic]], lending them [[non-stick]] qualities;<ref name="Kaibara2003">Kaibara, Yu, Kenta Sugata, Minoru Tachiki, Hitoshi Umezawa, and Hiroshi Kawarada. "Control wettability of the hydrogen-terminated diamond surface and the oxidized diamond surface using an atomic force microscope." Diamond and Related Materials 12.3-7 (2003): 560–564.</ref> some manufacturers enhance these with [[silicone resin]] fillers for better food release.<ref name="Patent US">{{cite web|title=US Patent # US 20250000298 A1|url=https://patents.google.com/patent/US20250000298A1|work=US Patent|publisher=USPTO|access-date=22 February 2025}}</ref> Marketed as a [[PFAS]]-free alternative to traditional non-stick coatings, their long-term durability remains to fully be established due to their relatively recent introduction to the market.
+
+== See also ==
+* {{annotated link|Blackening (cooking)}}
+* {{annotated link|Griddle}}
+* {{annotated link|List of cooking vessels}}
+* {{annotated link|Pan frying}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Frying pans}}
+
+[[Category:Cooking vessels]]

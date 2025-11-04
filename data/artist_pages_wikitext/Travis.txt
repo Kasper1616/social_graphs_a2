@@ -1,0 +1,28 @@
+{{wiktionary|Travis|travis}}
+'''Travis''' may refer to:
+{{tocright}}
+==People and fictional characters==
+*[[Travis (given name)]], a list of people and fictional characters
+*[[Travis (surname)]], a list of people
+
+==Places in the United States==
+*[[Travis, Staten Island]], a neighborhood
+*[[Travis Air Force Base]], a United States Air Force base in California
+*[[Travis, Texas]], an unincorporated community
+*[[Travis County, Texas]]
+*[[Lake Travis]], Texas, a reservoir on the Colorado River
+
+==Schools==
+*[[William B. Travis High School (Austin, Texas)]]
+*William B. [[Travis High School (Fort Bend County, Texas)]]
+*[[Travis Elementary School (disambiguation)]], schools in Texas and California
+
+==Other uses==
+*[[Travis (band)]], a Scottish band
+*[[Travis (chimpanzee)]] (died 2009), a domesticated [[chimpanzee]] who attacked and mauled a Connecticut woman
+*[[Travis CI]], a hosted continuous integration service, for software development
+
+==See also==
+*[[Trevis (disambiguation)]]
+
+{{disambiguation|geo}}

@@ -1,0 +1,495 @@
+{{Short description|European folk tale}}
+{{About|the folk tale|other uses}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox folk tale
+| Folk_Tale_Name = Cinderella
+| Image_Name = Cendrillon.jpg|thumb
+| Image_Caption = 
+| Aarne-Thompson Grouping = ATU 510 A (Persecuted Heroine)
+| AKA = The Little Glass Slipper
+| Mythology = 
+| Country = {{plainlist|
+*[[Ancient Greece]], [[Ancient Egypt]] (oral)<ref name= Carruthers>{{cite book|last=Carruthers|first=Amelia|date=24 September 2015|title=Cinderella – And Other Girls Who Lost Their Slippers (Origins of Fairy Tales)|url=https://books.google.com/books?id=xlObCgAAQBAJ&q=cinderella+basile+oldest&pg=PT18|publisher=Read Books|isbn=978-1-4733-7011-1}}</ref>
+*Italy (literary)<ref name= Carruthers/>
+}}
+| Region = [[Eurasia]]
+| Published_In = 
+| Related = 
+}}
+"'''Cinderella'''",{{efn|{{langx|it|Cenerentola}}; {{langx|fr|Cendrillon}}; {{langx|de|Aschenputtel}}.}} or "'''The Little Glass Slipper'''", is a [[Folklore|folk tale]] with thousands of variants that are told throughout the world.<ref name="Zipes 2001 444">{{cite book|title=The Great Fairy Tale: From Straparola and Basile to the Brothers Grimm|last=Zipes|first=Jack|author-link=Jack Zipes|year=2001|publisher=W. W. Norton & Co|isbn=978-0-393-97636-6|page=[https://archive.org/details/greatfairytaletr00zipe/page/444 444]|url=https://archive.org/details/greatfairytaletr00zipe/page/444}}</ref><ref name="Dundes, Alan 1988">Dundes, Alan. Cinderella, a Casebook. Madison, Wis: University of Wisconsin Press, 1988.</ref> The protagonist is a young girl living in unfortunate circumstances who is suddenly blessed with remarkable fortune, ultimately ascending to the throne through marriage. The story of [[Rhodopis]]—recounted by the Greek geographer [[Strabo]] sometime between 7 BC and AD 23—is about a Greek slave girl who marries the king of Egypt, and is usually considered to be the earliest known variant of the Cinderella story.<ref name="Zipes 2001 444"/><ref name="Dundes, Alan 1988"/><ref name="Green 2011, chapter '''The Land of Egypt'''">{{cite book|last=Green|first=Roger Lancelyn|chapter=The Land of Egypt|date=2011|title=Tales of Ancient Egypt|publisher=[[Penguin UK]]|isbn=978-0-14-133822-4}}</ref>
+
+The first literary European version of the story was published in Italy by [[Giambattista Basile]] in his ''[[Pentamerone]]'' in 1634. The version that is now most widely known in the English-speaking world was published in French by [[Charles Perrault]] in ''[[Histoires ou contes du temps passé]]'' (translation: "Histories or tales of times passed") in 1697 as ''Cendrillon,'' and was anglicized as ''Cinderella''.<ref name="Bottigheimer, Ruth 2008 pp. 175">{{cite journal|last1=Bottigheimer|first1=Ruth|date=2008|title=Before ''Contes du Temps passé'' (1697): Charles Perrault's "Grisélidis" (1691), "Souhaits Ridicules" (1693), and "Peau d'Asne" (1694)|journal=The Romantic Review|volume=99|number=3|pages=175–89|doi=10.1215/26885220-99.3-4.175 }}</ref> Another version was later published as ''Aschenputtel'' by the [[Brothers Grimm]] in their folk tale collection ''[[Grimms' Fairy Tales]]'' in 1812.
+
+Although the story's title and main character's name change in different languages, in English-language folklore Cinderella is an archetypal name. The word Cinderella has, by analogy, come to mean someone whose attributes are unrecognized or someone who unexpectedly achieves recognition or success after a period of obscurity and neglect. In the world of sports, "a Cinderella" is used for an underrated team or club winning over stronger and more favored competitors. The still-popular story of Cinderella continues to influence popular culture internationally, lending plot elements, [[allusions]], and [[trope (literature)|tropes]] to a wide variety of media.
+
+==Ancient versions==
+===European===
+
+The oldest known oral version of the Cinderella story is the ancient Greek story of [[Rhodopis]],<ref name="Green 2011, chapter '''The Land of Egypt'''"/><ref>{{cite book|last=Hansen|first=William|title=The Book of Greek & Roman Folktales, Legends & Myths|date=2017|publisher=Princeton University Press|location=Princeton, New Jersey|isbn=978-0-691-17015-2|pages=86–87}}</ref> a [[Greeks in Egypt|Greek]] [[hetaira|courtesan]] living in the [[Colonies in antiquity|colony]] of [[Naucratis]] in [[Ancient Egypt|Egypt]], whose name means "Rosy-Cheeks". The story is first recorded by the [[Ancient Greece|Greek]] geographer [[Strabo]] in his ''[[Geographica (Strabo)|Geographica]]'' (book 17, 33): "They [the Egyptians] tell the fabulous story that, when she was bathing, an eagle snatched one of her sandals from her maid and carried it to [[Memphis, Egypt|Memphis]]; and while the king was administering justice in the open air, the eagle, when it arrived above his head, flung the sandal into his lap; and the king, stirred both by the beautiful shape of the sandal and by the strangeness of the occurrence, sent men in all directions into the country in quest of the woman who wore the sandal; and when she was found in the city of Naucratis, she was brought up to Memphis, and became the wife of the king."<ref>Strabo, [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17A3*.html#ref178 ''The Geography''], book 17, 33</ref>
+
+The same story is also later reported by the Roman orator [[Claudius Aelianus|Aelian]] ({{circa|175}} – {{circa|235}}) in his ''Miscellaneous History'', which was written entirely in Greek. Aelian's story closely resembles the story told by Strabo, but adds that the name of the pharaoh in question was Psammetichus.{{efn|There were three pharaohs called [[Psammetichus (disambiguation)|Psammetichus]], and it's unclear which one Aelian had in mind.}}<ref name="penelope.uchicago.edu">Aelian, [http://penelope.uchicago.edu/aelian/varhist13.xhtml#b28 ''Various History''], book 13, chapter 33</ref> Aelian's account indicates that the story of Rhodopis remained popular throughout [[classical antiquity|antiquity]].
+
+[[Herodotus]], some five centuries before Strabo, records a popular legend about a possibly related [[courtesan]] named [[Rhodopis (hetaera)|Rhodopis]] in his ''[[Histories (Herodotus)|Histories]]'',<ref name=Anderson2000/>{{rp|27}} claiming that she came from [[Thrace]], was the slave of Iadmon of [[Samos]] and a fellow-slave of the story-teller [[Aesop]], was taken to Egypt in the time of [[Pharaoh]] [[Amasis II|Amasis]], and freed there for a large sum by Charaxus of [[Mytilene]], brother of [[Sappho]] the lyric poet.<ref name=Anderson2000/>{{rp|27–28}}<ref name="Herodot">Herodot, [https://www.perseus.tufts.edu/hopper/text?doc=Hdt.+2.134&fromdoc=Perseus%3Atext%3A1999.01.0126 "The Histories"], book 2, chapters 134–135</ref>
+
+The resemblance of the shoe-testing of Rhodopis with Cinderella's slipper has already been noted in the 19th century, by [[Edgar Taylor (author)|Edgar Taylor]]<ref>Grimm, Jacob & Grimm, Wilhelm; Taylor, Edgar; Cruikshank, George (illustrator). ''Grimm's Goblins: Grimm's Household Stories''. London: R. Meek & Co.. 1877. p. 294.</ref> and Reverend [[Sabine Baring-Gould]].<ref>Baring-Gould, Sabine. ''A Book of Fairy Tales''. [2d ed.] London: Methuen. 1895. pp. 237–238.</ref>
+
+====Aspasia of Phocaea====
+{{main|Aspasia of Phocaea}}
+A second predecessor for the Cinderella character, hailing from late [[Ancient history|Antiquity]], may be [[Aspasia of Phocaea]]. Her story is told in [[Claudius Aelianus|Aelian]]'s ''Varia Storia'': lost her mother in early childhood and raised by her father, Aspasia, despite living in poverty, has dreamt of meeting a noble man. As she dozes off, the girl has a vision of a dove transforming into a woman, who instructs her on how to remove a physical imperfection and restore her own beauty. In another episode, she and other courtesans are made to attend a feast hosted by [[Persian people|Persian]] regent [[Cyrus the Younger]]. During the banquet, the Persian King sets his sights on Aspasia herself and ignores the other women.<ref>{{cite journal |last1=Ben-Amos |first1=Dan |title=Straparola: The Revolution That Was Not |journal=The Journal of American Folklore |date=2010 |volume=123 |issue=490 |pages=426–446 |doi=10.5406/jamerfolk.123.490.0426 |jstor=10.5406/jamerfolk.123.490.0426 }}</ref><ref>Anderson, Graham. ''Fairytale in the Ancient World''. Routledge. 2000. pp. 29–33. {{ISBN|0-203-18007-0}}</ref>
+
+====''Le Fresne''====
+[[File:Marie de France 1.tif|thumb|upright=1|Illustration of [[Marie de France]], the author of {{lang|fr|Le Fresne}}, from a medieval [[illuminated manuscript]]]]
+The twelfth-century {{lang|fr|[[Lai (poetic form)|lai]]}} of {{lang|fr|[[Le Fresne (lai)|Le Fresne]]}} ("The Ash-Tree Girl"), retold by [[Marie de France]], is a variant of the "Cinderella" story<ref name=Anderson2000/>{{rp|41}} in which a wealthy noblewoman abandons her infant daughter at the base of an [[ash tree]] outside a nunnery with a ring and [[brocade]] as tokens of her identity<ref name=Anderson2000/>{{rp|41}} because she is one of twin sisters<ref name=Anderson2000/>{{rp|41}}—the mother fears that she will be accused of infidelity<ref name=Anderson2000/>{{rp|41}} (according to popular belief, twins were evidence of two different fathers).<ref>{{cite web|url=http://www.pitt.edu/~dash/manykids.html|title=Multiple Births in Legend and Folklore|website=University of Pittsburgh|access-date=15 January 2018}}</ref> The infant is discovered by the porter, who names her {{lang|fr|Fresne}}, meaning "Ash Tree",<ref name=Anderson2000/>{{rp|41}} and she is raised by the nuns.<ref name=Anderson2000/>{{rp|41}} After she has attained maturity, a young nobleman sees her and becomes her lover.<ref name=Anderson2000/>{{rp|41}} The nobleman, however, is forced to marry a woman of noble birth.<ref name=Anderson2000/>{{rp|41}} Fresne accepts that she will never marry her beloved<ref name=Anderson2000/>{{rp|41}} but waits in the wedding chamber as a handmaiden.<ref name=Anderson2000/>{{rp|41}} She covers the bed with her own brocade<ref name=Anderson2000/>{{rp|41}} but, unknown to her, her beloved's bride is actually her twin sister,<ref name=Anderson2000/>{{rp|41}} and her mother recognizes the brocade as the same one she had given to the daughter she had abandoned so many years before.<ref name=Anderson2000/>{{rp|41}} Fresne's true parentage is revealed<ref name=Anderson2000/>{{rp|41}} and, as a result of her noble birth, she is allowed to marry her beloved,<ref name=Anderson2000/>{{rp|41}} while her twin sister is married to a different nobleman.<ref name=Anderson2000/>{{rp|41}}
+
+===={{lang|mt|italic=no|Ċiklemfusa}} from Malta====
+The Maltese Cinderella is named {{lang|mt|italic=no|Ċiklemfusa}}. She is portrayed as an orphaned child during her early childhood. Before his death, her father gave her three magical objects: a chestnut, a nut, and an almond. She used to work as a servant in the King's palace. Nobody ever took notice of the poor girl. One day she heard of a big ball and with the help of a magical spell turned herself into a beautiful princess. The prince fell in love with her and gave her a ring. On the following night the Prince gave her a diamond and on the third night he gave her a ring with a large gem on it. By the end of the ball {{lang|mt|italic=no|Ċiklemfusa}} would run away hiding herself in the cellars of the Palace. She knew that the Prince was very sad about her disappearance so one day she made some krustini (typical Maltese biscuits) for him and hid the three gifts in each of them. When the Prince ate the biscuits he found the gifts he had given to the mysterious Princess and soon realized the huge mistake he had made of ignoring {{lang|mt|italic=no|Ċiklemfusa}} because of her poor looks. They soon made marriage arrangements and she became his wife.<ref>{{cite %20Rakkont.pdf|title=Ċiklemfusa|website=Rakkonti|access-date=23 May 2020}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=i34ZwXDNn1E| archive-url=https://ghostarchive.org/varchive/youtube/20211029/i34ZwXDNn1E| archive-date=2021-10-29|title=Ċiklemfusa|language=mt|website=Filmat mill-Aġenzija tal-Litteriżmu| date=February 2019|access-date=23 May 2020}}{{cbignore}}</ref><ref>{{cite journal|url=https://www.um.edu.mt/library/oar/bitstream/123456789/44340/1/Book_review_The_Maltese_Cindirella_and_the_Women%E2%80%99s_Storytelling_Tradition_2019.pdf|title= Book Review: The Maltese Cinderella and the Women's Storytelling Tradition (Veronica Veen)|journal=The Gozo Observer|number=39|date=2019|first=Anton F.|last=Attard}}</ref>
+
+===Outside Europe===
+===={{lang|zh-Latn|Ye Xian}}====
+The tale of [[Ye Xian]] first appeared in ''[[Miscellaneous Morsels from Youyang]]'' written by [[Duan Chengshi]] around 860.<ref name=Beauchamp>{{cite journal |url=http://journal.oraltradition.org/files/articles/25ii/10_25.2.pdf |title=Asian Origins of Cinderella: The Zhuang Storyteller of Guangxi |journal=Oral Tradition |volume=25 |number=2 |first=Fay |last=Beauchamp |pages=447–496 |access-date=25 July 2017 |archive-url=https://web.archive.org/web/20171215135835/http://journal.oraltradition.org/files/articles/25ii/10_25.2.pdf |archive-date=15 December 2017 }}</ref> In this version, Ye Xian is the daughter of the local tribal leader whose mother died when she was young. Because her mother died early, she is now under the care of her father's second wife, who abused her. She befriends a fish, which is the reincarnation of her deceased mother.<ref name=Beauchamp/> Her stepmother and half-sister kill the fish, but Ye Xian finds the bones, which are magical, and they help her dress appropriately for a local Festival, including a very light golden shoe.<ref name=Beauchamp/> Her stepfamily recognizes her at the festival, causing her to flee and accidentally lose the shoe. Afterwards, the king of another island obtains the shoe and is curious about it as no one has feet that can fit the shoe. The King searches everywhere and finally reaches Ye's house, where she tries on the shoe. The king realises she is the one and takes her back to his kingdom. Her cruel stepmother and half-sister are killed by flying rocks.<ref>{{cite book |url= https://books.google.com/books?id=KJHUFRTYpA4C&pg=PA26|title=Every Step a Lotus: Shoes for Bound Feet |first= Dorothy|last= Ko |pages=26–27 |publisher=University of California Press |date= 2002|isbn= 978-0-520-23283-9}}</ref> Variants of the story are also found in many ethnic groups in China.<ref name=Beauchamp/>
+
+====''{{lang|vi|Tấm}} and {{lang|vi|Cám}}''====
+''[[The Story of Tấm and Cám|The Story of {{lang|vi|cat=no|Tấm}} and {{lang|vi|cat=no|Cám}}]]'', from [[Vietnam]], is similar to the Chinese version. The heroine Tấm also had a fish that was killed by the stepmother and the half-sister Cám, and its bones also give her clothes.<ref>{{cite web|url=https://www.furorteutonicus.eu/germanic/ashliman/mirror/tam.html|title=A Cinderella Tale from Vietnam: the Story of Tam and Cam|website=Furor Teutonicus|access-date=10 September 2017}}</ref> Later after marrying the king, Tấm was killed by her stepmother and sister, and reincarnated several times in form of a bird, a loom and a [[Diospyros decandra|gold apple]]. She finally reunited with the king and lived happily ever after. Cam asked her about her beauty secret. Tam led her to a hole and told her to jump inside. She then commanded the royal guards to pour boiling water on Cam. Her corpse was used to make a fermented sauce, to which she sent to the stepmother. The stepmother ate it with every single meal. After she reached the bottom of the jar, she looked down only to see her daughter's skull. She died of shock.
+
+There are many variations for the ending of this story, with the family friendly version one usually ending with the stepmother and Cam being exiled, and then struck by lightning, killing them both. Other versions either have a different ending for the story or simply omit the revenge part entirely.
+
+==== ''Kongjwi and Patjwi'' ====
+Originating from Korea, [[Kongjwi and Patjwi]] is a tale similar to [[Disney's Cinderella]], with two  distinguishing characteristics: the degree of violence and the plot's continuance past the marriage to the [[Prince Charming|prince charming]]. The protagonist, Kongjwi, loses her mother when she was a child and her father remarries a widow. The widow also has a daughter, named Patjwi. After her father passes, the stepmother and Patjwi abuse Kongjwi by starving, beating, and working her brutally. Kongjwi is aided by animals and supernatural helpers, like a cow, a toad, a flock of birds, and a fairy. These helpers aid Kongjwi in attending a dance in honor of a [[magistrate]]. On her way back from the dance, Kongjwi loses one of her shoes, and the magistrate searches the towns to find the one who can fit the shoe. When he finds Kongjwi, he marries her.<ref name=":12">{{Cite web |last=Service (KOCIS) |first=Korean Culture and Information |title=Kongjwi and Patjwi: Cinderella tale offers insight into old Korea |website=Korea.net |publisher=Republic of Korea |url=https://www.korea.net/NewsFocus/Culture/view?articleId=120649 |access-date=2023-10-02 |language=en}}</ref><ref name=":0">{{Cite journal |last=Yoonsun |first=Oh |date=2006 |title=The Kongjwi Patjwi Story – Examining Cultural Significance Through a Comparison of Different Versions of Cinderella |url=https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001178544 |journal=Children's Literature and Translation |language=Korean |issue=11 |pages=261–289 |issn=2093-1700}}</ref>
+
+Where the story usually ends, Kongjwi's hardships continue into the marriage. Patjwi, envious of this marriage, pretends to ask for Kongjwi's forgiveness and then drowns Kongjwi in a pond. Patjwi then pretends to be Kongjwi and marries the magistrate. Kongjwi is then reincarnated into a lotus flower, burned by Patjwi, and reincarnated once more into a marble. With help from additional characters, Kongjwi is able to inform her husband of Patjwi's doings. As punishment, Patjwi is ripped apart alive, her body made into [[jeotgal]], and sent to her mother. She eats it in ignorance, and when told that it is Patjwi's flesh, she dies out of shock. There are 17 variants of this tale known in South Korea.<ref name=":12"/><ref name=":01"/>
+
+A notable difference from other versions of Cinderella is that Kongjwi avenges her death with her own determination and willpower.<ref name=":01"/> Unlike Perrault's version of Cinderella, named Cendrillon, who forgives her stepfamily when they plead for forgiveness,<ref>{{Cite book |editor-last=Tatar |editor-first=Maria |title=The annotated classic fairy tales |date=2002 |publisher=W. W. Norton |isbn=978-0-393-05163-6 |location=New York}}</ref> Kongjwi takes ownership of the principle of {{lang|ko-Latn|kwon seon jing ak}} ({{lang|ko|[[:ko:권선징악|권선징악]]}}) and accomplishes her vengeance herself. The violent degree of the punishments stems from the increased violence (starvation, beating, betrayal, and ultimately murder) that Kongjwi suffered compared to the abuses other versions went through.<ref>{{Cite thesis |last=자 |first=자와 |url=https://s-space.snu.ac.kr/bitstream/10371/121712/1/000000137244.pdf |title=&lt;콩쥐팥쥐> 설화 연구 - 세계 &lt;신데렐라> 유형 설화와의 비교를 중심으로 |type=doctoral dissertation |publisher=Seoul University |year=2016 |location= |pages=90–93 |language=Korean}}</ref>
+
+====Other East and Southeast Asian versions====
+There exists a Cambodian version (called "Khmer" by the collectors) with the name ''Néang Kantoc''.<ref>Leclère, Adhémard; Feer, Léon. ''[https://archive.org/details/cambodgecontese01feergoog/page/n107/mode/2up Cambodge: Contes et légendes]''. Librairie Émile Bouillon. 1895. pp. 70–90.</ref> Its collectors compared it to the Vietnamese story of ''Tam and Cam''.<ref>Leclère, Adhémard; Feer, Léon. {{lang|fr|[https://archive.org/details/cambodgecontese01feergoog/page/n127/mode/2up Cambodge: Contes et légendes]}}. Librairie Émile Bouillon. 1895. p. 91.</ref>
+
+Another version was collected from the [[Cham people]] of Southeast Asia, with the name {{lang|fr|La Sandale d'Or}} ("The Golden Sandal") or {{lang|fr|Conte de demoiselles Hulek et Kjong}} ("The tale of the ladies Hulek and Kjong").<ref>Leclère, Adhémerd. {{lang|fr|italic=unset|"Le Conte de ''Cendrillion'' chez les Cham"}}. In: {{lang|fr|[https://gallica.bnf.fr/ark:/12148/bpt6k5833592n/f23.item Revue de Traditions Populaires]}}. June 1898. pp. 311–337.</ref>
+
+In Indonesian and [[Malays (ethnic group)|Malay]] folklore there is a similar story with the name ''[[Bawang Merah Bawang Putih|Bawang Merah dan Bawang Putih]]'' ("The tale of Shallot and Garlic").
+
+20th century folktale collector Kenichi Mizusawa published an analysis of Japanese variants of Cinderella, separating them into two types: "Nukabuku, Komebuku" (about rival step-sisters) and "Ubagawa" (about the heroine's disguise).<ref>Mayer, Fanny Hagin. "Reviewed Work: 越後のシンデレラ by 水沢謙一" [''Echigo no Shinderera'' by Kenichi Mizusawa]. In: ''Asian Folklore Studies'' 24, no. 1 (1965): 151-153. Accessed July 25, 2021. doi:10.2307/1177604.</ref>
+
+====West Asian versions====
+
+The Iranian version of the story is called Moon-Forehead or in Persian, Mahpishooni ({{langx|fa|ماه پیشونی|māhpišuni}}). The story is very similar to the German version but the girl is described as having been born with a shining moon on her forehead and after losing her natural mother, was forced to live under the ashes, to block her shining moon that could overshadow the two daughters of her stepmother. The contrast between the shining moon and ash denotes potential, similar to fire under the ashes. The location of the shine on the forehead could be a reference to superior knowledge or personality.
+
+German scholar {{ill|Ulrich Marzolph|de|Ulrich Marzolph}} listed the [[Iran]]ian variants of ''Cinderella'' under tale type *510A, "Aschenputtel", and noted that, in Iranian tradition, the type only exists in combination with type 480, {{lang|de|italic=no|"Stirnmöndlein"}}.<ref>Marzolph, Ulrich. {{lang|de|[https://menadoc.bibliothek.uni-halle.de/inhouse/content/pageview/1469989 Typologie des persischen Volksmärchens]}}. Beirut: Orient-Institut der Deutschen Morgenländischen Gesellschaft; Wiesbaden: Steiner [in Komm.], 1984. pp. 105-106.</ref>
+
+====''One Thousand and One Nights''====
+Several different variants of the story appear in the medieval ''[[One Thousand and One Nights]]'', also known as the ''Arabian Nights'', including "The Second Shaykh's Story", "The Eldest Lady's Tale" and "Abdallah ibn Fadil and His Brothers", all dealing with the theme of a younger sibling harassed by two jealous elders. In some of these, the siblings are female, while in others, they are male. One of the tales, "Judar and His Brethren", departs from the [[happy ending]]s of previous variants and reworks the plot to give it a [[Tragedy|tragic]] ending instead, with the younger brother being poisoned by his elder brothers.<ref name="Ulrich Marzolph, Richard van Leeuwen 2004 4">{{Cite book|title=The Arabian Nights Encyclopedia|first1=Ulrich |last1=Marzolph |first2=Richard |last2=van Leeuwen|first3=Hassan |last3=Wassouf|publisher=[[ABC-CLIO]]|year=2004|isbn=1-57607-204-5|page=4}}</ref>
+
+==Literary versions==
+[[File:Giambattista Basile by Nicolaus Perrey.jpg|thumb|upright|Italian author [[Giambattista Basile]] wrote the first literary version of the story.]]
+The first European version written in prose was published in Naples, Italy, by [[Giambattista Basile]], in his ''[[Pentamerone]]'' (1634).<ref>{{cite book |last1=Canepa |first1=Nancy |title=Giambattista Basile's The Tale of Tales, or Entertainment for Little Ones |date=2007 |publisher=Wayne State University Press |id={{Project MUSE|14344|type=book}} |isbn=978-0-8143-3738-7 |page=83 (footnote) |quote=Basile's tale is the earliest literary version of Cinderella in Europe, preceding Perrault's "Cendrillon" (1697) by over sixty years. }}</ref> The story itself was set in the [[Kingdom of Naples]], at that time the most important political and cultural center of [[Southern Italy]] and among the most influential capitals in Europe, and written in the [[Neapolitan Language|Neapolitan dialect]]. It was later retold, along with other Basile tales, by [[Charles Perrault]] in ''[[Histoires ou contes du temps passé]]'' (1697),<ref name="Bottigheimer, Ruth 2008 pp. 175"/> and by the [[Brothers Grimm]] in their folk tale collection ''[[Grimms' Fairy Tales]]'' (1812).
+
+The name "Cenerentola" derives from the Italian word ''cenere'' "ash, cinder," an allusion to the fact that servants and [[wiktionary:scullion|scullion]]s of the time were usually soiled with ash, partly as a result of their cleaning duties and partly because they lived in cold basements and so tended to huddle close to fireplaces for warmth.{{citation needed|date=September 2024}}
+
+===''La gatta Cenerentola'', by Basile===
+[[Giambattista Basile]], a writer, soldier and government official, assembled a set of oral folk tales into a written collection titled ''Lo cunto de li cunti'' (''The Story of Stories''), or ''[[Pentamerone]]''. It included the tale of Cenerentola, which features a wicked stepmother and evil stepsisters, magical transformations, a missing slipper, and a hunt by a [[Absolute monarchy|monarch]] for the owner of the slipper. It was published posthumously in 1634.
+
+'''Plot:'''
+:A prince has a daughter, Zezolla (the Cinderella figure), who is tended by a beloved governess. The governess, with Zezolla's help, persuades the prince to marry her. The governess then brings forward six daughters of her own, who abuse Zezolla and send her into the kitchen to work as a servant. The prince goes to the island of Sardinia, meets a fairy who gives presents to his daughter, and brings back for her: a golden spade, a golden bucket, a silken napkin, and a date seedling. The girl cultivates the tree, and when the king hosts a ball, Zezolla appears dressed richly by a fairy living in the date tree. The king falls in love with her, but Zezolla runs away before he can find out who she is. Twice Zezolla escapes the king and his servants. The third time, the king's servant captures one of her pattens. The king invites all of the maidens in the land to a ball with a patten-test, identifies Zezolla after the patten jumps from his hand to her foot, and eventually marries her.<ref>Basile, Giambattista (1911). ''Stories from Pentamerone'', London: Macmillan & Co., translated by John Edward Taylor. [http://www.gutenberg.org/files/2198/2198-h/2198-h.htm#chap06 Chapter 6]. See also [http://www.surlalunefairytales.com/pentamerone/6cenerentola1911.html "Il Pentamerone: Cenerentola"] {{Webarchive|url=https://web.archive.org/web/20191123051321/http://www.surlalunefairytales.com/pentamerone/6cenerentola1911.html |date=23 November 2019}}</ref>
+
+===''Cendrillon ou la petite pantoufle de verre'', by Perrault===
+[[File:Jean-Antoine Laurent - Cinderella, a perfect match.jpg|thumb|''Cinderella: a perfect match'', an 1818 painting by {{ill|Jean-Antoine Laurent|fr}}]]
+One of the most popular versions of Cinderella was written in French by [[Charles Perrault]] in 1697, under the name ''Cendrillon ou la petite pantoufle de verre''. The popularity of his tale was due to his additions to the story, including the pumpkin, the fairy-godmother and the introduction of "glass" slippers.<ref>A modern edition of the original French text by Perrault is found in Charles Perrault, ''Contes'', ed. Marc Soriano (Paris: Flammarion, 1989), pp. 274–79.</ref>
+
+'''Plot:'''
+A wealthy widower marries a proud and haughty woman as his second wife. She has two [[false hero|daughters]], who are equally vain and selfish. But the man also has a beautiful young daughter from his first wife, a girl of unparalleled kindness and sweet temper. The stepmother, jealous of the young girl because her good graces show up her own two daughters' faults, forces her into servitude, where the girl is made to work day and night doing menial chores. After her chores are done for the day, she curls up near the fireplace in an effort to stay warm. She often arises covered in ashes, giving rise to the mocking nickname "Cendrillon" (Cinderella) by her stepsisters. Cinderella bears the abuse patiently and does not tell her father, who would have scolded her.
+
+One day, the prince invites all the people in the land to a [[ball (dance)|royal ball]]. The two [[Ugly sisters|stepsisters]] gleefully plan their wardrobes for the ball, and taunt Cinderella by telling her that maids are not invited to the ball.
+
+As the two stepsisters and the stepmother depart to the ball, Cinderella cries in despair. Her [[fairy godmother]] magically appears and immediately begins to transform Cinderella from house servant to the young lady she was by birth, all in the effort to get Cinderella to the ball. She turns a pumpkin into a golden [[carriage]], [[Mouse|mice]] into horses, a rat into a [[coachman]], and lizards into [[footman|footmen]]. She then turns Cinderella's rags into a beautiful jeweled gown, complete with a delicate pair of glass slippers. The Fairy Godmother tells her to enjoy the ball, but warns her that she must return before midnight, when the [[magic (paranormal)|spells]] will be broken.
+
+At the ball, the entire [[noble court|court]] is entranced by Cinderella, especially the Prince. At this first ball, Cinderella remembers to leave before midnight. Back home, Cinderella graciously thanks her Fairy Godmother. She then innocently greets the two stepsisters, who had not recognized her earlier, and talk of nothing but the beautiful girl at the ball.
+
+Another ball is held the next evening, and Cinderella again attends with her Fairy Godmother's help. The prince has become even more infatuated with the mysterious woman at the ball, and Cinderella in turn becomes so enchanted by him she loses track of time and leaves only at the final stroke of midnight, losing one of her glass slippers on the steps of the palace in her haste. The Prince chases her, but outside the palace, the guards see only a simple country girl leave. The prince pockets the slipper and vows to find and marry the girl to whom it belongs. Meanwhile, Cinderella keeps the other slipper, which does not disappear when the spell is broken.
+
+The prince's herald tries the slipper on all the women in the kingdom. When the herald arrives at Cinderella's home, the two stepsisters try in vain to win him over. Cinderella asks if she may try, but the two stepsisters taunt her. Naturally, the slipper fits perfectly, and Cinderella produces the other slipper for good measure. Cinderella's stepfamily pleads for forgiveness, and Cinderella agrees. Cinderella had hoped her step-family would love her always. Cinderella marries the prince and forgives her two stepsisters, then marrying them off to two wealthy noblemen of the court. They all lived happily ever after.<ref>{{Cite book|title=The annotated classic fairy tales|date=2002|publisher=Norton|editor=Tatar, Maria |isbn=0-393-05163-3 |location=New York|oclc=49894271}}</ref>
+
+The first moral of the story is that beauty is a treasure, but graciousness is priceless. Without it, nothing is possible; with it, one can do anything.<ref name="pitt.edu">{{cite web|url=http://www.pitt.edu/~dash/perrault06.html |title=Perrault: Cinderella; or, The Little Glass Slipper |publisher=Pitt.edu |date=8 October 2003 |access-date=17 June 2014}}</ref>
+
+However, the second moral of the story mitigates the first one and reveals the criticism that Perrault is aiming at: That "without doubt it is a great advantage to have intelligence, courage, good breeding, and common sense. These, and similar talents come only from heaven, and it is good to have them. However, even these may fail to bring you success, without the blessing of a godfather or a godmother."<ref name="pitt.edu"/>
+
+{{gallery
+|mode=packed
+|height=250
+|File:Cindarella illustration by Charles Robinson 1900.jpg|[[Charles Robinson (illustrator)|Charles Robinson]] illustrated ''Cinderella in the kitchen'' (1900), from ''Tales of Passed Times'' with stories by Charles Perrault
+|File:Cinderella - Project Gutenberg etext 19993.jpg|[[Oliver Herford]] illustrated ''Cinderella with the Fairy Godmother'', inspired by Perrault's version
+|File:Cendrillon2.JPG|[[Gustave Doré]]'s illustration for ''Cendrillon'', 1867
+|File:Gustave dore cendrillon4.JPG|The fitting with the prince onlooking, illustration in ''Les Contes de Perrault'' by Gustave Doré, 1862
+}}
+
+===''Aschenputtel'', by the Brothers Grimm===
+Another well-known version was recorded by the German brothers [[Brothers Grimm|Jacob and Wilhelm Grimm]] in the 19th century. The tale is called ''"Aschenputtel"'' or ''"Ashputtle"'' or ''"Ashputtel"'' ["The Little Ash Girl"] (or ''"Cinderella"'' in English translations). This version is much more violent than that of Charles Perrault and Disney, in that Cinderella's father has not died and the two stepsisters mutilate their feet to fit in the golden slipper. There is no fairy godmother in this version of the Brothers Grimm, but rather help comes from a wishing tree, which the heroine had planted on her deceased mother's grave, when she recites a certain chant. In the second edition of their collection (1819), the Brothers Grimm supplemented the original 1812 version with a coda in which the two stepsisters suffer a terrible punishment by the princess Cinderella for their cruelty.<ref>Grimm, Jacob and Wilhelm; Zipes, Jack; Deszö, Andrea. "CINDERELLA". In: ''The Original Folk and Fairy Tales of the Brothers Grimm: The Complete First Edition''. Princeton; Oxford: Princeton University Press, 2014. pp. 69–77. Accessed 29 April 2021.</ref><ref>{{cite news|url=https://www.nytimes.com/2000/08/07/books/books-of-the-times-the-monster-under-the-bed-or-teaching-the-class.html|title=Books of the Times|work=[[The New York Times]]|date=August 7, 2000}}</ref><ref>{{cite web| url=https://etc.usf.edu/lit2go/175/grimms-fairy-tales/3104/ashputtel/|title=Ashputtel|publisher=Lit2G|access-date=August 22, 2023}}</ref> A fairy tale very similar to the Grimm one, ''Aschenbrödel'', was published by [[Ludwig Bechstein]] in 1845 in ''Deutsches Märchenbuch''.<ref>{{Cite web |title=Aschenbrödel |url=https://www.projekt-gutenberg.org/bechstei/maerchen/chap011.html |website=Projekt Gutenberg-DE}}</ref>
+
+====Summary====
+A wealthy gentleman's wife falls gravely ill, and as she lies on her deathbed, she calls for her only daughter, and tells her to remain good and kind, as God would protect her. She then dies and is buried. The child visits her mother's grave every day to grieve and a year goes by. The gentleman marries another woman with two older daughters from a previous marriage. They have beautiful faces and fair skin, but their hearts are cruel and wicked. The stepsisters steal the girl's fine clothes and jewels and force her to wear rags. They banish her into the kitchen, and give her the nickname "Aschenputtel" ("Ashfool"). She is forced to do all kinds of hard work from dawn to dusk for the sisters. The cruel sisters do nothing but mock her and make her chores harder by creating messes. However, despite all of it, the girl remains good and kind, and regularly visits her mother's grave to cry and pray to God that she will see her circumstances improve.
+
+One day the gentleman visits a fair, promising his stepdaughters gifts of luxury. The elder one asks for beautiful dresses, while the younger for pearls and diamonds. His own daughter merely begs for the first twig to knock his hat off on the way. The gentleman goes on his way, and acquires presents for his stepdaughters. While passing a forest he gets a hazel twig, and gives it to his daughter. She plants the twig over her mother's grave, waters it with her tears and over the years, it grows into a glowing hazel tree. The girl prays under it three times a day, and a white bird always comes to her as she prays. She tells her wishes to the bird, and every time the bird throws down to her what she has wished for.
+
+The king decides to proclaim a festival that will last for three days and invites all the beautiful maidens in that country to attend so that the prince can select one of them for his bride. The two sisters are also invited, but when Aschenputtel begs them to allow her to go with them into the celebration, the stepmother refuses because she has no decent dress nor shoes to wear. When the girl insists, the woman throws a dish of lentils into the ashes for her to pick up, guaranteeing her permission to attend the festival if she can clean up the lentils in two hours. When the girl accomplished the task in less than an hour with the help of a flock of white doves that came when she sang a certain chant, the stepmother only redoubles the task and throws down even a greater quantity of lentils. When Aschenputtel is able to accomplish it in a greater speed, not wanting to spoil her daughters' chances, the stepmother hastens away with her husband and daughters to the celebration and leaves the crying stepdaughter behind.
+
+[[File:Cinderella by Elenore Abbott.jpg|thumb|right|Cinderella prays to the tree and the little birds provide her a beautiful dress. Art by [[Elenore Abbott]].]]
+The girl goes back to the graveyard and asks to be clothed in silver and gold. The white bird drops a gold and silver gown and silk shoes. She goes to the feast. The prince dances with her all the time, claiming her as his dance partner whenever a gentleman asks for her hand, and when sunset comes she asks to leave. The prince escorts her home, but she eludes him and jumps inside the estate's pigeon coop. The father came home ahead of time and the prince asks him to chop the pigeon coop down, but Aschenputtel has already escaped from the back, to the graveyard to the hazel tree to return her fine clothes. The father finds her asleep in the kitchen hearth, and suspects nothing. The next day, the girl appears in grander apparel. The prince again dances with her the whole day, and when dark came, the prince accompanies her home. However, she climbs a pear tree in the back garden to escape him. The prince calls her father who chops down the tree, wondering if it could be Aschenputtel, but Aschenputtel was already in the kitchen when the father arrives home. The third day, she appears dressed in grand finery, with slippers of gold. Now the prince is determined to keep her, and has the entire stairway smeared with pitch. Aschenputtel, in her haste to elude the prince, loses one of her golden slippers on that pitch. The prince picks the slipper and proclaims that he will marry the maiden whose foot fits the golden slipper.
+
+The next morning, the prince goes to Aschenputtel's house and tries the slipper on the elder stepsister. Since she will have no more need to go on foot when she will be queen, the sister was advised by her mother to cut off her toes to fit the slipper. While riding with the stepsister, the two magic doves from heaven tell the prince that blood drips from her foot. Appalled by her treachery, he goes back again and tries the slipper on the other stepsister. She cut off part of her heel to get her foot in the slipper, and again the prince is fooled. While riding with her to the king's castle, the doves alert him again about the blood on her foot. He comes back to inquire about another girl. The gentleman tells him that his dead wife left a "dirty little Cinderella" in the house, omitting to mention that she is his own daughter, and that she is too filthy to be seen, but the prince asks him to let her try on the slipper. Aschenputtel appears after washing clean her face and hands, and when she puts on the slipper, which fitted her like a glove, the prince recognizes her as the stranger with whom he has danced at the festival, even before trying it. To the horror of the stepmother and the two limping sisters, their mere servant-girl had won without any subterfuge. The prince put Aschenputtel before him on his horse and rode off to the palace. While passing the hazel tree the two magic doves from heaven declare Aschenputtel as the true bride of the prince, and remained on her shoulders, one on the left and the other on the right.
+
+In a coda added in the second edition of 1819, during Aschenputtel's royal wedding, the stepsisters had hoped to worm their way into her favour as the future queen. As she walks down the aisle with her stepsisters as her bridesmaids, Aschenputtel's doves strike the two stepsisters' eyes, one in the left and the other in the right. It is their [[Ultimatum|last chance]] of redemption, but since they are desperate to win the new princess' affections, they don't give up and go through the ceremony, so when the wedding comes to an end, and Aschenputtel and her beloved prince march out of the church, her doves fly again, promptly striking the remaining eyes of the two evil stepsisters blind, a truly awful comeuppance they have to endure.<ref>[http://www.gutenberg.org/files/19068/19068-h/19068-h.htm#illus-135 Aschenputtel], included in ''Household Stories'' by the Brothers Grimm, translated by Lucy Crane, at [[Project Gutenberg]]</ref>
+
+==== 1812 version ====
+In addition to the absence of the punishment of the stepsisters, there are other minor differences in the first edition of 1812, some of which are reminiscent of Perrault's version. In the first edition, Cinderella's mother herself tells her to plant a tree on her grave. No bird perches on the tree but the tree itself gives the girl what she wants. The birds appear only when they help Cinderella collect lentils, a task that is assigned to her by her stepsisters rather than her stepmother, and they are not a flock but just two pigeons. On the evening of the first ball, Cinderella does not participate but she watches her stepsisters dance with the prince from the pigeon coop. Later Cinderella tells the sisters she saw them dancing, and they destroy the pigeon coop out of jealousy. In the 1812 version the tree also gives Cinderella a carriage with six horses to go to the ball and the pigeons tell her to return before midnight. The episodes in which Cinderella hides in the pigeon coop and on the pear tree were added in the 1819 version. Furthermore, not knowing Cinderella's home, the prince makes other girls in the kingdom try on the slipper before her.<ref>{{Cite web |title=Aschenputtel (1812) – Wikisource |url=https://de.wikisource.org/wiki/Aschenputtel_(1812) |access-date=2024-01-02 |website=de.wikisource.org |language=de}}</ref>
+
+==Plot variations and alternative tellings==
+[[File:Edward Burne-Jones Cinderella.jpg|thumb|''Cinderella'' by [[Edward Burne-Jones]], 1863, [[Museum of Fine Arts, Boston]]]]
+Folklorists have long studied variants on this tale across cultures. In 1893, [[Marian Roalfe Cox]], commissioned by [[the Folklore Society]] of Britain, produced ''Cinderella: Three Hundred and Forty-Five Variants of Cinderella, [[Catskin]] and, [[Cap-o'-Rushes|Cap o'Rushes]], Abstracted and Tabulated with a Discussion of Medieval Analogues and Notes.'' Further [[morphology (folkloristics)|morphology]] studies have continued on this work.<ref name="fits">"[http://www.artic.edu/webspaces/510iftheshoefits/2criteria.html If The Shoe Fits: Folklorists' criteria for #510]"</ref>
+
+[[Joseph Jacobs]] has attempted to reconstruct the original tale as ''The Cinder Maid'' by comparing the common features among hundreds of variants collected across Europe.<ref>{{Cite book|last=Jacobs|first=Joseph|url=https://en.wikisource.org/wiki/Europa%27s_Fairy_Book/Cinder-Maid|title=Europa's Fairy Book|pages=1–12 |date=1916|publisher=G. P. Putnam's sons|isbn=978-605-7876-72-0 |language=en}}</ref> The [[Aarne–Thompson–Uther Index|Aarne–Thompson–Uther]] system classifies ''Cinderella'' as type 510A, "Persecuted Heroine". Others of this type include ''[[The Sharp Grey Sheep]]''; ''[[The Golden Slipper]]''; ''[[The Story of Tam and Cam]]''; ''[[Rushen Coatie]]''; ''[[The Wonderful Birch]]''; ''[[Fair, Brown and Trembling]]''; and ''[[Katie Woodencloak]]''.<ref>Heidi Anne Heiner, "[https://www.surlalunefairytales.com/a-g/cinderella/cinderella-related.html Tales Similar to Cinderella]"</ref><ref name=Anderson2000>{{cite book|last=Anderson|first=Graham|year=2000|title=Fairytale in the Ancient World|location=New York City and London, England|publisher=Routledge|isbn= 978-0-415-23702-4|url=https://books.google.com/books?id=B2DAAlUrbBIC&q=Fairytale+in+the+ancient+world+rhodopis&pg=PA27}}</ref>{{rp|24–26}}
+
+===The magical help===
+International versions lack the fairy godmother present in the famous Perrault's tale. Instead, the [[Donor (fairy tale)|donor]] is her mother, incarnated into an animal (if she is dead) or transformed into a cow (if alive). In other versions, the helper is an animal, such as a cow, a bull, a pike, or a saint or angel.<ref>Garner, Emelyn Elizabeth. ''Folklore From the Schoharie Hills, New York''. Ann Arbor: University of Michigan press, 1937. p. 130.</ref> The bovine helper appears in some Greek and Armenian versions, in "the [[Balkan]]-Slavonic tradition of the tale", and in some Central Asian variants. The mother-as-cow is killed by the heroine's sisters, her bones gathered and from her grave the heroine gets the wonderful dresses.<ref>Kaplanoglou, Marianthi. ""Stachtopouta" and "Nifitsa": Spinning Tales in Relation With Feminine Productivity and Dowry Practices of Modern Greece". In: ''Estudis De Literatura Oral Popular'' [Studies in Oral Folk Literature]. [en línia], 2014, Núm. 4, pp. 67, 69. https://www.raco.cat/index.php/ELOP/article/view/304851 [Consulta: Consulta: 13 March 2021].</ref>
+
+[[African studies|Africanist]] [[Sigrid Schmidt]] stated that "a typical scene" in Kapmalaien ([[Cape Malays]]) tales is the mother becoming a fish, being eaten in fish form, the daughter burying her bones and a tree sprouting from her grave.<ref>{{cite journal |last1=Schmidt |first1=Sigrid |title=Review of The World and the Word |journal=Anthropos |date=1995 |volume=90 |issue=1/3 |pages=311–313 |jstor=40463177 }}</ref>
+
+Professor Gražina Skabeikytė-Kazlauskienė recognizes that the fish, the cow, even a female dog (in other variants), these animals represent "the [heroine's] mother's legacy".<ref>Skabeikytė-Kazlauskienė, Gražina. ''Lithuanian Narrative Folklore: Didactical Guidelines''. Kaunas: Vytautas Magnus University. 2013. p. 14. {{ISBN|978-9955-21-361-1}}.</ref> [[Jack Zipes]], commenting on a Sicilian variant, concluded much the same: Cinderella is helped by her mother "in the guise of doves, fairies, and godmothers".<ref>Pitrè, Giuseppe; [[Jack Zipes|Zipes, Jack David]]; Russo, Joseph. ''The collected Sicilian folk and fairy tales of Giuseppe Pitrè''. New York: Routledge, 2013 [2009]. p. 845. {{ISBN|978-1-136-09434-7}}.</ref> In his notes to his own reconstruction, Joseph Jacobs acknowledged that the heroine's animal helper (e.g., cow or sheep) was "clearly identified with her mother", as well as the tree on Cinderella's mother's grave was connected to her.<ref>Jacobs, Joseph. ''[https://archive.org/details/europasfairybook00jaco/page/227/mode/1up European Folk and Fairy Tales]''. New York, London: G. P. Putnam's sons. 1916. pp. 222, 227.</ref>
+
+===Villains===
+Although many variants of Cinderella feature the wicked stepmother, the defining trait of type 510A is a female persecutor: in ''[[Fair, Brown and Trembling]]'' and ''[[Finette Cendron]]'', the stepmother does not appear at all, and it is the older sisters who confine her to the kitchen. In other fairy tales featuring the ball, she was driven from home by the persecutions of her father, usually because he wished to marry her. Of this type (510B) are ''[[Cap O' Rushes]]'', ''[[Catskin]]'', and ''[[Allerleirauh]]'' (or ''All-Kinds-of-Fur''), and she slaves in the kitchen because she found a job as a [[scullery maid]] there.<ref>Heidi Anne Heiner, "[https://www.surlalunefairytales.com/a-g/donkeyskin/donkeyskin-related.html Tales Similar to Donkeyskin]"</ref> In ''[[Katie Woodencloak]]'', the stepmother drives her from home, and she likewise finds such a job.<ref>{{Cite web|title=Katie Woodencloak (Norwegian Version of Cinderella)|date=5 April 2016|url=https://fairytalez.com/katie-woodencloak/|url-status=live|archive-url=https://web.archive.org/web/20160405205135/http://fairytalez.com/katie-woodencloak/|archive-date=5 April 2016}}</ref>
+
+In ''[[La Cenerentola]]'', [[Gioachino Rossini]] inverted the sex roles: Cenerentola is mistreated by her [[Stepfamily#stepfathers|stepfather]]. (This makes the opera Aarne-Thompson type 510B.) He also made the economic basis for such hostility unusually clear, in that Don Magnifico wishes to make his own daughters' [[dowry|dowries]] larger, to attract a grander match, which is impossible if he must provide a third dowry. Folklorists often interpret the hostility between the stepmother and stepdaughter as just such a competition for resources, but seldom does the tale make it clear.<ref>{{cite book|last=Warner|first=Marina|author-link=Marina Warner|date=|title=From the Beast to the Blonde: On Fairy Tales And Their Tellers|url=|language=|location=|publisher=|pages=213–4|isbn=0-374-15901-7}}</ref>
+
+In some retellings, at least one stepsister is somewhat kind to Cinderella and second guesses the Stepmother's treatment. This is seen in ''[[Ever After (film)|Ever After]]'', [[Cinderella II: Dreams Come True|the two]] [[Cinderella III: A Twist in Time|direct-to-video sequels]] to [[Walt Disney]]'s [[Cinderella (1950 film)|1950 film]], and [[Cinderella (2013 Broadway production)|the 2013 Broadway musical]].
+
+{{gallery
+|mode=packed
+|height=200
+|File:Thomas Sully - Cinderella at the Kitchen Fire - 2005.1 - Dallas Museum of Art.jpg|''Cinderella at the Kitchen Fire'', [[Thomas Sully]], 1843
+|File:Cinderella 1865 (2).png|The stepsisters, 1865 edition of Cinderella
+|File:Cinderella Dressing Her Sisters.png|Cinderella Dressing Her Sisters, ''Aunt Friendly's Gift'', 1890
+|File:Journeys through Bookland - a new and original plan for reading applied to the world's best literature for children (1922) (14780909344).jpg|Stepsisters from ''Journeys through Bookland'', 1922
+|File:Page facing 80 illustration from Fairy tales of Charles Perrault (Clarke, 1922).jpg|The stepsisters, illustration in ''The fairy tales of Charles Perrault'' by [[Harry Clarke]], 1922
+}}
+
+===Ball, ballgown, and curfew===
+The number of balls varies, sometimes one, sometimes two, and sometimes three, and neither does the event have to be a ball, with some heroines going to church instead. The [[fairy godmother]] is Perrault's own addition to the tale.<ref>{{cite book|last=Yolen|first=Jane|author-link=Jane Yolen|date=1981|title=Touch Magic|publisher=Philomel Books|page=23|isbn=0-87483-591-7}}</ref> The person who aided Cinderella (Aschenputtel) in the [[Brothers Grimm|Grimms]]'s version is her dead mother. Aschenputtel requests her aid by praying at her grave, on which a tree is growing. Helpful doves roosting in the tree shake down the clothing she needs for the ball. This motif is found in other variants of the tale as well, such as in the Finnish ''[[The Wonderful Birch]]''. Playwright [[James Lapine]] incorporated this motif into the Cinderella plotline of the musical ''[[Into the Woods]]''. [[Giambattista Basile]]'s ''La gatta Cenerentola'' combined them; the Cinderella figure, Zezolla, asks her father to commend her to the Dove of Fairies and ask her to send her something, and she receives a tree that will provide her clothing. Other variants have her helped by talking animals, as in ''[[Katie Woodencloak]]'', ''[[Rushen Coatie]]'', ''[[Bawang Putih Bawang Merah]]'', ''[[The Story of Tam and Cam]]'', or ''[[The Sharp Grey Sheep]]''—these animals often having some connection with her dead mother; in ''[[The Golden Slipper]]'', a fish aids her after she puts it in water. In "The Anklet", it's a magical alabaster pot the girl purchased with her own money that brings her the gowns and the anklets she wears to the ball. [[Gioachino Rossini]], having agreed to do an opera based on ''Cinderella'' if he could omit all magical elements, wrote ''[[La Cenerentola]]'', in which she was aided by Alidoro, a philosopher and formerly the Prince's tutor.
+
+The midnight curfew is also absent in many versions; Cinderella leaves the ball to get home before her stepmother and stepsisters, or she is simply tired. In the Grimms' version, Aschenputtel slips away when she is tired, hiding on her father's estate in a tree, and then the pigeon coop, to elude her pursuers; her father tries to catch her by chopping them down, but she escapes.<ref>{{cite book|last=Tatar|first=Maria|author-link=Maria Tatar|date=2004|title=The Annotated Brothers Grimm|location=London, New York|publisher=[[W. W. Norton & Company]]|page=116|isbn=0-393-05848-4}}</ref>
+
+{{gallery
+|mode=packed
+|height=200
+|File:WalterCrane, Cinderella-15.jpg|Fairy Godmother, Walter Crane, 1897
+|File:Public school methods (1913) (14773846224).jpg|Cinderella and the Fairy Godmother by Kate Abelmann, 1913
+|File:Cinderella and the Fairy Godmother.jpg|Cinderella and the Fairy Godmother by [[William Henry Margetson]]
+|File:Page 92 illustration from Fairy tales of Charles Perrault (Clarke, 1922).png|Ballgown Cinderella, illustration in ''The fairy tales of Charles Perrault'' by Harry Clarke, 1922
+|File:Offterdinger Aschenbrodel (2).jpg|Illustration by [[Carl Offterdinger]], late 19th century
+|File:Cinderella - Sarah Noble Ives.jpg|''At the ball'', [[Sarah Noble Ives]], {{circa|1912}}
+|File:Cinderella 1865 (4).png|At the ball, 1865 edition
+|File:Cinderella 1865 (3 redux).png|Hurrying out, 1865 edition
+|File:Cinderella-Prinsep.jpg|Cinderella by [[Valentine Cameron Prinsep]], {{circa|1880}}
+}}
+
+===Identifying item===
+[[File:Page 87 illustration from Fairy tales of Charles Perrault (Clarke, 1922).png|thumb|The slipper left behind, illustration in ''The fairy tales of Charles Perrault'' by Harry Clarke, 1922]]
+The glass slipper is unique to [[Charles Perrault]]'s version and its derivatives; in other versions of the tale it may be made of other materials (in the version recorded by the [[Brothers Grimm]], German: ''Aschenbroedel'' and ''Aschenputtel'', for instance, it is gold) and in still other tellings, it is not a slipper but an anklet, a ring, or a bracelet that gives the prince the key to Cinderella's identity. What matters to the story is that the identifying item will fit only one woman.
+
+In Rossini's opera "''[[La Cenerentola]]''" ("Cinderella"), the slipper is replaced by twin bracelets to prove her identity. In the Finnish variant ''[[The Wonderful Birch]]'', the prince uses tar to gain something every ball, and so has a ring, a circlet, and a pair of slippers. Some interpreters, perhaps troubled by sartorial impracticalities, have suggested that Perrault's "glass slipper" (''pantoufle de verre'') had been a "squirrel fur slipper" (''pantoufle de [[vair]]'') in some unidentified earlier version of the tale, and that Perrault or one of his sources confused the words.<ref>Genevieve Warwick, ''Cinderella's Glass Sipper'' (Cambridge University Press, 2022), p. 23, {{ISBN|978-1-009-26398-6}}</ref> However, most scholars believe the glass slipper was a deliberate piece of poetic invention on Perrault's part.<ref>Maria Tatar, p 28, ''The Annotated Classic Fairy Tales'', {{ISBN|0-393-05163-3}}</ref>{{efn|Glass Slippers, —An article hitherto only used to adorn the foot of Cinderella in a fairy tale, may now be seen in that extensive repository of discoveries and improvements, the [[Polytechnic Institution]], Regent-street. We allude to a very curious pair of ladies' dress-shoes, fabricated from glass, not less flexible than leather or satin, equally light, and far more durable, to judge from the solidity of their texture.<ref>{{cite news|title= Glass Slippers|newspaper= Bell's Weekly Messenger |date= 25 November 1838|page= 4}}</ref>}} [[Nabokov]] has Professor [[Timofey Pnin]] assert as fact that "Cendrillon's shoes were not made of glass but of Russian squirrel fur – ''vair'', in French".<ref>[[Pnin (novel)|Pnin]], chapter 6</ref>
+
+The [[Cinderella (1950 film)|1950 Disney adaptation]] takes advantage of the slipper being made of glass to add a twist whereby the slipper is shattered by the spiteful stepmother just before Cinderella has the chance to try it on. Earlier in the film the Duke warns that the slipper could fit any number of women, but Cinderella then produces the beautiful matching slipper, proving beyond all doubt that she is the one from the ball.
+
+===Revelation===
+In many variants of the tale, the prince is told that Cinderella can not possibly be the one, as she is too dirty and ragged. Often, this is said by the stepmother or stepsisters. In the Grimms' version, both the stepmother and the father urge it.<ref>Maria Tatar, The Annotated Brothers Grimm, p 126-8 W. W. Norton & company, London, New York, 2004 {{ISBN|0-393-05848-4}}</ref> The prince nevertheless insists on her trying. Cinderella arrives and proves her identity by fitting into the slipper or other item (in some cases she has kept the other).
+
+{{gallery
+|mode=packed
+|height=200
+|File:Frontispiece from Fairy tales of Charles Perrault (Clarke, 1922).png|Stepsister trying the slipper, illustration in ''The fairy tales of Charles Perrault'' by Harry Clarke, 1922
+|File:Page 77 illustration from Fairy tales of Charles Perrault (Clarke, 1922).png|The prince pleading for Cinderella to try the shoe, illustration in ''The fairy tales of Charles Perrault'' by Harry Clarke, 1922
+|File:Trying on the slipper - Sarah Noble Ives.jpg|''Trying on the Slipper'', Sarah Noble Ives, {{circa|1912}}
+|File:Cinderella 1865 (6).png|Cinderella trying on the slipper, 1865 edition
+|File:Little Red Riding Hood and Cinderella with Surprise Pictures MET DP252979.jpg|Dean & Son's Cinderella "surprise book" with moving images, {{circa|1875}}
+|File:Offterdinger Aschenbrodel (1).jpg|Illustration by Carl Offterdinger, late 19th century
+|File:Hanz Printz - Cinderella, educational poster.jpg|Finding that the slipper fits, educational poster by Hans Printz, 1905
+|File:Nr. 13. Askepot og Prinsen - No. 13. Cinderella and the Prince (40152407341).jpg|Trying the slipper, ''Askepot og Prinsen''
+}}
+
+===Conclusion===
+According to Korean scholarship, [[East Asia]]n versions of ''Cinderella'' "typically" continue as the heroine's stepmother replaces the Cinderella-like character for her own daughter,{{clarify|reason = Unclear what it would mean to "replace" one person "for" another|date=January 2023}} while the heroine goes through a cycle of [[Shapeshifting|transformations]].<ref>The National Folk Museum of Korea (South Korea). ''Encyclopedia of Korean Folk Literature: Encyclopedia of Korean Folklore and Traditional Culture Vol. III''. 길잡이미디어, 2014. p. 311.</ref>  Such tales continue the fairy tale into what is in effect a second episode.
+
+Such a substitution also occurs in the Finnish and Russian tale ''[[The Wonderful Birch]]'',  where the stepmother, a witch, manages to substitute her daughter for the true bride after she has given birth and turn the true bride into reindeer, and the Irish ''[[Fair, Brown and Trembling]]'', where the oldest sister pushes the true bride into the sea to be swallowed by a whale and takes her place.  However, in Western tales, substituting the stepdaughter for the transformed bride is commonly found in other tales, such as ''[[The White Bride and the Black One]]'', ''[[The White Duck]]'', ''[[Brother and Sister]]'', and ''[[The Three Little Men in the Wood]]''.
+
+In ''[[The Book of One Thousand and One Nights|The Thousand Nights and A Night]]'', in a tale called "The Anklet",<ref>{{cite book | last = Mardrus | first = Joseph-Charles | author-link = Joseph-Charles Mardrus |author2=Powys Mathers  | title = The book of the Thousand Nights and One Night | volume = 4 | publisher = [[Routledge]] |date= June 1987 | location = London and New York | pages = 191–194 | isbn = 0-415-04543-6}}</ref> the stepsisters make a comeback by using twelve magical hairpins to turn the bride into a dove on her wedding night.
+
+{{gallery
+|mode=packed
+|height=200
+|File:Little Red Riding Hood and Cinderella with Surprise Pictures MET DP252981.jpg|Part two of Dean & Son's Cinderella, 1875
+|File:T6 Drawing 7, Cinderella.JPG|Happy ending
+|File:T6 Drawing 8, Cinderella.JPG|In the German version, the stepsisters' eyes get pecked out by the princess' birds, her loyal friends and minions.
+}}
+
+==Works based on the Cinderella story==
+Works based on the story of Cinderella include:
+
+===Opera and ballet===
+[[File:Émile Bertrand - Jules Massenet - Cendrillon poster.jpg|right|thumb|[[Jules Massenet|Massenet]]'s opera ''Cendrillon'']]
+
+*''{{ill|Cendrillon (Laruette)|lt=Cendrillon|fr|Cendrillon (opéra-comique)}}'' (1759) by {{ill|Jean-Louis Laruette|fr|Jean-Louis Laruette}}
+*''[[Cendrillon (Isouard)|Cendrillon]]'' (1810) by [[Nicolas Isouard]], libretto by [[Charles-Guillaume Étienne]]
+*''{{ill|Agatina, o la virtù premiata|it}}'' (1814) by [[Stefano Pavesi]]
+*''[[La Cenerentola]]'' (1817) by [[Gioachino Rossini]]
+*''[[Cinderella (Fitinhof-Schell)|Cinderella]]'' (1893) by Baron Boris Vietinghoff-Scheel
+*''[[Cendrillon (Massenet)|Cendrillon]]'' (1894–95) by [[Jules Massenet]], libretto by [[Henri Caïn]]
+*''[[Aschenbrödel]]'' (1901) by [[Johann Strauss II]], adapted and completed by [[Josef Bayer]]<ref name="Aschen">{{cite web |url=https://www.johann-strauss.org.uk/composers-a-m.php?id=165 |title=Josef Bayer (1852–1913) |author=<!--Not stated--> |website=www.johann-strauss.org.uk |publisher=The Johann Strauss Society of Great Britain |access-date=21 December 2018 }}</ref>
+*''Cinderella'' (1901–02) by [[Gustav Holst]]
+*''La Cenerentola'' (1902) by [[Ermanno Wolf-Ferrari]]
+*''[[Cendrillon (Viardot)|Cendrillon]]'' (1904) by [[Pauline García-Viardot]]
+*''Aschenbrödel'' (1905) by [[Leo Blech]], libretto by [[Richard Batka]]
+*''Das Märchen vom Aschenbrödel'' (1941) by [[Frank Martin (composer)|Frank Martin]]
+*''Zolushka'' or ''[[Cinderella (Prokofiev)|Cinderella]]'' (1945) by [[Sergei Prokofiev]]
+*''[[La Cenicienta]]'' (1966) by [[Jorge Peña Hen]]
+*''Cinderella'', a "pantomime opera" (1979) by [[Peter Maxwell Davies]]
+*''Cinderella'' (1980) by [[Paul Reade]]
+*''Cinderella'' (1997) by [[Matthew Bourne]] taking place in 1940 London using the music of [[Sergei Prokofiev]]
+*''My First Cinderella'' (2013) directed by George Williamson and [[Loipa Araújo]]
+* ''[[Cinderella (Deutscher)|Cinderella]]'' (2016) by [[Alma Deutscher]]
+
+===Theatre===
+[[File:CinderAdelphi.jpg|thumb|right|Pantomime at the Adelphi]]
+In 1804, ''Cinderella'' was presented at [[Theatre Royal, Drury Lane|Drury Lane Theatre]], London, described as "A new Grand Allegorical Pantomimic Spectacle", though it was very far in style and content from the modern pantomime. However, it included notable clown [[Joseph Grimaldi]] playing the part of a servant called Pedro, the antecedent of today's character [[Buttons (pantomime)|Buttons]].<ref name=Clinton>{{cite book |last=Clinton-Baddeley |first=V. C. |date=1963 |title=Some Pantomime Pedigrees |publisher=The Society for Theatrical Research |pages=9–11}}</ref> In 1820 ''Harlequin and Cinderella'' at the [[Royal Opera House|Theatre Royal, Covent Garden]] had much of the modern story (taken from the opera [[La Cenerentola]]) by [[Rossini]], but was a [[Harlequinade]], again featuring Grimaldi.<ref name=Clinton/> In 1830, [[Rophino Lacy]] used Rossini's music, but with spoken dialogue in a [[comic opera]] with many of the main characters: the Baron, the two stepsisters and Pedro the servant all as comic characters, plus a Fairy Queen instead of a magician.<ref name=Clinton/> However, it was the conversion of this via [[burlesque]] and [[rhyming couplet]]s by [[Henry Byron]] that led to what was effectively the modern pantomime in both story and style at the [[Royal Strand Theatre]] in 1860: ''Cinderella! Or the Lover, the Lackey, and the Little Glass Slipper''.<ref name=Clinton/>
+
+In the traditional pantomime version, the opening scene takes place in a forest with a hunt in progress; here, Cinderella first meets Prince Charming and his "right-hand man" [[Dandini (character)|Dandini]], whose name and character come from [[Gioachino Rossini]]'s opera (''[[La Cenerentola]]''). Cinderella mistakes Dandini for the Prince, and the Prince for Dandini. Her father, Baron Hardup, is under the thumb of his two stepdaughters, the [[Ugly sisters]], and has a servant, Cinderella's friend [[Buttons (pantomime)|Buttons]]. Throughout the pantomime, the Baron is continually harassed by the Broker's Men (often named after current politicians) for outstanding rent. The Fairy Godmother must magically create a coach (from a pumpkin), footmen (from mice), a coach driver (from a frog), and a beautiful dress (from rags) for Cinderella to go to the ball. However, she must return by midnight, as it is then that the spell ceases.
+
+===Musicals===
+*''[[Cinderella (Rodgers and Hammerstein musical)|Cinderella]]'' by [[Rodgers and Hammerstein]] was produced for television three times and staged live in various productions. A version ran in 1958 at the [[London Coliseum]] with a cast including [[Tommy Steele]], Yana, [[Jimmy Edwards]], [[Kenneth Williams]] and [[Betty Marsden]]. This version was augmented with several other [[Rodgers and Hammerstein]]'s songs, plus one written by Steele, "You and Me". In 2013, a [[Cinderella (2013 Broadway production)|Broadway production]] opened, with a new book by [[Douglas Carter Beane]], and ran for 770 performances. In the acclaimed 2022 VTT production of ''Cinderella'', Naomi Infeld will be playing Anastasia.{{update inline|date=December 2024}}
+*''[[Mr. Cinders]]'', a musical, opened at the [[Adelphi Theatre]], London in 1929 and was adapted as a film version in 1934.
+*''[[Cindy (musical)|Cindy]]'', a 1964 [[Off-Broadway]] musical, was composed by [[Johnny Brandon]] and has had many revivals.
+*''[[La Gatta Cenerentola]]'', a 1976 Italian musical in [[Neapolitan language]] with music and lyrics by [[Roberto De Simone]], based on Giambattista Basile's version of the story.
+*''[[Into the Woods]]'', a musical with music and lyrics written by [[Stephen Sondheim]] and book by [[James Lapine]]. ''Cinderella'', in this adaptation is partly based on the Grimm Brothers' version of ''Cinderella'', including the enchanted birds, mother's grave, three balls, and mutilation and blinding of the stepsisters. It opened on [[Broadway theatre|Broadway]] in 1987, and has won many awards, such as [[Tony Award for Best Original Score|Best Score]] and [[Tony Award for Best Book of a Musical|Book of a Musical]] in the 1988 [[Tony Awards]]. Throughout the show, Cinderella interacts with many other fairytale characters, such as [[Little Red Riding Hood]] and [[Jack and the Beanstalk]].
+*''[[Cinderella (Lloyd Webber musical)|Cinderella]]'' is a musical composed by [[Andrew Lloyd Webber]] that premiered in the [[West End theatre|West End]] on August 18, 2021 and closed on June 12, 2022. It later opened on [[Broadway theatre|Broadway]] with the new title ''[[Bad Cinderella]]''. The show closed after 85 performances, marking the end of a continuous 44-year period in which one or more of Lloyd Webber's shows played on Broadway.
+*''Cinderella's Castle'', is a musical by [[Team Starkid]] which was announced in March 2024, and performed that summer. The book is by Nick & Matt Lang, with music and lyrics by Jeff Blim.{{update inline|date=December 2024}}
+
+===Films and television===
+Over the decades, hundreds of films have been made that are either direct adaptations from ''Cinderella'' or have plots loosely based on the story.
+
+====Animation - English Language ====
+*''Cinderella'' (1922), an animated [[Laugh-O-Gram Studio|Laugh-O-Gram]] produced by [[Walt Disney]], first released on 6 December 1922. This film was about seven and half minutes long.<ref name=Merrill>{{cite book |last1=Merrill |first1=Russell |last2=Kaufmann |first2=J. B. |date=2007 |title=Walt Disney's Silly Symphonies: A Companion to the Classic Cartoon Series |url=http://www.laughogram.org/filmography/ |publisher=Indiana University Press |isbn=978-88-86155-27-4 }}</ref>
+*''Cinderella'' (1925), an animated short film directed by [[Walter Lantz]], produced by Bray Studios Inc.<ref name="governmentcheese.ca">{{Cite web|url=https://governmentcheese.ca/index.php?option=com_content&view=article&id=12:fairy-tale-flappers-animated-adaptations-of-little-red-and-cinderella-1922-1925&catid=11&Itemid=111|title=Fairy Tale Flappers: Animated Adaptations of Little Red and Cinderella (1922–1925)|website=governmentcheese.ca}}</ref>
+*''A Kick for Cinderella'' (1925), an animated short film directed by [[Bud Fisher]], in the Mutt and Jeff series of comic strip adaptations.<ref name="governmentcheese.ca"/>
+*''[[Cinderella Blues]]'' (1931), a [[Van Beuren Studios|Van Beuren]] animated short film featuring a feline version of the Cinderella character.
+[[File:Betty Boop - Poor Cinderella (1934) - HD.webm|thumb|thumbtime=15|''[[Poor Cinderella]]'' (1934)]]
+*''[[Poor Cinderella]]'' (1934), [[Fleischer Studios]]' first color cartoon and only appearance of [[Betty Boop]] in color during the Fleischer era.
+*''[[A Coach for Cinderella]]'' (1937) – Jam Handy, Chevrolet advert<ref name="cartoonresearch.com">{{Cite web|url=https://cartoonresearch.com/index.php/nicky-nome-rides-again/|title=Nicky Nome Rides Again &#124;|website=cartoonresearch.com}}</ref>
+*''[[A Ride for Cinderella]]'' (1937) – Jam Handy, Chevrolet advert<ref name="cartoonresearch.com"/>
+*''[[Cinderella Meets Fella]]'' (1938), a [[Merrie Melodies]] animated short film featuring Egghead, the character who would eventually evolve into [[Elmer Fudd]], as Prince Charming.<ref>{{cite web|url=https://www.youtube.com/watch?v=yc8AN1feUkA | archive-url=https://web.archive.org/web/20131017173543/http://www.youtube.com/watch?v=yc8AN1feUkA| archive-date=2013-10-17|title=YouTube |publisher=YouTube |access-date=23 September 2013}}</ref>
+*''[[Cinderella (1950 film)|Cinderella]]'' (1950), a [[Walt Disney]] animated feature released on 15 February 1950, now considered one of [[The Walt Disney Company|Disney]]'s Classics, as well as the most well-known film adaptation, including incorporating the [[Cinderella (Disney character)|titular character]] as a [[Disney Princess]] and its [[Cinderella (franchise)|franchise]].
+**''[[Cinderella II: Dreams Come True]]'' (2002), a [[direct-to-video]] sequel to the 1950 film.
+**''[[Cinderella III: A Twist in Time]]'' (2007), another direct-to-video sequel to the previous film. 
+*''[[Ancient Fistory]]'' (1953), a [[Popeye]] parody animated short film.
+*''[[Señorella and the Glass Huarache]]'' (1964), a [[Looney Tunes]] animated short film that transplants the story to a Mexican setting.
+*''[[Festival of Family Classics]]'' (1972–73), episode ''Cinderella'', produced by [[Rankin/Bass Animated Entertainment|Rankin/Bass]] and animated by [[Mushi Production]].
+*"Cinderella? Cinderella!" (1986), an episode of ''[[Alvin and the Chipmunks (1983 TV series)|Alvin & the Chipmunks]]''. With Brittany of [[The Chipettes]] playing the role of Cinderella and Alvin playing the role of Prince Charming.
+*''[[Britannica's Tales Around the World]]'' (1990–91), features Perrault's ''Cinderella'' along with two other variants of the story.
+*''[[Shrek 2]]'' (2004) by [[William Steig]]. It features one of the ugly stepsisters, Doris, which returns along with Cinderella in ''[[Shrek the Third]]'' (2007).
+*''[[Cinderella and the Secret Prince]]'' (2018), American animated film directed by Lynne Southerland.
+
+====Animation - Non-English Language ====
+[[File:Aschenputtel (1922).webm|thumb|thumbtime=15|''Aschenputtel'' (1922)]]
+*''Aschenputtel'' (1922), a [[Silhouette animation|silhouette shadow play]] short by [[Lotte Reiniger]]. The short silent film uses exaggerated figures and has no background, which creates a stark look. The film shows Aschenputtel's step-sisters graphically hacking their feet off to fit into the glass slipper.<ref>{{Cite book|url=https://books.google.com/books?id=6YpEAQAAIAAJ&q=Aschenputtel+(1922)|title=Märchenbilder—Bildermärchen|last=Freyberger|first=Regina|publisher=Athena|year=2009|isbn=978-3-89896-350-3|page=453}}</ref>
+*''Érase una vez...'' (1950), a Spanish animated film directed by Alejandro Cirici-Pellicer based on the character of Cinderella, although it could not have that title because Disney released their version the same year. It received an honorable mention at the XI Mostra Cinematográfica della Biennale di Venezia and was declared of national interest by the Sindicato Nacional del Espectáculo (National Entertainment Union).<ref>{{cite web|url=https://www.filmoteca.cat/web/es/node/48943|title=Érase una vez...|publisher=FilmoTeca de Catalunya|access-date=10 April 2024}}</ref> 
+
+*''[[World Famous Fairy Tale Series]]'' (''Sekai meisaku dōwa'') (1975–83) has a 9-minute adaptation.
+*''[[Manga Fairy Tales of the World]]'' (1976–79), 10-minute adaptation.
+*''[[Cinderella (1979 film)|Cinderella]]'' (1979), an animated short film based on Charles Perrault's version of the fairy tale. It was produced by the [[Soyuzmultfilm]] studio.
+
+*''[[My Favorite Fairy Tales]]'' (''Sekai Dōwa Anime Zenshū'') (1986), an anime television anthology, has a 12-minute adaptation.
+*''[[Grimm's Fairy Tale Classics]]'' (1987–89) an anime television series based on Grimm's stories, as two half-hour episodes.
+*''[[Funky Fables]]'' (''Ponkikki Meisaku World'') (1988–90), features an adaptation of Cinderella.
+
+*''Cinderella'' (1994), a Japanese-American [[direct-to-video]] film by [[Jetlag Productions]].
+*''[[World Fairy Tale Series]]'' (''Anime sekai no dōwa'') (1995), anime television anthology produced by Toei Animation, has half-hour adaptation.
+*''[[The Story of Cinderella|Cinderella Monogatari]]'' (''The Story of Cinderella'') (1996), anime television series produced by [[Tatsunoko Production]].
+
+*In 2000, ''[[Simsala Grimm]]'' adapted this story and it is revealed that Cinderella's stepsisters (Agatha and Beata in this version) have burned the dresses Cinderella is wearing. On the second day of the ball, the stepmother gave the prince a potion that made him faint, so she can blame her stepdaughter on the third day. Also, the stepmother tricks Cinderella into saying that Agatha is in the chicken coop so she can lock her in, but Yoyo and Doc Croc free her and help the prince recognize Cinderella, whom he has danced with.
+
+*''[[Cendrillon au Far West]]'' (2012), French/Belgian film set in the wild western age, written and directed by [[Pascal Hérold]]
+
+*''[[Cinderella the Cat]]'' (2017), Italian animated film directed by [[Alessandro Rak]]
+
+*''[[The Grimm Variations]]'' (2024), an Japanese anime [[Netflix]] anthology, features an episode retells the story, with the Cinderella character portrayed as a sinister girl called Kiyoko, who likes to treat those around her as dolls.
+
+====Non-English language live-action films and TV====
+[[File:Zolushka ball.JPG|thumb|Cinderella at the ball in Soviet film (1947)]]
+*''[[Cinderella (1899 film)|Cinderella]]'' (1899), the first film version, produced in France by [[Georges Méliès]], as "Cendrillon".
+*''[[Cinderella (1916 film)|Cinderella]]'' (1916), German film by [[Urban Gad]].
+*''[[The Lost Shoe]]'' (1923), German film by [[Ludwig Berger (director)|Ludwig Berger]].
+*''[[Mamele]]'' (1938) a [[Molly Picon]] vehicle made by the prewar Warsaw Yiddish film industry taking place in contemporary [[Łódź]].
+*''[[Cinderella (1947 film)|Cinderella]]'' (1947), a [[Soviet]] film based on the screenplay by [[Evgeny Schwartz]], with [[Yanina Zhejmo]] in the leading role. Shot in black-and-white, it was [[film colorization|colorized]] in 2009.
+*''[[Cinderella (1955 film)|Cinderella]]'' (1955), German film starring [[Rita-Maria Nowotny]] as Cinderella and [[Renée Stobrawa]] as the Fairy.
+*''[[Sandalyas ni Zafira]]'' ({{Literal translation|Sandals of Zafira}}, 1965), a Filipino fantasy film partially based on Cinderella and starring [[Lyn D'Amour]] as Princess Zafira.
+*''[[Popelka (1969 film)|Popelka]]'' (1969), a Czechoslovak television film starring [[Eva Hrusková]] as Cinderlla and [[Jirí Stedron]] as Prince.
+*''[[:tr:Sinderella Kül Kedisi|Sinderella Kül Kedisi]]'' (1971), a Turkish fantasy film based on Cinderella and starring [[Zeynep Değirmencioğlu]] as Cinderella.
+*''[[Tři oříšky pro Popelku|Three Wishes for Cinderella (Tři oříšky pro Popelku)]]'' (1973), a Czechoslovak/East German fairy tale film starring [[Libuše Šafránková]] as Cinderella and [[Pavel Trávníček]] as Prince. Frequently shown, especially at Christmas time, in several European countries.
+*''[[Rani Aur Lalpari]]'' ({{lit|Rani and the Red Fairy}}), a 1975 Indian children's fantasy film by [[Ravikant Nagaich]] features Cinderella as one of the characters - where she is portrayed by [[Neetu Singh]].<ref>[https://itunes.apple.com/us/movie/id1109016494 Rani Aur Lalpari]. ''[[iTunes]]''.</ref>
+*''{{ill|Aschenputtel (1989 film)|de|Aschenputtel (1989)}}'', a German adaptation starring [[Petra Vigna]] as the titular character
+*''[[Lua de Cristal]]'' ({{lit|Cristal Moon}}, 1990), romantic comedy film starring [[Xuxa Meneghel]] being a modernized version with original characters, but playing reference to Cinderella's story.
+* ''[[Floricienta]]'' (2004), a modern retelling of the story in a [[telenovela]] format.
+* "Cinderelica" (2008), an episode of the children's puppet series ''[[Cocoricó]]''.<ref>[https://www1.folha.uol.com.br/folha/livrariadafolha/801177-turma-do-cocorico-revive-fabulas-classicas-em-nova-colecao.shtml Turma do Cocoricó revive fábulas clássicas em nova coleção]</ref>
+*''[[:ru:Золушка 4×4. Всё начинается с желаний|Cinderella 4×4. Everything starts with desire (Zolushka 4x4. Vsyo nachinayetsya s zhelaniy)]]'' (2008), a Russian modernization featuring [[Darya Melnikova]]
+*''[[Cinderella (2006 film)|Cinderella]]'' (2006), a Korean horror film 
+*''[[Cinderella's Stepsister]]'' (2010), a Korean television series
+*''{{ill|Aschenputtel (2010 film)|de|Aschenputtel (2010)}}'', a German film
+*''{{ill|Aschenputtel (2011 film)|de|Aschenputtel (2011)}}'', another German film
+*''[[Aik Nayee Cinderella]]'' (2013), a Pakistani modernization serial aired on [[Geo TV]] featuring [[Maya Ali]] and [[Osman Khalid Butt]]
+*''[[The Ugly Stepsister]]'' (2025), a Norwegian body horror film written and directed by Emilie Blichfeldt. The story centers around Elvira, the stepsister to this film’s “Cinderella” named Agnes, and focuses on Elvira’s journey as she subjects herself to various painful methods of becoming beautiful to win the heart of the prince.
+
+====English language live-action feature films====
+[[File:Cinderella (1911).webm|thumb|thumbtime=1|''Cinderella'' (1911)]]
+[[File:Cinderella 1914 poster.jpg|thumb|150px|''[[Cinderella (1914 film)|Cinderella]]'' (1914) poster]]
+*''Cinderella'' (1911) silent film starring [[Florence La Badie]]<ref>{{Citation|last1=Nicholls|first1=George|title=Cinderella|date=1911|language=en|oclc=422761848 |last2=La Badie|first2=Florence}}</ref>
+*''[[Cinderella (1914 film)|Cinderella]]'' (1914), a silent film starring [[Mary Pickford]]
+*''[[A Kiss for Cinderella (film)|A Kiss for Cinderella]]'' (1925), in 1925 it was made into a silent feature film, by [[Paramount Pictures|Paramount]], directed by [[Herbert Brenon]] and starring [[Betty Bronson]].
+*''[[The Glass Slipper (film)|The Glass Slipper]]'' (1955), feature film with [[Leslie Caron]] and [[Michael Wilding (actor)|Michael Wilding]]
+*''[[The Slipper and the Rose]]'' (1976), a British [[Sherman Brothers]] musical film starring [[Gemma Craven]] and [[Richard Chamberlain]].
+*''[[Into the Woods (film)|Into the Woods]]'' (2014), a live-action fairy-tale-themed adaptation of the above-mentioned homonymous musical, in which [[Anna Kendrick]]'s Cinderella is a central character.
+*''[[Cinderella (2015 American film)|Cinderella]]'' (2015), a live-action retelling of the 1950 animated Disney film starring [[Lily James]] as Cinderella, [[Cate Blanchett]] as Lady Tremaine, Cinderella's stepmother, [[Richard Madden]] as Kit/Prince Charming and [[Helena Bonham Carter]] as the Fairy Godmother. It is essentially a live-action reimagining of the [[Cinderella (1950 film)|1950 animated film]].
+*''[[Cinderella (2021 American film)|Cinderella]]'' (2021), a live-action film musical starring [[Camila Cabello]] as Cinderella, [[Idina Menzel]] as Cinderella's stepmother, [[Nicholas Galitzine (actor)|Nicholas Galitzine]] as the Prince, and [[Billy Porter (entertainer)|Billy Porter]] as the Fairy Godmother.
+*''Cinderella's Revenge'' (2024), a live-action horror film starring [[Natasha Henstridge]] as the Fairy Godmother who assists Cinderella in seeking a bloody revenge on her stepmother and stepsisters after they've pushed her too far.
+
+'''Modernizations and parodies'''
+*''[[Ella Cinders]]'' (1926), a modern tale starring [[Colleen Moore]], based on a comic strip by [[William M. Conselman]] and [[Charles Plumb (cartoonist)|Charles Plumb]], inspired by Charles Perrault's version.
+*''[[First Love (1939 film)|First Love]]'' (1939), a musical modernization with [[Deanna Durbin]] and [[Robert Stack]].
+*''[[Cinderfella]]'' (1960), Cinderfella's (Jerry Lewis) fairy godfather (Ed Wynn) helps him escape from his wicked stepmother (Judith Anderson) and stepbrothers.
+*''[[Ever After]]'' (1998), starring [[Drew Barrymore]], a [[Postfeminism|post-feminist]], historical fiction take on the Cinderella story.
+*''[[Ella Enchanted (film)|Ella Enchanted]]'' (2004), a fantasy retelling featuring [[Anne Hathaway]], which is based on the [[Ella Enchanted|1997 novel of the same name]].
+*''[[A Cinderella Story]]'' (2004), a modernization featuring [[Hilary Duff]] and [[Chad Michael Murray]]
+**''[[Another Cinderella Story]]'' (2008), a modernization featuring [[Selena Gomez]] and [[Drew Seeley]]
+**''[[A Cinderella Story: Once Upon a Song]]'' (2011), a modernization featuring [[Lucy Hale]] and [[Freddie Stroma]]
+**''[[A Cinderella Story: If the Shoe Fits]]'' (2016), a modernization featuring [[Sofia Carson]] and [[Thomas Law]]
+**''[[A Cinderella Story: Christmas Wish]]'' (2019), a modernization featuring [[Laura Marano]] and [[Gregg Sulkin]]
+**''[[A Cinderella Story: Starstruck]]'' (2021), a modernization featuring [[Bailee Madison]] and [[Michael Evans Behling]]
+*''[[Elle: A Modern Cinderella Tale]]'' (2010), a modernization featuring [[Ashlee Hewitt]] and [[Sterling Knight]]
+*''[[Sneakerella]]'' (2022), a modernization featuring [[Chosen Jacobs]] and [[Lexi Underwood]].
+
+====English language live-action TV films and series====
+*''[[Cinderella (Rodgers and Hammerstein musical)|Cinderella]]'' (1957), a musical adaptation by [[Rodgers and Hammerstein]] written for television and starring [[Julie Andrews]] as Cinderella, featuring [[Jon Cypher]], [[Kaye Ballard]], [[Alice Ghostley]], and [[Edie Adams]] (originally broadcast in color, but only black-and-white [[kinescope]]s survive).
+*''Cinderella'' (1958), a British [[BBC]] adaptation broadcast on [[BBC Television]] on 26 December 1958 starring [[June Thorburn]] as Cinderella, John Fabian as Prince Florizel, [[Peter Sallis]] as Baron Aristide de Pennilac, [[Joan Benham]] as Araminta, Edna Petrie as Arabella, [[Frazer Hines]] as Buttons, [[Kynaston Reeves]] as The Grand Chamberlain, [[Mary Mackenzie]] as The Godmother, James Sharkey as Dandini, [[Patrick Cargill]] as 1st Broker's Man, [[Colin Douglas (actor)|Colin Douglas]] as 2nd Broker's Man, [[John Barrard]] as Count Grumblekin, Dennis Ramsden as Major Domo, Balbina as Mademoiselle JoJo and [[Bernard Horsfall]] as Signor Benvenuto.<ref>{{cite web|url=https://genome.ch.bbc.co.uk/e3221d25ea3243198c5c30cdb6d889b9 |title=Children's Television presents: Cinderella |website=genome.ch.bbc.co.uk}}</ref>
+*''[[Cinderella (Rodgers and Hammerstein musical)#1965 version|Cinderella]]'' (1965), a second production of the [[Rodgers and Hammerstein]] musical, starring 18-year-old [[Lesley Ann Warren]] in the leading role, and featuring [[Stuart Damon]] as the Prince, with [[Ginger Rogers]], [[Walter Pidgeon]], and [[Celeste Holm]] (filmed in color and broadcast annually for 10 years).
+*''[[Hey, Cinderella!]]'' (1969), a television adaptation featuring [[The Muppets]].
+*''[[Cindy (film)|Cindy]]'' (1978), This version of the Cinderella tale with an all-black cast has Cinderella, who wants to marry a dashing army officer, finding out that her father, who she thought had an important job at a big hotel, is actually the men's room attendant. Her wicked stepmother finds out, too, and complications ensue. Starred [[Charlayne Woodard]].
+*In 1985, [[Shelley Duvall]] produced a [[Cinderella (Faerie Tale Theatre episode)|version]] of the story for [[Faerie Tale Theatre]].
+*''[[The Charmings]]'' (1987), a spoof of Cinderella appears in the episode "Cindy's Back In Town" where Cinderella, portrayed by [[Kim Johnston Ulrich]], makes a play for Snow White's husband Prince Charming.
+*''Into the Woods'' (1989), a film of the original 1987 Broadway production of the [[Into the Woods|Stephen Sondheim musical]].
+*''[[Cinderella (1997 film)|Cinderella]]'' (1997), third production of the Rodgers and Hammerstein musical, this time starring [[Brandy Norwood|Brandy]] as Cinderella, [[Whitney Houston]] as the Fairy Godmother, [[Bernadette Peters]] as Cinderella's evil stepmother, [[Jason Alexander]] as Lionel the valet and [[Whoopi Goldberg]] as the Queen. Remake of the 1957 and 1965 TV films.
+*''[[Cinderella (2000 film)|Cinderella]]'', a British TV modernization featuring Marcella Plunkett as Cinderella, [[Kathleen Turner]] as the stepmother and [[Jane Birkin]] as the fairy godmother.
+*''[[The 10th Kingdom]]'' (2000) is a TV miniseries featuring Cinderella as a major character.
+*''[[Confessions of an Ugly Stepsister#Adaptation|Confessions of an Ugly Stepsister]]'' (2002),  [[TV movie]] for ''[[The Wonderful World of Disney]]'' by writer [[Gene Quintano]] and director [[Gavin Millar]], based on the book of the same name, focusing on the point of view of one of the step-sister
+*''[[Once Upon a Time (TV series)|Once Upon a Time]]'' (2011), features Cinderella as a recurring character, played by [[Jessy Schram]] who made a deal with Rumplestiltskin who killed her fairy godmother right in front of her. In 2016, more of the story is shown in which Ashley, Cinderella's real-world counterpart, discovers her stepsister wanted to marry the footman rather than the prince. A different Cinderella in season 7, played by [[Dania Ramirez]], went to the ball to kill the prince, not meet him.
+
+'''Television parodies and modernizations'''
+*The story was retold as part of the episode "[[Grimm Job]]" of the American animated TV series ''[[Family Guy]]'' (season 12, episode 10), with Lois as Cinderella, Peter as Prince Charming, Mayor West as the fairy godmother, Lois's mother as the wicked step-mother, and Meg and Stewie as the step-sisters.
+*''[[Rags (2012 film)|Rags]]'' (2012), a TV musical gender switched inversion of the Cinderella story that stars [[Keke Palmer]] and [[Max Schneider]].
+*''[[Sesame Street]]'' special "[[CinderElmo]]" and the ''[[Magic Adventures of Mumfie]]'' episode "Scarecrowella" both feature a male protagonist playing the Cinderella role.
+*The ''[[My Little Pony: Friendship Is Magic|My Little Pony]]'' first season finale "[[The Best Night Ever]]" parodies several key parts of the Cinderella story.
+* In ''Carry On Christmas'' (1969), which was one of the ''[[Carry On Christmas Specials]]'' on TV, there is a sketch spoofing the Cinderella story. [[Barbara Windsor]] plays Cinderella and [[Terry Scott]] and [[Peter Butterworth]] play the ugly stepsisters.
+
+===Books===
+{{More citations needed section|date=December 2024}}
+*''Cinderella'' (1697), Charles Perrault
+*''Cinderella'' (1919), Charles S. Evans and illustrated by [[Arthur Rackham]] 
+*''[[O Fantástico Mistério de Feiurinha]]'' (1986), by [[Pedro Bandeira]]. A fairytale crossover where Cinderella and her prince are among the main characters.<ref name="auto">{{Cite web |last=Dantas |first=Eriane |date=2020-07-25 |title=[Resenha] O fantástico mistério de feiurinha |url=https://www.historiasemmim.com.br/2020/07/25/resenha-o-fantastico-misterio-de-feiurinha/ |access-date=2023-03-06 |website=Histórias em Mim |language=pt-br}}</ref> In 2009 it was adapted into the film ''[[Xuxa em O Mistério de Feiurinha]]''.
+*''[[Witches Abroad]]'' (1991) by [[Terry Pratchett]] heavily features a subverted version of the Cinderella story<ref>{{Cite web |title=Witches Abroad |url=https://www.lspace.org/books/synopses/witches-abroad.html |access-date=2023-12-30 |website=L-Space Web |language=en |archive-url=https://web.archive.org/web/20230425082620/https://www.lspace.org/books/synopses/witches-abroad.html |archive-date=2023-04-25 |url-status=live}}</ref>
+*''[[Ella Enchanted]]'' (1997), by [[Gail Carson Levine]]
+*''Raisel's Riddle'' (1999), Erica Silverman and illustrated by [[Susan Gaber]]
+*''[[Confessions of an Ugly Stepsister]]'' (1999), by [[Gregory Maguire]]
+*''[[Just Ella]]'' (1999), by [[Margaret Peterson Haddix]]
+*''An Offer From A Gentleman'' (2001), by [[Julia Quinn]]
+*''Adelita: A Mexican Cinderella Story'' (2004), [[Tomie dePaola]]
+*''[[Princess of Glass]]'' (2010) by [[Jessica Day George]] is loosely based on the fairytale.
+*''The Orphan, A Cinderella Story from Greece'' (2011), by Anthony L .Manna<ref>{{Cite web |title=A Multicultural Fairy Tales and Folktales Booklist |url=https://www.nypl.org/blog/2020/09/08/multicultural-fairytales-and-folktales |access-date=2023-12-22 |website=[[The New York Public Library]] |language=en}}</ref>
+*''[[Cinder (novel)|Cinder]]'' (2012) by [[Marissa Meyer]], a sci-fi retelling of the classic story
+*''The Stepsister's Tale'' (2014) by Tracy Barrett
+*''Geekerella'' (2017) by Ashley Poston
+*''Stepsister'' (2019) by [[Jennifer Donnelly]] 
+*''So This Is Love: A Twisted Tale'' (2020) by Elizabeth Lim
+*''[[Cinderella is Dead]]'' (2020), by Kalynn Bayron
+
+=== Video games ===
+* ''[[Yakuza 0]]'', referenced in [[Goro Majima]]'s song "24-Hour Cinderella"
+* ''[[Persona 5 Royal]]'', in which Kasumi's persona is based on Cinderella and named after her French translation, ''Cendrillon''
+* ''Disney's Cinderella: Magical Dreams'' (2005) adapts the 1950 Disney version of the story into a [[Platformer|platform]] game for the [[Game Boy Advance]].
+* There are several [[Otome game|Otome games]] featuring elements of the story, including ''12 Ji no Kane to Cinderella ~Halloween Wedding~'' (2012) and ''Cinderella Phenomenon'' (2017).
+
+==See also==
+{{Portal|Children's literature|Italy|France}}
+* [[Rhodopis]]
+* [[Eteriani]]
+* [[Cinderella complex]]
+* [[Cinderella effect]]
+* [[Marriage plot]]
+* ''[[Ye Xian]]''
+* ''[[Bawang Merah Bawang Putih]]''
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* {{cite journal |last=Bascom |first=William |title=Cinderella in Africa |journal=Journal of the Folklore Institute |volume=9 |issue=1 |date=1972 |pages=54–70 |doi=10.2307/3814022|jstor=3814022 }} Accessed July 12, 2021.
+*Čechová, Mariana. "[http://www.wls.sav.sk/wp-content/uploads/WLS_3_14/WLS3_2014_Cechova.pdf RHIZOMATIC CHARACTER OF TRANS-CULTURAL AND TRANS-TEMPORAL MODE OF LITERARY COMMUNICATION]". In: ''World Literature Studies'' Vol. 6 (23), n. 3 (2014): 111–127.
+* {{cite journal |last=Chen |first=Fan Pen Li |title=Three Cinderella Tales from the Mountains of Southwest China |journal=Journal of Folklore Research |volume=57 |issue=2 |date=2020 |pages=119–52 |doi=10.2979/jfolkrese.57.2.04|s2cid=226626730 }} Accessed 17 November 2020.
+* {{cite journal |last=Christiansen |first=Reidar Th. |title=Cinderella in Ireland |journal=Béaloideas |volume=20 |issue=1/2 |date=1950 |pages=96–107 |doi=10.2307/20521197|jstor=20521197 }} Accessed 7 May 2021.
+*{{cite book | author=Ding Naitong | author-link=:zh:丁乃通 | title=The Cinderella cycle in China and Indo-China | publisher=Suomalainen Tiedeakatemia | location=Helsinki | year=1974 | isbn=951-41-0121-9}}
+* {{cite journal |last=Добровольская |first=В.Е. |title=Сюжет 510А "Золушка" в русской традиции: фольклорная сказка и литературное влияние |trans-title=Plot 510A "Cinderella" in the Russian Tradition: Folklore Tale and Literary Influence |journal=Традиционная культура |trans-journal=raditional Culture |date=2024 |volume=25 |issue=2 |pages=24–35 |language=RU |doi=10.26158/TK.2024.25.2.002 |url=http://www.trad-culture.ru/en/article/plot-510a-cinderella-russian-tradition-folklore-tale-and-literary-influence|url-access=subscription }}
+* {{cite journal |last1=Gardner |first1=Fletcher |first2=W. W. |last2=Newell |title=Filipino (Tagalog) Versions of Cinderella |journal=The Journal of American Folklore |volume=19 |issue=75 |date=1906 |pages=265–80 |doi=10.2307/534434|jstor=534434 }} Accessed 5 July 2020.
+* {{cite journal |first=Jonathan Y. H. |last=Hui |date=2018 |title=Cinderella in Old Norse Literature |journal=Folklore |volume=129 |issue=4 |pages=353–374 |doi=10.1080/0015587X.2018.1515207|s2cid=211582470 |url=https://www.repository.cam.ac.uk/handle/1810/271472 |url-access=subscription }}
+* {{cite journal |last=Labelle |first=Ronald |date=2017 |title=Le conte de Cendrillon: de la Chine à l'Acadie sur les ailes de la tradition |journal=Rabaska |volume=15 |pages=7–28|doi=10.7202/1041114ar |doi-access=free }}.
+* {{cite book |last=Maggi |first=Armando |chapter=The Creation of Cinderella from Basile to the Brothers Grimm |title=The Cambridge Companion to Fairy Tales |editor-first=Maria |editor-last=Tatar |pages=150–65 |series=Cambridge Companions to Literature |location=Cambridge |publisher=Cambridge University Press |date=2014 |doi=10.1017/CCO9781139381062.010|isbn=978-1-139-38106-2 }}
+* {{cite journal |last=Mulhern |first=Chieko Irie |title=Cinderella and the Jesuits. An Otogizōshi Cycle as Christian Literature |journal=[[Monumenta Nipponica]] |volume=34 |issue=4 |date=1979 |pages=409–47 |doi=10.2307/2384103|jstor=2384103 }} Accessed June 25, 2021.
+* {{cite journal |last=Mulhern |first=Chieko Irie |title=Analysis of Cinderella Motifs, Italian and Japanese |journal=Asian Folklore Studies |volume=44 |issue=1 |date=1985 |pages=1–37 |doi=10.2307/1177981 |jstor=1177981}} Accessed June 25, 2021. 
+* {{cite journal |last=Schlepp |first=Wayne |title=Cinderella in Tibet |journal=Asian Folklore Studies |volume=61 |issue=1 |date=2002 |pages=123–47 |doi=10.2307/1178680|jstor=1178680 }}
+* {{cite journal |last=Silva |first=Francisco Vaz da |title=Symbolic Themes in the European Cinderella Cycle |journal=Southern Folklore |volume=57 |issue=2 |date=2000 |pages=159–80 |url=https://www.academia.edu/225312}}
+* {{cite journal |last=Tangherlini |first=Timothy |date=1994 |title=Cinderella in Korea: Korean Oikotypes of AaTh 510 |journal=[[Fabula (journal)|Fabula]] |volume=35 |issue=3–4 |pages=282–304 |doi=10.1515/fabl.1994.35.3-4.282|s2cid=161765498 }}
+* {{cite journal |last=Werth |first=Romina |title=The Fleece of the Ram: Cinderella in Iceland and the Narrative Tradition of the Chastity Cloak |journal=European Journal of Scandinavian Studies |volume=53 |issue=1 |date=2023 |pages=61–79 |doi=10.1515/ejss-2023-2002|s2cid=259327906 }}
+* William, Joy. "[https://www.keiwa-c.ac.jp/wp-content/uploads/2012/12/kiyo13-13.pdf The Cinderella Tales of Niigata]". In: [http://id.nii.ac.jp/1697/00000473/ 敬和学園大学研究紀要] n. 13 (2004): 213-237. {{ISSN|0917-8511}}.
+* Albano Maria Luisa (a cura). ''Cenerentole in viaggio''. Illustrazione di Marcella Brancaforte. Falzea Editore, Reggio Calabria, 2008.
+{{refend}}
+
+==External links==
+{{Commons category|Cinderella}}
+{{wikisource}}
+{{EB1911 poster|Cinderella}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt|Display Name=The complete set of Grimms' Fairy Tales, including ''{{PAGENAMEBASE}}''|noitalics=true}}
+*[http://gutenberg.org/ebooks/33931 Project Gutenberg compilation, including original Cendrillon]
+*[http://digitalgallery.nypl.org/nypldigital/dgkeysearchresult.cfm?parent_id=504396&word= Photos and illustrations from early ''Cinderella'' stage versions], including one with [[Ellaline Terriss]] and one with [[Phyllis Dare]]
+*[https://sites.google.com/site/aglonareader/home/lang-en/books Parallel German-English text of brothers Grimm's version in ParallelBook format]
+*[https://d.lib.rochester.edu/cinderella ''The Cinderella Bibliography''] by the [[University of Rochester]]
+*[http://www.pitt.edu/~dash/type0510a.html Folktales of ATU type 510A, "The Persecuted Heroine: Cinderella"] by [[D. L. Ashliman]]
+
+{{Charles Perrault}}
+{{Brothers Grimm}}
+{{Cinderella}}
+{{Authority control}}
+
+[[Category:Cinderella| ]]
+[[Category:European fairy tales]]
+[[Category:European folklore characters]]
+[[Category:Fairy tales about fairies]]
+[[Category:Fictional orphans]]
+[[Category:Fictional princesses]]
+[[Category:Female characters in fairy tales]]
+[[Category:Folklore featuring impossible tasks]]
+[[Category:Fairy tales about sisters]]
+[[Category:Grimms' Fairy Tales]]
+[[Category:Love stories]]
+[[Category:Romance characters]]
+[[Category:Works by Charles Perrault]]
+[[Category:Articles containing video clips]]
+[[Category:ATU 500-559]]
+[[Category:False hero]]
+[[Category:Fairy tales about princes]]
+[[Category:Fairy tales about princesses]]
+[[Category:Fairy tales about stepmothers]]

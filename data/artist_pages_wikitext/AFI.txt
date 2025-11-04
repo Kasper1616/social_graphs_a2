@@ -1,0 +1,31 @@
+{{wiktionary|AFI}}
+
+'''AFI''' may refer to:
+
+* [[Actual flip-angle imaging]], a type of [[magnetic resonance imaging]] (MRI)
+* ''Address-family identifier'', a 16 bit field of the [[Routing Information Protocol]]
+* [[AFI (band)]], an American rock band
+** [[AFI (2017 album)|''AFI'' (2017 album)]], the tenth studio album by AFI
+** [[AFI (2004 album)|''AFI'' (2004 album)]], a retrospective album by AFI released in 2004
+* [[Afi, Iran]], a village in East Azerbaijan Province, Iran
+* {{Lang|es|[[Federal Intelligence Agency|Agencia Federal de Inteligencia]]}}, the Argentine national intelligence agency
+* {{Lang|es|[[Agencia Federal de Investigación]]}} (Federal Investigations Agency), a Mexican agency
+* [[Akrukay language]], a Ramu language of Papua New Guinea
+* [[Alliance for Financial Inclusion]], an organization of central bank regulators from the developing world
+* [[American Film Institute]], an independent non-profit film organization
+* [[American Football Ireland]], the organizing body for American football in the Republic of Ireland and Northern Ireland
+* [[American Football Israel]], a nonprofit sports organization
+* [[Amniotic fluid index]], a measure of the amount of amniotic fluid of a fetus
+* Aniridia Foundation International, a support organization for people with [[Aniridia]] and family members 
+* ''Application Family Identifier'', an 8 bit field of an [[RFID]] tag
+* ''[[Aquarium Fish International ]]'', a monthly magazine published in North America (1988–2012)
+* [[Ashton Fletcher Irwin]] (born 1994), an Australian drummer
+* {{Lang|fr|[[Association des Femmes Ivoiriennes]]}}, women's organization in the Ivory Coast
+* [[Australian Film Institute]], an organisation that promotes Australian film and television
+* Nikon AF-I, a type of [[Nikon F-mount#AF-I|Nikon F-mount]] lens
+
+==Aviation==
+* [[Air Force Instruction]], documented instructions for members of the United States Air Force
+* IATA airport code for [[Amalfi Airport (Colombia)|Amalfi Airport]] in Antioquia Department, Colombia
+
+{{Disambiguation}}

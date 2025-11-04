@@ -1,0 +1,72 @@
+{{Wiktionary|blur|blurry|blurred|blurring}}
+'''Blur''', '''Blurry''', '''Blurring''', '''Blurred''' or '''Blurr''', may refer to:
+{{TOC right}}
+
+==Optics and images==
+* [[Bokeh]], the aesthetic quality of the out-of-focus parts of an image
+* [[Blur (photographic effect)]], including the following:
+** [[Box blur]], a graphic-art effect
+** [[Defocus aberration]], blurring of an image due to incorrect focus
+** [[Gaussian blur]], a graphic-art effect
+** [[Motion blur]], blurring of an image due to movement of the subject or imaging system
+* [[Deblurring]], process of removing blurring artifacts from images
+* [[Fogging (censorship)]], censored blurring
+
+==Arts, entertainment, and media==
+
+===Fictional characters===
+* [[Red Blue Blur]], or The Blur, an alternate identity for Clark Kent in ''Smallville''
+* [[The Atlanta Blur]] or The Blur, a character in the Marvel MAX comic Supreme Power
+* [[Blurr (Transformers)]], ''Transformers'' fictional robot superheroes
+
+===Films===
+* [[Blurred (film)|''Blurred'' (film)]], a 2002 Australian film
+* [[Blurs (film)|''Blurs'' (film)]], a 2011 Croatian film
+* ''[[Blurr]]'', a 2022 Indian horror thriller film by Ajay Bahl
+
+===Music===
+* [[Blur (band)]], a British rock band
+
+====Albums====
+* [[Blur (Blur album)|''Blur'' (Blur album)]], a 1997 eponymous album by the band Blur
+* ''[[Blur: The Best Of]]'', a 2000 eponymous album by the band Blur
+* [[Blur (Rachael Lampa album)|''Blur'' (Rachael Lampa album)]], a 2002 album by Rachael Lampa
+* Blurr (EP), a 1993 EP by Unwritten Law; see [[Unwritten Law discography|''Unwritten Law'' discography]]
+
+====Songs====
+* "Blur", a song by Britney Spears from the album ''[[Circus (Britney Spears album)|Circus]]''
+* "Blur", a song by Imagine Dragons from the album ''[[Mercury – Acts 1 & 2]]''
+* "Blur", a song by [[Johnny Orlando]]
+* "Blur", a song by MØ from the album ''[[Forever Neverland]]''
+* "Blur", a song by Taeyeon from the EP ''[[Letter to Myself]]''
+* "Blur", a song by Wage War from the album ''[[Stigma (Wage War album)|Stigma]]''
+* "Blur", a song by We Came As Romans from their [[We Came as Romans (album)|self-titled album]]
+* "Blur", a song by Wretch 32, featured on the soundtrack of ''[[FIFA 13#Soundtrack|FIFA 13]]''
+* "[[Blurry]]", a 2001 song by Puddle of Mudd from the album ''Come Clean''
+* [[Blurry (Stand Atlantic song)|"Blurry" (Stand Atlantic song)]], a 2020 song by Stand Atlantic from the album ''Pink Elephant''
+* "Blurry (Out of Place)", a song by Crown the Empire from the album ''[[Sudden Sky]]''
+
+===Other uses in arts, entertainment, and media===
+* [[Blur (video game)|''Blur'' (video game)]], a 2010 arcade racing game
+* ''Blur: How to Know What's True in the Age of Information Overload'', a book by journalists [[Tom Rosenstiel]] and [[Bill Kovach]]
+* The Blur, a member of [[DP 7]], part of Marvel Comics' New Universe line
+
+==Other uses==
+* Blur, in computing, a loss of [[Focus (computing)|focus]]
+* [[Blur (browser extension)]], formerly DoNotTrackMe, now Ironvest
+* Blurring, a form of [[trademark dilution]]
+* [[Blur Group]], an online marketplace provider
+* [[Blur Studio]], a graphics and video effects company
+
+==See also==
+{{canned search|blur|blurred|blurring|blurry|blurr}}
+* [[Motoblur]], a Motorola Android UI
+* {{lookfrom|Blur}}
+* {{intitle|Blur}}
+* {{intitle|Blurry}}
+* {{intitle|Blurred}}
+* {{intitle|Blurring}}
+* {{intitle|Blurr}}
+* [[Blurred (disambiguation)]]
+
+{{disambiguation}}

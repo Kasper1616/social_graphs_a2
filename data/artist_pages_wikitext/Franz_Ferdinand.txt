@@ -1,0 +1,320 @@
+{{Use dmy dates|date=February 2023}}
+{{Short description|Austrian heir presumptive (1863–1914)}}
+{{Redirect|Franz Ferdinand|the band|Franz Ferdinand (band)|other uses|Franz Ferdinand (disambiguation)}}
+{{pp-semi-indef|small=yes}}
+{{pp-move-indef}}
+{{Infobox royalty
+| embed        = 
+| name         = Archduke Franz Ferdinand
+| title        = [[Archduke of Austria-Este]]
+| titletext    = 
+| more         = 
+| type         = 
+| image        = Ferdinand Schmutzer - Franz Ferdinand von Österreich-Este, um 1914 (cropped).jpg
+| image_size   = 
+| alt          = 
+| caption      = Franz Ferdinand {{circa|1914}}
+| suc-type     = 
+| regent       = 
+| reg-type     = 
+| birth_date   = {{Birth date|df=yes|1863|12|18}}
+| birth_place  = [[Graz]], Austrian Empire
+| death_date   = {{Death date and age|df=yes|1914|6|28|1863|12|18}}
+| death_place  = [[Sarajevo]], Austria-Hungary
+{{Infobox person | embed = yes
+| death_cause = [[Assassination of Archduke Franz Ferdinand|Assassination]]}}
+| burial_place = [[Artstetten Castle]]
+| spouse       = {{marriage|[[Sophie, Duchess of Hohenberg]]|1 July 1900|28 June 1914|end=died}}<ref>{{Cite book |last=Albertini |first=Luigi |author-link=Luigi Albertini |title=Origins of the War of 1914 |volume=II |publisher=Oxford University Press |location=Oxford |year=1953 |oclc=168712 |page=38}}</ref>
+| spouse-type  = Spouse
+| consort      = <!-- yes or no -->
+| issue        = {{Plainlist|
+* [[Princess Sophie of Hohenberg]]
+* [[Maximilian, Duke of Hohenberg]]
+* [[Prince Ernst of Hohenberg]]}}
+| issue-link   = 
+| issue-pipe   = 
+| issue-type   = Issue
+| full name    = {{lang|de|Franz Ferdinand Karl Ludwig Joseph Maria}}<br>{{lang|en|Francis Ferdinand Charles Louis Joseph}}
+| house        = [[Habsburg-Lorraine]]
+| house-type   = 
+| father       = [[Archduke Karl Ludwig of Austria]]
+| mother       = [[Princess Maria Annunziata of Bourbon-Two Sicilies]]
+| signature_type = 
+| signature    = Archduke Franz Ferdinand of Austria Signature.svg
+| module       = 
+| burial_date  = 4 July 1914
+}}
+
+'''Archduke Franz Ferdinand Carl Ludwig Joseph Maria of Austria'''{{efn|{{langx|de|Franz Ferdinand von Österreich-Este}}, {{IPA|de-AT|frants ˈfɛrdinand fɔn ˈøːstɐraɪç ˈɛstɛ|-|De-Franz Ferdinand von Österreich-Este.ogg|small=no}}.}} ('''Francis Ferdinand''',<ref>{{cite web |last1=Konta |first1=Alexander |title=PROBLEMS CONFRONTING FRANCIS JOSEPH'S SUCCESSOR; Although Pan-Slavism Is Not a Serious Menace to the Dual Monarchy, Austria-Hungary, There Are Other Complex Questions Which the Present Emperor's Heir, Archduke Francis Ferdinand, of Whom Little Is Known, Will Have to Face. |url=https://www.nytimes.com/1913/02/02/archives/problems-confronting-francis-josephs-successor-although-panslavism.html |publisher=[[New York Times]] |access-date=15 August 2025}}</ref> 18 December 1863&nbsp;– 28 June 1914) was the [[heir presumptive]] to the throne of [[Austria-Hungary]].<ref>{{cite book|title = Royal Sunset: The European Dynasties and the Great War |last = Brook-Shepherd |first = Gordon |publisher = Doubleday |year = 1987 |page = [https://archive.org/details/royalsunseteurop00broo/page/139 139] |isbn = 978-0-385-19849-3 |url = https://archive.org/details/royalsunseteurop00broo/page/139}}</ref> His [[Assassination of Archduke Franz Ferdinand|assassination in Sarajevo]] was the most immediate cause of [[World War I]].
+
+Franz Ferdinand was the eldest son of [[Archduke Karl Ludwig of Austria]], the younger brother of [[Franz Joseph I of Austria|Emperor Franz Joseph I of Austria]]. Following [[Mayerling incident|the death]] of [[Rudolf, Crown Prince of Austria|Crown Prince Rudolf]] in 1889 and the death of Karl Ludwig in 1896, Franz Ferdinand became the heir presumptive to the Austro-Hungarian throne. His courtship of [[Sophie, Duchess of Hohenberg|Sophie Chotek]], a [[lady-in-waiting]], caused conflict within the imperial household, and their [[morganatic marriage]] in 1900 was only allowed after he renounced his descendants' rights to the throne. Franz Ferdinand held significant influence over the military, and in 1913 he was appointed inspector general of the Austro-Hungarian armed forces.
+
+On 28 June 1914, Franz Ferdinand and his wife were [[Assassination of Archduke Franz Ferdinand|assassinated]] in Sarajevo by the 19-year-old [[Gavrilo Princip]], a member of [[Young Bosnia]]. Franz Ferdinand's assassination led to the [[July Crisis]] and precipitated Austria-Hungary's [[declaration of war]] against [[Kingdom of Serbia|Serbia]], which in turn triggered a series of events that eventually led{{snd}}four weeks after his death{{snd}}to [[Central Powers|Austria-Hungary's allies]] and [[Allies of World War I|Serbia's allies]] declaring war on each other, starting World War I.<ref>{{cite book |title = World War I |publisher = Mariner Books |first = S. L. A. |last = Marshall |author-link = S.L.A. Marshall |isbn = 0-618-05686-6 |year = 2001 |page = 1}}</ref><ref>{{cite book |title =The First World War |publisher = Vintage |isbn = 0-375-70045-5 |year = 2000 |last = Keegan |first = John |author-link = John Keegan |page = 48}}</ref><ref name="johnson">{{cite book | title = Introducing Austria: A Short History |series = Studies in Austrian Literature, Culture, and Thought |last = Johnson |first = Lonnie |publisher = Ariadne Press |year =1989 |isbn = 0-929497-03-1 |pages = 52–54 }}</ref>
+
+== Biography ==
+
+=== Early life ===
+Franz Ferdinand was born in [[Graz]], then part of the [[Austrian Empire]], the eldest son of [[Archduke Karl Ludwig of Austria]] (the younger brother of [[Franz Joseph I of Austria|Franz Joseph]] and [[Maximilian I of Mexico|Maximilian]]) and of his second wife, [[Princess Maria Annunziata of Bourbon-Two Sicilies]]. In 1875, when he was eleven years old, his cousin [[Francis V, Duke of Modena]], died, naming Franz Ferdinand his heir on condition that he add the name "Este" to his own. This inheritance made Franz Ferdinand one of the wealthiest men in Austria.{{citation needed|date = January 2016}}
+
+=== Heir presumptive ===
+In 1889, Franz Ferdinand's life changed dramatically.  His cousin [[Rudolf, Crown Prince of Austria|Crown Prince Rudolf]] committed suicide at his hunting lodge in [[Mayerling incident|Mayerling]].<ref name="brook">
+{{cite book
+|title=The Austrians: A Thousand-Years Odyssey
+|last=Brook-Shepherd |first=Gordon
+|year=1997
+|publisher=Carroll & Graf
+|isbn=0-7867-0520-5
+|pages=107, 125–126
+}}
+</ref> This left Franz Ferdinand's father, Karl Ludwig, first in line to the throne. When Karl Ludwig died of [[typhoid fever]] in 1896,<ref>
+{{cite news
+|title     = The Crown Prince's Successor
+|newspaper = The New York Times
+|date      = 2 February 1889
+|url       = https://www.nytimes.com/1889/02/02/archives/the-crown-princes-successor.html
+}} Accessed 22 May 2009.</ref> Franz Ferdinand became the heir presumptive to the Austro-Hungarian throne.<ref>{{Cite web |date=2023-10-10 |title=Franz Ferdinand, archduke of Austria-Este {{!}} Biography, Assassination, Facts, & World War I {{!}} Britannica |url=https://www.britannica.com/biography/Franz-Ferdinand-Archduke-of-Austria-Este |access-date=2023-12-05 |website=www.britannica.com |language=en}}</ref>
+
+Despite this burden, he found time for travel and personal pursuits, such as his circumnavigation of the world between 1892 and 1893. After visiting India he spent time  hunting [[kangaroo]]s and [[emu]]s in Australia in 1893,<ref>{{Cite news|url=http://nla.gov.au/nla.news-article8554706|title=The Archduke Franz Ferdinand|date=23 May 1893|work=The Argus |location=Melbourne, Victoria |access-date=20 April 2018|page=5}}</ref> then travelled on to [[Nouméa]], [[New Hebrides]], [[Solomon Islands]], [[New Guinea]], [[Sarawak]], [[Hong Kong]] and Japan.<ref>{{Cite news|url=http://nla.gov.au/nla.news-article71197930|title=Distinguished Visitors|date=15 April 1893|work=Australian Town and Country Journal |location=Sydney, New South Wales|access-date=20 April 2018|page=29}}</ref> After sailing across the Pacific on the [[RMS Empress of China (1890)|RMS ''Empress of China'']] from [[Yokohama]] to [[Vancouver]]<ref>[http://austrian-mint.at/images/content/pdfs/Download/Ausstellung/Katalog_Land_in_Sicht_D.pdf Katalog ''Land in Sicht!:  Österreich auf weiter Fahrt''] {{webarchive|url=https://web.archive.org/web/20080528210950/http://austrian-mint.at/images/content/pdfs/Download/Ausstellung/Katalog_Land_in_Sicht_D.pdf |date=28 May 2008 }}  (Catalogue ''Land Ahoy!: Austria on the Seven Seas'') (in [[Portable Document Format|PDF]] and in [[German language]]) p. 8. Exhibition by the Austrian Mint, 17 August – 3 February 2006. ''Münze Österreich'' (Austrian Mint). Accessed 22 May 2009.</ref> he crossed the United States, arriving at the [[World's Columbian Exposition]] 1893 on the [[Chicago, Burlington, and Quincy Railroad]] on a private [[Pullman car]] named Mascotte,<ref>{{Cite news|url=https://www.newspapers.com/image/668075245/?terms=archduke%20franz%20ferdinand&match=1|title=Will See the Fair|date =7 October 1893|work=The Champaign County News {{!}} Champaign County, Illinois|access-date=7 November 2021}}</ref> and staying at the [[Lexington Hotel (Chicago)|Lexington Hotel]],<ref>{{Cite news|url=https://www.newspapers.com/image/349503758/?terms=archduke%20franz%20ferdinand&match=1|title=Lexington Hotel, Michigan Boulevard and 22nd Street|date =9 October 1893|work=The Chicago Tribune {{!}} Chicago, Illinois|access-date=7 November 2021}}</ref> before continuing through to [[New York City|New York]] and returning to Europe.
+
+[[File:Franz Ferdinand von Österreich-Este auf Elefantenjagd 1893.jpg|thumb|left|Franz Ferdinand posing in front of a killed elephant, 1893]]
+Franz Ferdinand had a fondness for [[trophy hunting]] that was excessive even by the standards of European nobility in his day.<ref name="Wladimir Aichelburg 2000, p. 31">Wladimir Aichelburg, ''Erzherzog Franz Ferdinand von Österreich-Este und Artstetten'', Vienna: Lehner, 2000, {{ISBN|978-3-901749-18-6}}, p. 31 {{in lang|de}}: {{Lang|de|"Tatsächlich war Franz Ferdinand ein außergewöhnlich leidenschaftlicher Jäger"}} – "It is a fact that Franz Ferdinand was an unusually passionate hunter."</ref> In his diaries he kept track of 272,511 game kills,<ref>{{cite web |last1=Mindich |first1=Talia |title=8 things you didn't know about Franz Ferdinand |url=https://www.pbs.org/newshour/world/8-things-didnt-know-franz-ferdinand |publisher=PBS |access-date=10 September 2020 |date=27 June 2014}}</ref> 5,000 of which were [[deer]]. About 100,000 trophies were on exhibit at his Bohemian castle at [[Konopiště]]<ref name="Friedrich Weissensteiner 1978, p. 367">[[Michael Hainisch]], ed. Friedrich Weissensteiner, ''75 Jahre aus bewegter Zeit: Lebenserinnerungen eines österreichischen Staatsmannes'', Veröffentlichungen der Kommission für neuere Geschichte Österreichs 64, Vienna: Böhlau, 1978, {{ISBN|978-3-205-08565-2}}, p. 367 {{in lang|de}}: ''"Konopischt&nbsp;... das einst dem Erzherzoge Franz Ferdinand gehört hatte. Das Schloß ist voller Jagdtrophäen"'' - "Konopiště&nbsp;... which once belonged to Archduke Franz Ferdinand. The castle is full of hunting trophies."</ref><ref name="p. 237">Neil Wilson and Mark Baker, ''Prague: City Guide'', Lonely Planet City Guide, 9th ed. Footscray, Victoria / Oakland, California / London: Lonely Planet, 2010, {{ISBN|978-1-74179-668-1}}, [https://books.google.com/books?id=ZGpN-VWeJrYC&pg=PA237 p. 237].</ref> which he also stuffed with various antiquities, his other great passion.<ref name="Thomas Veszelits 2003, p. 106">Thomas Veszelits, ''Prag'', HB-Bildatlas 248,  Ostfildern: HB, 2003, {{ISBN|978-3-616-06152-8}}, p. 106. {{in lang|de}}: ''"Jagdtrophäen, Waffen aus drei Jahrhunderten und Kunstschätze füllten die Räume"'' – "Hunting trophies, weapons dating to three centuries, and art treasures filled the rooms."</ref>
+
+=== Military career ===
+Franz Ferdinand, like most males in the ruling [[Habsburg monarchy|Habsburg]] line, entered the [[Austro-Hungarian Army]] at a young age.  He was frequently and rapidly promoted, given the rank of [[lieutenant]] at age fourteen, [[Captain (armed forces)|captain]] at twenty-two, [[colonel]] at twenty-seven, and [[major general]] at thirty-one.<ref name="Rothenburg, G. 1976. p 141">{{cite book|last=Rothenburg|first=G.|title=The Army of Francis Joseph|place=West Lafayette|publisher=Purdue University Press|date=1976|page=141}}</ref> While never receiving formal staff training, he was considered eligible for command and at one point briefly led the primarily Hungarian 9th [[Hussar]] Regiment.{{sfn|Rothenburg|1976|p=120}} In 1898 he was given a commission "at the special disposition of His Majesty" to make inquiries into all aspects of the military services and military agencies were commanded to share their papers with him.{{sfn|Rothenburg|1976|p=141}}
+
+He also held honorary ranks in the [[Austro-Hungarian Navy]], and received the rank of [[admiral]] at the close of the Austro-Hungarian naval maneuvers in September 1902.<ref>{{Cite newspaper The Times |title=Court News|date=5 September 1902 |page=7 |issue=36865}}</ref>
+
+Franz Ferdinand exerted influence on the armed forces even when he did not hold a specific command through a military [[chancery (diplomacy)|chancery]] that produced and received documents and papers on military affairs. This was headed by {{ill|Alexander Brosch von Aarenau|de}} and eventually employed a staff of sixteen.{{sfn|Rothenburg|1976|p=141}} His authority was reinforced in 1907 when he secured the retirement of the Emperor's confidant [[Friedrich von Beck-Rzikowsky]] as Chief of the General Staff. Beck's successor, [[Franz Conrad von Hötzendorf]], was personally selected by Franz Ferdinand.{{sfn|Rothenburg|1976|p=136}}
+
+Franz in 1913, as heir-presumptive to the elderly emperor, had been appointed inspector general of all the armed forces of Austria-Hungary (''Generalinspektor der gesamten bewaffneten Macht''), a position superior to that previously held by [[Archduke Albrecht, Duke of Teschen|Archduke Albrecht]] and including presumed command in wartime.{{sfn|Rothenburg|1976|p=170}}
+
+=== Marriage and family ===
+[[File:The Austro Hungarian Empire Before the First World War Q81810.jpg|thumb|upright|Archduke Franz Ferdinand with his wife Sophie, Duchess of Hohenberg, and their three children (from left), Prince Ernst von Hohenberg, Princess Sophie, and Maximilian, Duke of Hohenberg, in 1910]]
+In 1894, Franz Ferdinand met Countess [[Sophie, Duchess of Hohenberg|Sophie Chotek]], a [[lady-in-waiting]] to [[Princess Isabella of Croy|Archduchess Isabella]], wife of [[Archduke Friedrich, Duke of Teschen]].<ref name="Radziwill">{{cite book|first=Catherine|last=Radziwill|title=The Austrian Court From Within|url=https://archive.org/details/austriancourtfr00radzgoog|publisher=Cassel and Company, LTD|location=London|year=1916|isbn=1-4021-9370-X}}</ref> Franz began to visit Archduke Friedrich's villa in Pressburg (now [[Bratislava]]), and in turn Sophie wrote to Franz Ferdinand during his convalescence from [[tuberculosis]] on the island of [[Lošinj]] in the [[Adriatic Sea|Adriatic]]. They kept their relationship a secret,<ref name="Meyer2007"/> until it was discovered by Isabella.
+
+To be eligible to marry a member of the imperial House of Habsburg, one had to be a member of one of the reigning or formerly reigning dynasties of Europe. The Choteks were not one of these families. Deeply in love, Franz Ferdinand refused to consider marrying anyone else. Finally, in 1899, Emperor Franz Joseph agreed to permit Franz Ferdinand to marry Sophie, provided that the marriage would be [[morganatic]] and that their descendants would not have succession rights to the throne.<ref name="brook"/><!-- pg. 126 --> Sophie would not share her husband's rank, title, [[Order of precedence|precedence]], or privileges, nor would she normally appear in public beside him. She would not be allowed to ride in the royal carriage or sit in the royal box in theaters.<ref name="Meyer2007">{{cite book |last=Meyer |first=G. J. |title=A World Undone: The Story of the Great War 1914 to 1918|url=https://books.google.com/books?id=LJeIW40osH0C|year=2007|page=5|publisher=Bantam Dell|isbn=978-0-553-38240-2}}</ref>
+
+The wedding took place on 1 July 1900, at Reichstadt (now [[Zákupy]]) in [[Bohemia]]; Franz Joseph did not attend the ceremony, nor did Franz Ferdinand's brothers or any other archduke.<ref name="brook"/><!-- pg. 126 --> The only members of the imperial family present were Franz Ferdinand's stepmother, [[Infanta Maria Theresa of Portugal|Princess Maria Theresa of Braganza]], and her two daughters. Upon the marriage, Sophie was given the title "Princess of Hohenberg" ({{lang|de|Fürstin von Hohenberg}}) with the style "Her Serene Highness" ({{lang|de|Ihre Durchlaucht}}). In 1909, she was given the more senior title "Duchess of Hohenberg" ({{lang|de|Herzogin von Hohenberg}}) with the style "Her Highness" ({{lang|de|Ihre Hoheit}}). This raised her status considerably, but she was still required to yield precedence at court to all the archduchesses. Whenever a function required the couple to assemble with the other members of the imperial family, Sophie had to stand far down the line, separated from her husband.<ref name="Meyer2007"/>
+
+Franz Ferdinand's children were:
+* [[Princess Sophie of Hohenberg]] (1901–1990), married Count Friedrich von Nostitz-Rieneck (1891–1973)
+* [[Maximilian, Duke of Hohenberg]] (1902–1962), married Countess Elisabeth von Waldburg zu Wolfegg und Waldsee (1904–1993)
+* [[Prince Ernst of Hohenberg]] (1904–1954), married Marie-Therese Wood (1910–1985)
+* Stillborn son (1908), buried in [[Artstetten Castle]], near his parents<ref>Schwarz, Otto. ''Hinter den Fassaden der Ringstrasse: Geschichte, Menschen, Geheimnisse''. Amalthea, Vienna, 2007, {{ISBN|978-3-85002-589-8}}, p. 26 {{in lang|de}}</ref><ref>[http://www.schloss-artstetten.at/index.php?option=com_content&view=article&id=64&Itemid=159&lang=en The Family Crypt] {{webarchive |url=https://web.archive.org/web/20110821073148/http://www.schloss-artstetten.at/index.php?option=com_content&view=article&id=64&Itemid=159&lang=en |date=21 August 2011 }}, Artstetten Castle.</ref>
+
+Franz Ferdinand and Sophie visited England in the autumn of 1913, spending a week with [[George V]] and [[Mary of Teck|Queen Mary]] at [[Windsor Castle]] before going to stay for another week with the [[William Cavendish-Bentinck, 6th Duke of Portland|Duke of Portland]] at [[Welbeck Abbey]], [[Nottinghamshire]], where they arrived on 22 November. He attended a service at the local Catholic church in [[Worksop]].  Franz Ferdinand and the Duke of Portland went game shooting on the Welbeck estate when, according to Portland's memoirs, ''Men, Women and Things'':
+
+{{blockquote|One of the loaders fell down. This caused both barrels of the gun he was carrying to be discharged, the shot passing within a few feet of the archduke and myself. I have often wondered whether the Great War might not have been averted, or at least postponed, had the archduke met his death there and not in Sarajevo the following year.<ref>{{cite news |url=https://www.bbc.com/news/uk-england-nottinghamshire-25008184 |work=BBC News |first=Greig |last=Watson |title=Could Franz Ferdinand Welbeck gun accident have halted WWI? }}</ref>}}
+
+=== Assassination ===
+{{Main|Assassination of Archduke Franz Ferdinand}}
+[[File:Minutos previos al atentado en Sarajevo.jpg|thumb|As described by contemporary Spanish magazine ''El Mundo Gráfico'': "The moment when the Austrian archdukes, following the first attempt against their lives, arrived at the City Council (of Sarajevo), where they were received by the mayor and the municipal corporation."]]
+{{stack|float=left
+|[[File:FranzFerdinand uniform.jpg|thumb|upright|left|Franz Ferdinand's blood-stained uniform]]
+}}
+[[File:FranzFerdinandCar.jpg|thumb|The 1910 [[Gräf & Stift]] ''Bois de Boulogne'' [[Phaeton body|phaeton]] automobile in which Archduke Franz Ferdinand and his wife were assassinated. It is now displayed in the [[Museum of Military History, Vienna|Museum of Military History]] in Vienna]]
+[[File:Latin Bridge 02 (22757259615).jpg|thumb|alt=Latin bridge (prev. Princip bridge) in Sarajevo. Across the bridge is a street of several grayish houses not more than four stories high.|The [[Latin Bridge]] near the assassination site]]
+On Sunday, 28 June 1914, at about 10:45 am, Franz Ferdinand and his wife were assassinated in [[Sarajevo]], the capital of the [[Austro-Hungarian rule in Bosnia and Herzegovina|Austro-Hungarian province of Bosnia and Herzegovina]]. The perpetrator was 19-year-old [[Gavrilo Princip]], a member of [[Young Bosnia]] and one of a group of assassins organized and armed by the [[Black Hand (Serbia)|Black Hand]].<ref name="johnson" />
+
+Earlier in the day, the couple had been attacked by [[Nedeljko Čabrinović]], also a Young Bosnia conspirator, who had thrown a grenade at their car. However, the bomb detonated behind them, injuring the occupants in the following car. On arriving at the Governor's residence, Franz asked "So you welcome your guests with bombs!"<ref name="beyer146">Beyer, Rick, ''The Greatest Stories Never Told'', Harper Collins, {{ISBN|978-0-06-001401-8}}. pp.&nbsp;146–147</ref>
+
+After a short rest at the Governor's residence, the royal couple insisted on seeing all those who had been injured by the bomb at the local hospital. However, no one told the drivers that the itinerary had been changed. When the error was discovered, the drivers had to turn around. As the cars backed down the street and onto a side street, the line of cars stalled. At this time, Princip was sitting at a cafe across the street. He instantly seized his opportunity and walked across the street and shot the royal couple.<ref name="beyer146" /> He first shot Sophie in the abdomen and then shot Franz Ferdinand in the neck. Franz leaned over his crying wife. He was still alive when witnesses arrived to render aid.<ref name="johnson" /> His dying words to Sophie were, "Don't die darling, live for our children."<ref name="beyer146" /> Princip's weapon was the pocket-sized [[FN Model 1910]] pistol chambered for the [[.380 ACP]] cartridge provided him by Serbian Army [[Military Intelligence]] [[Lieutenant-Colonel]] and [[Black Hand (Serbia)|Black Hand]] leader [[Dragutin Dimitrijević]].<ref>
+{{cite book |last=Belfield |first=Richard |url=https://archive.org/details/assassinationbus00belf |title=The Assassination Business: A History of State-Sponsored Murder |publisher=Carroll & Graf |year=2005 |isbn=978-0-7867-1343-1}}</ref> Franz Ferdinand's aides attempted to undo his coat but realized they needed scissors to cut it open: the outer lapel had been sewn to the inner front of the jacket for a smoother fit to improve his appearance to the public.  Whether or not as a result of this obstacle, his wound could not be attended to in time to save him, and he died within minutes. Sophie also died en route to the hospital.<ref>
+{{cite book |last=MacDonogh |first=Giles |title=The Last Kaiser: The Life of Wilhelm II |publisher=St. Martin's Griffin |year=2003 |isbn=978-0-312-30557-4 |page=351}}</ref>
+
+A detailed account of the shooting can be found in ''Sarajevo'' by Joachim Remak:<ref>{{cite book |last=Remak |first=Joachim |title=Sarajevo: The Story of a Political Murder |publisher=Criterion |year=1959 |pages=137–142 |asin=B001L4NB5U}}</ref>
+<blockquote>
+One bullet pierced Franz Ferdinand's neck while the other pierced Sophie's abdomen.&nbsp;... As the car was reversing (to go back to the Governor's residence because the entourage thought the Imperial couple were unhurt) a thin streak of blood shot from the Archduke's mouth onto Count Harrach's right cheek (he was standing on the car's running board). Harrach drew out a handkerchief to still the gushing blood. The Duchess, seeing this, called: "For Heaven's sake! What happened to you?" and sank from her seat, her face falling between her husband's knees.
+
+Harrach and Potoriek&nbsp;... thought she had fainted&nbsp;... only her husband seemed to have an instinct for what was happening. Turning to his wife despite the bullet in his neck, Franz Ferdinand pleaded: "''Sopherl! Sopherl! Sterbe nicht! Bleibe am Leben für unsere Kinder!''&nbsp;– Sophie dear! Don't die! Stay alive for our children!" Having said this, he seemed to sag down himself. His plumed hat&nbsp;... fell off; many of its green feathers were found all over the car floor. Count Harrach seized the Archduke by the uniform collar to hold him up. He asked "''Leiden Eure Kaiserliche Hoheit sehr?''&nbsp;– Is Your Imperial Highness suffering very badly?"  "''Es ist nichts.''&nbsp;– It is nothing." said the Archduke in a weak but audible voice. He seemed to be losing consciousness during his last few minutes, but, his voice growing steadily weaker, he repeated the phrase perhaps six or seven times more.
+
+A [[Death rattle|rattle]] began to issue from his throat, which subsided as the car drew in front of the Konak bersibin (Town Hall).
+Despite several doctors' efforts, the Archduke died shortly after being carried into the building while his beloved wife was almost certainly dead from internal bleeding before the motorcade reached the Konak.
+</blockquote>
+
+The assassinations, along with the [[arms race]], [[nationalism]], [[imperialism]], [[militarism]] of [[German Empire|Imperial Germany]] and the alliance system all contributed to the [[origins of World War I]], which began a month after Franz Ferdinand's death, with Austria-Hungary's declaration of war against Serbia.{{sfn|Johnson|1989|p=56}} The assassination of Franz Ferdinand is considered the most immediate cause of World War&nbsp;I.<ref>John McCannon. ''AP World History''. Copyright 2010, 2008, Barron's Educational Series, Inc. page 9.</ref>
+[[File:Artstetten - Schloss mit Kirche.JPG|thumb|Artstetten Castle with family crypt under the forecourt of the castle church]]
+After his death, [[Charles I of Austria|Archduke Karl]] became the heir presumptive of Austria-Hungary. Franz Ferdinand was buried with his wife Sophie in [[Artstetten Castle]], Austria.<ref>{{Cite news |date=2014-06-27 |title=Profile: Archduke Franz Ferdinand |language=en-AU |work=ABC News |url=https://www.abc.net.au/news/2014-06-28/franz-ferdinand-profile/5542910 |access-date=2022-11-27}}</ref>
+
+== Character ==
+The German historian Michael Freund described Franz Ferdinand as "a man of uninspired energy, dark in appearance and emotion, who radiated an aura of strangeness and cast a shadow of violence and recklessness&nbsp;... a true personality amidst the amiable inanity that characterized Austrian society at this time."<ref>Freund, Michael: Deutsche Geschichte. Die Große Bertelsmann Lexikon-Bibliothek, Bd. 7. C. Bertelsmann Verlag, 1961. p.901</ref> As his sometime admirer [[Karl Kraus (writer)|Karl Kraus]] put it, "he was not one who would greet you&nbsp;... he felt no compulsion to reach out for the unexplored region which the Viennese call their heart."<ref>''Die Fackel''. Issue 10 July 1914</ref> His relations with Emperor Franz Joseph were tense; the emperor's personal servant recalled in his memoirs that "thunder and lightning always raged when they had their discussions."<ref>Ketterl, Eugen. ''Der alte Kaiser wie nur einer ihn sah''. Cissy Klastersky (ed.), Gerold & Co., Vienna 1929</ref> The commentaries and orders which the heir to the throne wrote as margin notes to the documents of the Imperial central commission for architectural conservation (where he was Protector) reveal what can be described as "choleric conservatism".<ref>Brückler, Theodor: ''Franz Ferdinand als Denkmalpfleger''. Die "Kunstakten" der Militärkanzlei im Österreichischen Staatsarchiv. Böhlau Verlag, Vienna 2009. {{ISBN|978-3-205-78306-0}}</ref> The Italian historian Leo Valiani provided the following description.
+{{blockquote|Francis Ferdinand was a prince of absolutist inclinations, but he had certain intellectual gifts and undoubted moral earnestness. One of his projects – though because of his impatient, suspicious, almost hysterical temperament, his commitment to it, and the methods by which he proposed to bring it about, often changed – was to consolidate the structure of the state and the authority and popularity of the Crown, on which he saw clearly that the fate of the dynasty depended, by abolishing, if not the dominance of the German Austrians, which he wished to maintain for military reasons, though he wanted to diminish it in the civil administration, certainly the far more burdensome sway of the Magyars over the Slav and Romanian nationalities which in 1848–49 had saved the dynasty in armed combat with the Hungarian revolution. Baron Margutti <small>([[:de:Albert von Margutti|de]])</small>, Francis Joseph's aide-de-camp, was told by Francis Ferdinand in 1895 and – with a remarkable consistency in view of the changes that took place in the intervening years – again in 1913, that the introduction of the dual system in 1867 had been disastrous and that, when he ascended the throne, he intended to re-establish strong central government: this objective, he believed, could be attained only by the simultaneous granting of far-reaching administrative autonomy to all the nationalities of the monarchy. In a letter of February 1, 1913, to [[Leopold Berchtold|Berchtold]], the Foreign Minister, in which he gave his reasons for not wanting war with Serbia, Franz Ferdinand said that "irredentism in our country&nbsp;... will cease immediately if our Slavs are given a comfortable, fair and good life" instead of being trampled on (as they were being trampled on by the Hungarians). It must have been this which caused Berchtold, in a character sketch of Francis Ferdinand written ten years after his death, to say that, if he had succeeded to the throne, he would have tried to replace the dual system by a supranational federation.<ref>Valiani, Leo, ''The End of Austria-Hungary'', Alfred A. Knopf, New York (1973) pp.&nbsp;9–10 [translation of: ''La Dissoluzione dell'Austria-Ungheria'', Casa Editrice Il Saggiatore, Milano (1966) pp.&nbsp;19–20]</ref>}}
+
+After the assassination of Franz Ferdinand and Sophie in 1914, Marie Valerie, the daughter of Emperor Franz Joseph, observed that her father had placed more trust in the newly designated heir, his grandnephew Archduke Charles. The emperor confessed to his daughter about the assassination, stating: "For me, it is a relief from a great worry."<ref>{{Cite book |last=Palmer |first=Alan |author-link=Alan Palmer |year=1994 |title=Twilight of the Habsburgs: the Life and Times of Emperor Francis Joseph |publisher=Atlantic Monthly Press |isbn=978-1857998696|page=324}}</ref>
+
+==Political views==
+[[File:Greater austria.png|thumb|upright=1.4|Map of the [[United States of Greater Austria|federalization of Austria-Hungary]] planned by Archduke Franz Ferdinand, the member states with separate governments]]
+
+"The three cornerstones of Ferdinand's political conviction were clericalism, anti-democratic views, and anti-Hungarianism," and the basis of his worldview was that "politics is a matter only for the ruler, while the people, the masses have to obey." Franz Ferdinand often complained that in Hungary, the glorification of revolutionary hero [[Lajos Kossuth]], the decline of the monarchical principle, and the dominance of the Freemasons and the Jewish people was prevalent.<ref>Quote of historian László Gulyás (2019): The Assassination of Franz Ferdinand : The Archduke Who Despised Hungarians Url: [https://web.archive.org/web/20201216121124/https://hungarytoday.hu/the-assassination-of-franz-ferdinand-the-archduke-who-despised-hungarians/]</ref> Historians have disagreed on how to characterize the political philosophies of Franz Ferdinand, some attributing generally liberal views on the empire's nationalities while others have emphasized his dynastic centralism, Catholic conservatism, and tendency to clash with other leaders.<ref name="Rothenburg, G. 1976. p 141"/>
+
+He advocated granting greater autonomy to ethnic groups within the Empire and addressing their grievances, especially the Czechs in [[Bohemia]] and the south Slavic peoples in [[Croatia]] and [[Bosnia]], who had been left out of the [[Austro-Hungarian Compromise of 1867]].<ref>
+{{cite book
+|title     = Thunder at Twilight: Vienna 1913/1914
+|last      = Morton
+|first     = Frederick
+|year      = 1989
+|publisher = Scribner
+|page      = [https://archive.org/details/thunderattwiligh00mort/page/191 191]
+|isbn      = 978-0-684-19143-0
+|url       = https://archive.org/details/thunderattwiligh00mort/page/191
+}}</ref> Yet his feelings towards the Hungarians were less generous, often described as antipathy. For example, in 1904 he wrote that "The Hungarians are all rabble, regardless of whether they are minister or duke, cardinal or burgher, peasant, hussar, domestic servant, or revolutionary", and he regarded even [[István Tisza]] as a revolutionary and "patented traitor".<ref name="Köpeczi">{{cite book |others=Béla Köpeczi (General Editor); Zoltán Szasz (Editor) | title = History of Transylvania | publisher = Akadémiai Kiadó | year = 1994 | location = Budapest |url=http://mek.oszk.hu/03400/03407/html/413.html| isbn = 963-05-6703-2}}</ref> He regarded [[Hungarian nationalism]] as a revolutionary threat to the Habsburg dynasty and reportedly became angry when officers of the 9th Hussars Regiment (which he commanded) spoke Hungarian in his presence&nbsp;– despite the fact that it was the official regimental language.{{sfn|Rothenburg|1976|p=120}} He further regarded the Hungarian branch of the Dual Monarchy's army, the [[Royal Hungarian Honvéd|Honvédség]], as an unreliable and potentially threatening force within the empire, complaining at the Hungarians' failure to provide funds for the joint army{{sfn|Rothenburg|1976|p=147}} and opposing the formation of artillery units within the Hungarian forces.{{sfn|Rothenburg|1976|p=133}}
+
+He also advocated a cautious approach towards [[Kingdom of Serbia|Serbia]]&nbsp;– repeatedly locking horns with [[Franz Conrad von Hötzendorf]], Vienna's hard-line Chief of the [[Austro-Hungarian General Staff]], warning that harsh treatment of Serbia would bring Austria-Hungary into open conflict with [[Russian Empire|Russia]], to the ruin of both empires.{{citation needed|date=September 2021}}
+
+He was disappointed when Austria-Hungary failed to act as a great power, such as during the [[Boxer Rebellion]] in 1900. Other nations, including, in his description, "dwarf states like Belgium and Portugal",{{sfn|Rothenburg|1976|p=136}} had soldiers stationed in China, but Austria-Hungary did not. However, Austria-Hungary did participate in the [[Eight-Nation Alliance]] to suppress the Boxers, and sent soldiers as part of the "international relief force".
+
+Franz Ferdinand was a prominent and influential supporter of the [[Austro-Hungarian Navy]] in a time when sea power was not a priority in Austrian foreign policy and the Navy was relatively little known or supported by the public. After his assassination in 1914, the Navy honoured Franz Ferdinand and his wife with a [[lying in state]] aboard [[SMS Viribus Unitis|SMS ''Viribus Unitis'']].
+
+==Commemorations==
+
+[[File:Franzferdinand40hel1917.jpg|thumb|upright|right|alt=The bluish-tinted stamp shows Sophia, duchess of Hohenberg on the left, and Franz Ferdinand on the right. The stamp is titled "Militärpost" ("Military Mail") at the top, and the date of the couple's deaths at the bottom.|Commemorative postage stamp (Austria-Hungary)]]
+Archduke Franz Ferdinand and his [[Artstetten Castle|Castle of Artstetten]] were selected as a main motif for the Austrian 10 euro [[Euro gold and silver commemorative coins (Austria)#2004 coinage|The Castle of Artstetten commemorative coin]], minted on 13 October 2004. The reverse shows the entrance to the crypt of the Hohenberg family. There are two portraits below, showing Archduke Franz Ferdinand and his wife Sophie, Duchess of Hohenberg.<ref>[http://www.austriancoins.com/10e.html Austrian 10-Euro Coins]. Austriancoins.com (9 October 2002). Retrieved on 2013-08-16.</ref>
+
+==Titles, styles, honours and arms==
+===Titles and styles===
+* 18 December 1863&nbsp;– 20 November 1875: ''His Imperial and Royal Highness'' Archduke and Prince Franz Ferdinand of Austria, Royal Prince of Hungary, Bohemia and Croatia<ref name="harmonische Wahlkapitulation">{{cite book|title=Kaiser Joseph II. harmonische Wahlkapitulation mit allen den vorhergehenden Wahlkapitulationen der vorigen Kaiser und Könige}} Since 1780 official title used for princes ("''zu Ungarn, Böhmen, Dalmatien, Kroatien, Slawonien, Königlicher Erbprinz''")</ref>
+* 20 November 1875&nbsp;– 28 June 1914: ''His Imperial and Royal Highness'' Franz Ferdinand, Archduke of Austria-Este<ref name="HofUndStaat">''[http://alex.onb.ac.at/cgi-content/alex?aid=shb&datum=1914&page=22&size=45 Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie]'' (1914), Genealogy p. 2</ref>
+
+===Honours and awards===
+'''Domestic'''<ref name="HofUndStaat"/>
+* [[Order of the Golden Fleece|Knight of the Golden Fleece]], ''1878''<ref>{{cite web|url=http://www.antiquesatoz.com/sgfleece/knights5.htm |title=Chevaliers de la Toisón d'Or - Knights of the Golden Fleece |last= Boettger|first=T. F.|website=La Confrérie Amicale|access-date=25 June 2019}}</ref>
+* Grand Cross of the [[Order of St. Stephen of Hungary|Royal Hungarian Order of St. Stephen]], ''1893''<ref>{{cite web|url=http://tornai.com/rendtagok.htm|title=A Szent István Rend tagjai|language=hu|trans-title=Members of the Saint Stephen Order|url-status=dead|archive-url=https://web.archive.org/web/20101222022855/http://tornai.com/rendtagok.htm|archive-date=22 December 2010}}</ref>
+* [[Military Merit Cross (Austria-Hungary)|Military Merit Cross, in Diamonds]]
+* Silver [[Military Merit Medal (Austria-Hungary)|Military Merit Medal]] on Red Ribbon
+* Long Service Cross for Officers, 2nd Class
+* [[1898 Jubilee Medal|1898 Jubilee Medal for the Armed Forces]]
+* [[1908 Jubilee Cross|1908 Military Jubilee Cross]]
+* [[Sea Voyage Medal 1892-1893]]
+
+'''Foreign'''<ref name="HofUndStaat"/>
+{{columns-list|colwidth=25em|
+* {{Flagicon|Anhalt}} [[Duchy of Anhalt|Anhalt]]: Grand Cross of the [[Order of Albert the Bear]]
+* {{Flagcountry|Baden}}: Knight of the [[House Order of Fidelity]], ''1908''<ref>''Hof- und Staats-Handbuch des Großherzogtum Baden'' (1910), "Großherzogliche Orden" [https://digital.blb-karlsruhe.de/blbihd/periodical/pageview/1881289 p. 41]</ref>
+* {{Flagcountry|Kingdom of Bavaria}}:
+** [[Order of St. Hubert|Knight of St. Hubert]], ''1895''<ref>''Hof- und Staats-Handbuch des Königreichs Bayern'' (1906), "Königliche-Orden" [https://archive.org/details/bub_gb_nTedipoxoGcC/page/n39 p. 9]</ref>
+** Commemorative Medal for the 70th Anniversary of Military Service of [[Luitpold, Prince Regent of Bavaria|Prince Regent Luitpold]]
+* {{Flag|Belgium}}: Grand Cordon of the [[Order of Leopold (Belgium)|Order of Leopold]]
+* {{Flagcountry|Kingdom of Bulgaria}}: [[Order of Saints Cyril and Methodius|Knight of Saints Cyril and Methodius]], with Collar
+* {{Flag|Denmark}}: [[Order of the Elephant|Knight of the Elephant]], ''12 May 1908''<ref>{{cite book|author=Jørgen Pedersen|title=Riddere af Elefantordenen, 1559–2009|url=https://books.google.com/books?id=glw-AQAAIAAJ|year=2009|publisher=Syddansk Universitetsforlag|language=da|isbn=978-87-7674-434-2|page=338}}</ref>
+* {{Flagicon|Saxe-Coburg and Gotha}} {{flagicon|Saxe-Altenburg}} {{flagicon|Saxe-Meiningen}} [[Ernestine duchies]]: Grand Cross of the [[Saxe-Ernestine House Order]]
+* {{Flagcountry|Kingdom of Italy}}: [[Supreme Order of the Most Holy Annunciation|Knight of the Annunciation]], ''22 January 1891''<ref name="dell'interno1914">{{cite book|author=Italy. Ministero dell'interno|title=Calendario generale del regno d'Italia|year=1914|url=https://books.google.com/books?id=hTB18dYjtbMC|page=[https://books.google.com/books?id=hTB18dYjtbMC&pg=PA83 83]}}</ref>
+** {{flagicon|Tuscany|habsburg}} [[Grand Duchy of Tuscany|Tuscan Grand Ducal family]]: [[Order of Saint Joseph|Grand Cross of St. Joseph]]
+** {{flagicon|Two Sicilies}} [[House of Bourbon-Two Sicilies|Two Sicilian Royal family]]: [[Order of Saint Ferdinand and of Merit|Grand Cross of St. Ferdinand and Merit]]
+* {{flagicon image|Flag of the Vatican City (2 by 3).svg}} [[Holy See]]:
+** Knight of the [[Supreme Order of Christ]]
+** [[Order of the Holy Sepulchre (Catholic)|Grand Cross of the Holy Sepulchre of Jerusalem]]
+* {{Flagicon|Sovereign Military Order of Malta}} [[Military Order of Malta]]: Bailiff Grand Cross of Honour and Devotion
+*{{Flagcountry|Empire of Japan}}: Grand Cordon of the [[Order of the Chrysanthemum]], ''27 July 1893''<ref>{{cite book|author=刑部芳則|title=明治時代の勲章外交儀礼|url=http://meijiseitoku.org/pdf/f54-5.pdf|year=2017|publisher=明治聖徳記念学会紀要|language=ja|page=149}}</ref>
+* {{flagicon|Johor|1893}} [[Johor Sultanate|Johor]]: First Class of the [[Royal Family Order of Johor]], ''1893''<ref>{{cite web |url=https://royal.johor.my/johor-dipersada-dunia/ |website=Portal Kesultanan Johor |publisher=Johor Royal Council |title=Johor di Persada Global – Portal Kesultanan Johor }}</ref>
+*{{Flagcountry|Principality of Montenegro}}: Grand Cross of the [[Order of Prince Danilo I]]
+* {{Flagicon image|Flagge Großherzogtümer Mecklenburg.svg}} [[Mecklenburg]]: [[House Order of the Wendish Crown|Grand Cross of the Wendish Crown]], with Crown in Ore
+* {{Flag|Oldenburg}}: [[House and Merit Order of Peter Frederick Louis|Grand Cross of the Order of Duke Peter Friedrich Ludwig]], with Crown in Gold
+*{{Flagcountry|Kingdom of Portugal}}: Grand Cross of the [[Sash of the Two Orders]]
+* {{flagcountry|Kingdom of Prussia}}:
+** [[Order of the Black Eagle|Knight of the Black Eagle]], with Collar
+** Grand Commander of the Royal [[House Order of Hohenzollern]], with Collar
+** [[Military Merit Cross (Prussia)|Military Merit Cross]]
+*{{flagcountry|Kingdom of Romania}}:
+** Grand Cross of the [[Order of Carol I]]
+** [[Order of the Star of Romania|Grand Cross of the Star of Romania]]
+* {{Flag|Saxe-Weimar-Eisenach}}: [[Order of the White Falcon|Grand Cross of the White Falcon]], ''1892''<ref>''Staatshandbuch für das Großherzogtum Sachsen / Sachsen-Weimar-Eisenach'' (1900), "Großherzogliche Hausorden" [https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00185861/Staatshandbuch_Film_Nr_16_0245.tif p. 17] {{Webarchive|url=https://web.archive.org/web/20200906150133/https://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00185861/Staatshandbuch_Film_Nr_16_0245.tif |date=6 September 2020 }}</ref>
+* {{Flagcountry|Kingdom of Württemberg}}:
+** [[Order of the Crown (Württemberg)|Grand Cross of the Württemberg Crown]], ''1889''<ref>''[https://archive.org/details/bub_gb_Pc5CAAAAYAAJ/page/n63  Hof- und Staats-Handbuch des Königreich Württemberg]'' (1907), "Königliche Orden" p. 28</ref>
+** Golden Jubilee Medal
+* {{Flagcountry|Kingdom of Saxony}}: [[Order of the Rue Crown|Knight of the Rue Crown]], ''1886''<ref name="Sachsen1901">{{cite book|author=Sachsen|title=Staatshandbuch für den Königreich Sachsen: 1901|year=1901|publisher=Heinrich|chapter=Königlich Orden|page=[https://babel.hathitrust.org/cgi/pt?id=mdp.39015030492006&view=1up&seq=44&skin=2021 4]|location=Dresden|via=hathitrust.org}}</ref>
+*{{flagcountry|Kingdom of Serbia}}: [[Order of the White Eagle (Serbia)|Grand Cross of the White Eagle]]
+*{{flagicon|Thailand|1855}} [[Siam]]: Knight of the [[Order of the Royal House of Chakri]], ''1 June 1902''<ref>{{Cite journal |date=1 June 1902 |title=ส่งเครื่องราชอิสริยาภรณ์ไปพระราชทาน |url=http://www.ratchakitcha.soc.go.th/DATA/PDF/2445/009/147_1.PDF |url-status=dead |journal=[[Royal Thai Government Gazette]] |language=th |archive-url=https://web.archive.org/web/20160304214904/http://www.ratchakitcha.soc.go.th/DATA/PDF/2445/009/147_1.PDF |archive-date=4 March 2016 |access-date=8 May 2019}}</ref>
+*{{flag|Spain|1785}}: Grand Cross of the [[Order of Charles III]], with Collar, ''5 May 1906''<ref>{{citation|chapter-url=http://hemerotecadigital.bne.es/issue.vm?id=0001011466&search=&lang=es|chapter=Real y distinguida orden de Carlos III|title=Guía Oficial de España|date=1914|access-date=21 March 2019|page=200}}</ref>
+*{{flagicon|Sweden|1844}} {{flagicon|Norway|1844}} [[Sweden-Norway]]: [[Order of the Seraphim|Knight of the Seraphim]], ''19 September 1890''<ref>{{citation|title=Sveriges statskalender|year=1905|page=440|url=https://runeberg.org/statskal/1905/0464.html|via=runeberg.org|access-date=6 January 2018|language=sv}}</ref>
+*{{flagcountry|Russian Empire|1858}}:
+** [[Order of St. Andrew|Knight of St. Andrew]], ''1891''
+** [[Order of St. Alexander Nevsky|Knight of St. Alexander Nevsky]]
+** [[Order of the White Eagle (Russia)|Knight of the White Eagle]]
+** [[Order of St. Anna|Knight of St. Anna]], 1st Class
+** [[Order of Saint Stanislaus (House of Romanov)|Knight of St. Stanislaus]], 1st Class
+*{{flagcountry|United Kingdom of Great Britain and Ireland}}:
+** [[Order of the Bath|Honorary Grand Cross of the Bath]] (civil), ''19 February 1901''<ref name="p216">{{Cite book |last1=Shaw |first1=William Arthur |url=https://archive.org/details/cu31924092537418 |title=The knights of England; a complete record from the earliest time to the present day of the knights of all the orders of chivalry in England, Scotland, and Ireland, and of knights bachelors |last2=Burtchaell |first2=George Dames |date=1906 |publisher=Printed and published for the Central chancery of the orders of knighthood, Sherratt and Hughes |location=London |pages=216}}</ref>
+** [[Order of the Garter|Stranger Knight Companion of the Garter]], ''15 July 1902''<ref>{{London Gazette|issue=27454|page=4509| date=15 July 1902}}</ref>
+** Commemorative Medal for the Diamond Jubilee of [[Queen Victoria]]
+** Silver Commemorative Medal for the Coronation of [[King Edward VII]]
+}}
+
+{| class="wikitable" style="margin:1em auto; text-align:center;"
+|+Arms and monogram
+| [[File:Coat of Arms of Archduke Franz Ferdinand of Austria.svg|185px]]<br />[[Armorial achievement]] of Franz Ferdinand, Archduke of Austria-Este
+| [[File:Imperial Monogram of Archduke Franz Ferdinand of Austria.svg|78px]]<br />Imperial Monogram
+|}
+
+==See also==
+* [[List of heirs to the Austrian throne]]
+
+==Footnotes==
+{{Notelist}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* {{cite book |last=Clark |first=Christopher|author-link=Chris Clark (historian) |title=The Sleepwalkers: How Europe Went to War in 1914 |url=https://books.google.com/books?id=TE0iZ4U2ZvUC |year=2013 |publisher=HarperCollins |isbn=978-0-06-219922-5}}
+* {{Cite journal |last=Fomenko |first=A. |date=2009 |title=There Was an Alternative! The Legacy of Franz Ferdinand |url=https://viperson.ru/uploads/attachment/file/2279/LegacyofFranzFerdinand.doc.pdf |journal=International Affairs: A Russian Journal of World Politics, Diplomacy & International Relations |volume=55 |issue=3 |pages=177–184}}
+* {{Cite book |last=Fromkin |first=David |url=https://books.google.com/books?id=2c1mAAAAMAAJ |title=Europe's last summer: who started the Great War in 1914? |publisher=Knopf |year=2004 |isbn=978-0-375-41156-4 |edition=1st |series=A Borzoi book |location=New York}}
+* {{Cite book |last=Ponting |first=Clive |url=https://books.google.com/books?id=a9BmAAAAMAAJ |title=Thirteen days: the road to the First World War |publisher=Chatto & Windus |year=2002 |isbn=978-0-7011-7293-0 |location=London}}
+* {{Cite book |last=Williamson |first=Samuel R. |author-link=Samuel R. Williamson, Jr. |url=https://books.google.com/books?id=isJvQgAACAAJ |title=Austria-Hungary and the origins of the First World War |publisher=St. Martin's Press |year=1991 |isbn=978-0-312-05239-3 |series=The Making of the 20th century |location=New York}}
+
+==External links==
+{{Commons category|Archduke Franz Ferdinand of Austria}}
+{{wikiquote}}
+*{{YouTube|C2yrtph0MyU|Video: Franz Ferdinand's Funeral}}
+* [http://www.europeanfilmgateway.eu/node/33/franz%20ferdinand%20efg1914/multilingual:1/showOnly:video Newsreels about Franz Ferdinand's assassination at www.europeanfilmgateway.eu]
+*{{Cite EB1922 |last=Pribram |first=Alfred Francis |wstitle=Francis Ferdinand|short=x}}
+* {{PM20|FID=pe/005486}}
+
+{{S-start}}
+{{s-hou|[[House of Habsburg|House of Habsburg-Lorraine]]|18 December|1863|28 June|1914|[[Lorraine (province)|House of Lorraine]]}}
+{{s-roy|}}
+{{Succession box|before=[[Francis V, Duke of Modena|Francis II]]|title=[[Archduke of Austria-Este]]|years=1875–1914|after=[[Charles I of Austria|Charles]]}}
+{{s-pre|}}
+{{s-bef|before=[[Francis V, Duke of Modena|Francis V]]}}
+{{s-tul|title=[[List of Dukes of Ferrara and of Modena#Habsburg – Este Dukes of Modena and Reggio, 1814–1860|Duke of Modena]]|years=1875–1914|reason=}}
+{{s-aft|after=[[Charles I of Austria|Charles]]}}
+{{s-end}}
+
+{{Austrian archdukes}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Franz Ferdinand Of Austria, Archduke}}
+[[Category:Archduke Franz Ferdinand of Austria| ]]
+[[Category:1863 births]]
+[[Category:1914 deaths]]
+[[Category:People murdered in 1914]]
+[[Category:Assassinated Austrian people]]
+[[Category:Assassinated royalty]]
+[[Category:House of Austria-Este]]
+[[Category:Austrian adoptees]]
+[[Category:Austrian people murdered abroad]]
+[[Category:Austrian princes]]
+[[Category:Austrian Roman Catholics]]
+[[Category:Austro-Hungarian admirals]]
+[[Category:Austro-Hungarian generals]]
+[[Category:Deaths by firearm in Bosnia and Herzegovina]]
+[[Category:Extra Knights Companion of the Garter]]
+[[Category:Grand Crosses of the Order of Aviz|2]]
+[[Category:Grand Crosses of the Order of Christ (Portugal)|2]]
+[[Category:Grand Crosses of the Order of Saint Stephen of Hungary]]
+[[Category:Grand Crosses of the Order of the Star of Romania]]
+[[Category:Honorary Knights Grand Cross of the Order of the Bath]]
+[[Category:House of Habsburg-Lorraine]]
+[[Category:Hungarian Roman Catholics]]
+[[Category:Knights of the Golden Fleece of Austria]]
+[[Category:Members of the Order of the Holy Sepulchre]]
+[[Category:Knights of the Order of Saint Joseph]]
+[[Category:People from Graz]]
+[[Category:People killed in intelligence operations]]
+[[Category:People murdered in Bosnia and Herzegovina]]
+[[Category:Recipients of the Order of St. Anna, 1st class]]
+[[Category:Recipients of the Order of Saint Stanislaus (Russian), 1st class]]
+[[Category:Recipients of the Order of the White Eagle (Russia)]]
+[[Category:Royalty of Austria-Hungary]]
+[[Category:People assassinated in the 20th century]]
+[[Category:Heirs presumptive]]
